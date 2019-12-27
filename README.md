@@ -16,7 +16,7 @@ http://pockettv.xyz/api/zee.m3u8?c=sanskartv
 https://lbor3kjlqvaj-hls-live.wmncdn.net/1174/kvabr/03260d30edc1c82404d346e83555a5da.sdp/tracks-v3a1/index.m3u8
 	
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Divya_TV.png?raw=true" group-title="bajan",Divya
-http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w927914309.m3u8
+http://edge-ind.inapcdn.in:1935/berry1/laenglish movie.stream_aac/chunklist_w927914309.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/divyatv/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Satsang_TV.png?raw=true" group-title="bajan",satsang
@@ -30,53 +30,48 @@ http://pockettv.xyz/api/zee.m3u8?c=satsangtv
 
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus hd
-http://fr-c.movply.stream/hls/Star_Plus.m3u8
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43843
 
-#EXTINF:0  tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="entertainment",Sony HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43846
+#EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony.png?raw=true" group-title="entertainment",Sony 
+http://103.118.76.229:1935/tvprogram/SONY-HD/playlist.m3u8
 
-#EXTINF:0  tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="entertainment",Sony 
-https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
+#EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony HD
+https://sony247channels.akamaized.net/hls/live/2008252/SETHD/hdntl=exp=1577468947~acl=%2f*~data=hdntl~hmac=572e7fff6a5b5a337ece4de4d328429784e548c26b75b4af79961c559ac276d5/master_3500.m3u8
 
-#EXTINF:0 tvg-id="Andtv HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="entertainment",And TV HD
+#EXTINF:0 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
 http://pockettv.xyz/api/zee.m3u8?c=andtvhd
 
-#EXTINF:0 tvg-id="zee tv hd" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="entertainment",Zee HD
+#EXTINF:0 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 
-#EXTINF:0 tvg-id="Star Bharat hd" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="entertainment",Star Bharat HS
+#EXTINF:0 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star Bharat HS
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43840
  
-#EXTINF:0 tvg-id="SONY SAB HD" group-title="entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB
+#EXTINF:0 tvg-id="SONY SAB" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB.png?raw=true" group-title="entertainment",Sony SAB
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 
-#EXTINF:0 tvg-id="SONY SAB HD" group-title="entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
+#EXTINF:0 tvg-id="SONY SAB HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB_HD.png?raw=true" group-title="entertainment",Sony SAB HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43850 
 
 
-#EXTINF:0 tvg-id="sony pal" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_spin_lam.jpg" group-title="entertainment",Sony Pal 
+#EXTINF:0 tvg-id="sony pal" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Pal.png?raw=true" group-title="entertainment",Sony Pal 
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43851
 
-#EXTINF:0 tvg-id="COLORS" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="entertainment",COLOR 
-http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
+#EXTINF:0 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR 
+http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65388
 
-#EXTINF:0 tvg-id="COLORS" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="entertainment",COLORS hd
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43856
+#EXTINF:0 tvg-id="COLOR" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors_HD.png?raw=true" group-title="entertainment",COLORS hd
+https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
-#EXTINF:0 tvg-id="mtv1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_spin_lam.jpg" group-title="entertainment",mtv1 hd
-http://iptv.kitv.live:1935/live/Shari/MTV-P/181.ts
 
-#EXTINF:0 tvg-id="Z Anmol" group-title="entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
+#EXTINF:0 tvg-id="Z Anmol" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Anmol.png?raw=true" group-title="entertainment",Zee Anmol
 http://pockettv.xyz/api/zee.m3u8?c=zeeanmol
 
-#EXTINF:0 tvg-id="N.A" group-title="entertainment",MTV Beats HD
+#EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",MTV Beats HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43915
 
-#EXTINF:0 tvg-id="N.A"  group-title="entertainment",MTV PLUS 
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_HD_Plus.png?raw=true" group-title="entertainment",MTV PLUS HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43916
-
-#EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/91021_BIG_Magic_Logo-1.jpg" group-title="entertainment",Big Magic
-http://pockettv.xyz/api/zee.m3u8?c=bigmagic
 
 
 
@@ -181,8 +176,8 @@ http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
 
 .......................................................................................................................................................................................................................................
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Aaj_Tak.png?raw=true" group-title="NEWS",Aaj Tak  
-https://vidcdn.vidgyor.com/at-origin/live2/chunks.m3u8
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Aaj_Tak_HD.png?raw=true" group-title="NEWS",aajtaak hd
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/ABP_News_India.png?raw=true" group-title="NEWS",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
@@ -199,14 +194,12 @@ https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_News_UP.png?raw=true" group-title="NEWS",India News
 https://streamer.multitvsolution.in/live/IndiaNews-e/p4.m3u8
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Aaj_Tak_HD.png?raw=true" group-title="NEWS",aajtaak hd
-https://playback.akamaized.net/streams/27265481_8490606_lsip2rddhtv5zu95h7b_1/media/27265481_8490606_lsip2rddhtv5zu95h7b_1@4628000p.m3u8?dw=80&ts=1576825200&hdnts=exp=1576998336~acl=/streams/27265481_8490606_lsip2rddhtv5zu95h7b_1/media*~hmac=8c488ddc944299b5998d60882634c5336d2be9b95620dca81100ec6f2ce03bb5
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_UP.png?raw=true" group-title="NEWS",NEWS18 UP
 https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_5_av-p.m3u8
 
-#EXTINF:0 tvg-logo="https://images.newsx.com/wp-content/themes/newsxlite/images/india-news-up.png" group-title="NEWS",INDIA NEWS UTTAR PRADES
-https://streamidea.multitvsolution.in/live/IndiaNewsUP-g/p4.m3u8
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_UP.png?raw=true" group-title="NEWS",IBC 24 NEWS
+https://stream2.ibc24.in/livestream.m3u8?__nn__=5606168722001&hdnea=1577178000_a21ad6364d32739b985255b77a4a45b7
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFcHOY09EQnqf6byubZQlTmpPCHxQSidIYrQScTsWN5XcxIu0f" group-title="NEWS",AMAR UJALA
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
@@ -304,32 +297,32 @@ https://stream1.jeem.tv/geo/geonews_abr/playlist.m3u8
 .......................................................................................................................................................................................................
 
 
-#EXTINF:0 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="movie",Sony Max HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43847
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX_HD.png?raw=true" group-title="movie",Sony Max HD
+http://sony247channels.akamaized.net/hls/live/2008251/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1577129400_72d8364283b1448c134e43b01b6b4294
 
-#EXTINF:0 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="movie",Zee Cinema HD
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
 http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
 
-#EXTINF:0 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png" group-title="movie",Star Gold HS
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star Gold HS
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43841
 
-#EXTINF:0 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png" group-title="movie",Star Select HD 
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_Select_HD.png?raw=true" group-title="movie",Star Select HD 
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43842
 
-#EXTINF:0 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="movie",And Pictures hd
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
 http://pockettv.xyz/api/zee.m3u8?c=andpicshd
 
-#EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg" group-title="movie", BOLLYWOOD HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
-
-#EXTINF:0 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="movie",Sony Max sd
-https://sony247channels.akamaized.net/hls/live/2002597/SonyMaxSD/master_900.m3u8
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX.png?raw=true" group-title="movie",Sony Max sd
+https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Shemaroo_Logo.png"  group-title="movie",shemaroome
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 
 #EXTINF:0  tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="movie",Bollywood Now
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+
+#EXTINF:0  tvg-logo="https://www.shemarooent.com/images/shemaroo-me.png" group-title="movie",Bollywood Premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_central2.jpg" group-title="movie", MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
@@ -343,19 +336,16 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(167772
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/851px-Sony_MAX.svg.png" group-title="movie",SetMaX
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 
-#EXTINF:0  tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="movie",Zee Cinema
+#EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="movie",Zee Cinema
 http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
 
-#EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/11401_ZeeAnmolCinema1.jpg" group-title="movie",ZEE ANMOL CINEMA
-http://pockettv.xyz/api/zee.m3u8?c=zanmolcnm
-
-#EXTINF:0 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="movie",Zee Bollywood
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Bangla_Cinema.png?raw=true" group-title="movie",Zee Bollywood
 http://pockettv.xyz/api/zee.m3u8?c=classic
 
-#EXTINF:0 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png"  group-title="movie",Zee Action
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Action.png?raw=true"  group-title="movie",Zee Action
 http://pockettv.xyz/api/zee.m3u8?c=action
 
-#EXTINF:0 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="movie",B4U Movies
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/B4U_Movies.png?raw=true" group-title="movie",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/b4u_plus_ae.jpg" group-title="movie", B4U PLUS
@@ -364,10 +354,10 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:0 tvg-logo="http://skystarmovies.com/wp-content/uploads/2018/05/logo.png" group-title="movie",SKYSTAR MOVIES
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
 
-#EXTINF:0 tvg-logo="https://j2apps.s.llnwi.net/is1/media/images/6521.Movieplus.in/1x1/test_pic1559821113768.jpg" group-title="movie",Movie Plus
+#EXTINF:0 tvg-logo="https://j2apps.s.llnwi.net/is1/media/images/6521.Movieplus.in/1x1/english movie_pic1559821113768.jpg" group-title="movie",Movie Plus
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
 
-#EXTINF:0 tvg-logo="https://j2apps.s.llnwi.net/is1/media/images/6523.BOXCinema.in/1x1/test_pic1561284881697.jpg" group-title="movie",BOX CINEMA
+#EXTINF:0 tvg-logo="https://j2apps.s.llnwi.net/is1/media/images/6523.BOXCinema.in/1x1/english movie_pic1561284881697.jpg" group-title="movie",BOX CINEMA
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="movie",Sony Wah 
@@ -392,7 +382,7 @@ http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 http://130.185.150.79:1935/trunk/Bflix-Movies/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cafe.png?raw=true" group-title="movie",Zee Cafe SD
-http://pockettv.xyz/api/zee.m3u8?c=cinemausa
+http://pockettv.xyz/api/zee.m3u8?c=zeecafesd
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cafe.png?raw=true" group-title="movie",Zee Cafe HD
 http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
@@ -401,7 +391,7 @@ http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/HBO_HD.png?raw=true" group-title="movie",HBO hd
-http://jprdigitalott.com/media/HBOHD.mpd
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49557
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="movie",Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8?sd=10&rebase=on
@@ -434,7 +424,7 @@ http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD374L240P/playlist.
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Viasat_epic_drama_logo.jpg" group-title="music",Epic Drama
-http://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+http://sony247channels.akamaized.net/hls/live/2008248/EPICCHANNEL/hdntl=exp=1577214821~acl=%2f*~data=hdntl~hmac=214fc9fb49036bc82f7e8369024c565b6fe7ba16d348b9177d626f86b74b83be/master_2128.m3u8
 
 
 
@@ -445,13 +435,13 @@ http://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Yay_Hindi.png?raw=true" group-title="kids",SONY YAY
-https://sony247channels.akamaized.net/hls/live/2002598/SonyYaySD/master_900.m3u8
+https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",hungama
 http://jprdigitalott.com/media/Hungama.mpd
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_net_cartoon.jpg" group-title="kids",Marvel HQ
-http://jprdigitalott.com/media/DisneyXD.mpd
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Cartoon_Network_Hindi.png?raw=true" group-title="kids",cartoon network
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
@@ -463,7 +453,7 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Nick_HD_Plus.png?raw=true" group-title="kids",Nick_Jr 
-http://144.217.70.223:8080/Nick_Jr_UK_kids/index.m3u8 
+http://95.170.215.118/hls/m3u8/Nickelodeon-JR.m3u8 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Disney_XD.png?raw=true" group-title="kids",Disney_XD_HD_USA 
 http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8
@@ -478,7 +468,7 @@ http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_1_HD.png?raw=true" group-title="sports",Sony Ten1 HD
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/8138
+https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/hdntl=exp=1577373314~acl=%2f*~data=hdntl~hmac=8f21e97b6017fe1cd2b8a25096956db4bb7c34c8ff67b1dc300462de17518c07/master_696.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_2_HD.png?raw=true" group-title="sports",Sony TEN2 HD
 http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/15557
@@ -495,30 +485,37 @@ http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/8122
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",gtv
 http://103.118.76.229:1935/tvprogram/GAZI-TV/media_w1909850710_15853.m3u8
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",star sport 1 hd
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/8114
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hd
+http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65357
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_HD_2.png?raw=true" group-title="sports",STAR SPORTS 2 HD
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/8115
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_2.png?raw=true" group-title="sports",STAR SPORTS 2 HD
+http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65358
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_HD_1.png?raw=true" group-title="sports",STAR select 
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR select 
 http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/12049
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_HD_1.png?raw=true" group-title="sports",STAR SPORTS SELECT 1
-http://iptv.kitv.live:1935/live/Shari/MTV-P/194.ts
+http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65356
+
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_Select_HD_2.png?raw=true" group-title="sports",Star Sports Select 2
+http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65355
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_Sports.png?raw=true" group-title="sports",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in_480p/index.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="sports",Sky Sports Cricket
+http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
 
-
-
+#EXTINF:0 tvg-logo="" group-title="sports",willow hd 
+http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65346
 
 .................................................................................................................................................................
 
+#EXTINF:0 tvg-logo="http://memestamil.com/hindifm/img/radiocity.png" group-title="radio",Radio City
+http://prclive1.listenon.in:9960/
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_turbo_ru.jpg"  group-title="earth",Sony BBC Earth HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43849
+http://103.118.76.229:1935/tvprogram/BBC-EARTH/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-32C279A19D-seeklogo.com.png"  group-title="earth",discovery
@@ -540,7 +537,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/04.m3u8
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Epic.png?raw=true"  group-title="earth",epic 
-https://sony247channels.akamaized.net/hls/live/2008248/EPICCHANNEL/master_2128.m3u8
+https://sony247channels.akamaized.net/hls/live/2008248/EPICCHANNEL/hdntl=exp=1577262078~acl=%2f*~data=hdntl~hmac=173c816a161b5dc2aa94cdfe79c4fe2a6c0a5db2224c2b84af1ad4fece272c52/master_2128.m3u8
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/fashion-tv-logo-png-3.png" group-title="earth", Fashion TV
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
@@ -558,185 +555,231 @@ https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 
 
 ...............................................................................................................................................................................
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greatest_hits_tv_uk.jpg" group-title="test",kk
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greatest_hits_tv_uk.jpg" group-title="test",kk2
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",ROMEDY NOW HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49568
 
-#EXTINF:0  tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greatest_hits_tv_uk.jpg" group-title="test",sony
-http://snoidcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/packagerx_mpd3/Sony_HD_HLS/5.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",SONY BBC EARTH ENGLISH HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49569
 
-#EXTINF:0  tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greatest_hits_tv_uk.jpg" group-title="test",color HD
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",STAR MOVIES HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49570
 
-#EXTINF:0  tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greatest_hits_tv_uk.jpg" group-title="test",sony mx
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",STAR MOVIES SELECT HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49571
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greatest_hits_tv_uk.jpg" group-title="test",sony sub
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",STAR WORLD HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49572
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greatest_hits_tv_uk.jpg" group-title="test",restey
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey/Rishtey_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",STAR WORLD PREMIER HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49573
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greatest_hits_tv_uk.jpg" group-title="test",nick
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Junior/Nick_Junior_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",TATA SKY KIDS CINEMA
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49574
 
-EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greatest_hits_tv_uk.jpg" group-title="test",nick hindi
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Hindi/Nick_Hindi_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",TATA SKY WORLD CINEMA HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49575
 
-EXTINF:0 group-title="test",cartoon network
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",THE QYOU
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49576
 
-EXTINF:0 group-title="test",history
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_18_Hindi/History_18_Hindi_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",TIMES NOW NEWS HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49577
 
-EXTINF:0 group-title="test",TLC
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TLC_Hindi/TLC_Hindi_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",TLC WORLD HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49578
 
-EXTINF:0 group-title="test",JEET
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ID/ID_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",TRAVEL XP HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49579
 
-EXTINF:0 group-title="test",ANIMAL PLANET
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Animal_Planet_HD/Animal_Planet_HD_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",VH1 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49580
 
-EXTINF:0 group-title="test",SONY BBC E
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",WARNER BROS
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49581
 
-EXTINF:0 group-title="test",discovery tur
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Turbo/Discovery_Turbo_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
-
-EXTINF:0 group-title="test",sony pix
-http://snoidcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/packagerx_mpd3/Sony_Pix_HD_HLS/5.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
-
-EXTINF:0 group-title="test",movies now
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Movies_Now_HD/Movies_Now_HD_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
-
-EXTINF:0 group-title="test",colors inf
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Infinity_HD/Colors_Infinity_HD_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
-
-EXTINF:0 group-title="test",axn hd
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/AXN_HD/AXN_HD_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
-
-EXTINF:0 group-title="test",mtv beat
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
-
-EXTINF:0 group-title="test",mtv hd
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV_HD_Plus/MTV_HD_Plus_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
-
-EXTINF:0 group-title="test",zee action
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Action/Zee_Action_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg
-
-#EXTINF:0 group-title="test",Starb1
-http://starbharat-i.akamaihd.net/hls/live/569933-b/starbharat/master_2000.m3u8
-
-#EXTINF:0 group-title="test",Star Utsav
-http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",ZEE CAFE HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49582
 
 
 
 
 ..................................................................................................................................................................
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/red-fm15.jpg" group-title="radio",Red 93.5 FM
+http://prclive1.listenon.in:8808/
 
-
-#EXTINF:0 group-title="radio",music 2
-https://airfmgold-lh.akamaihd.net/i/fmgold_1@507591/index_1_a-p.m3u8?sd=10&rebase=on
-
-#EXTINF:0 tvg-logo="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-1/p48x48/13412944_863083600464978_3599626108267777363_n.jpg" group-title="radio",Radio Zindagi	
-https://mirchidelhi-lh.akamaihd.net/i/Mirchi_Delhi@693087/index_1_a-b.m3u8?sd=10&rebase=on
-
-#EXTINF:0 group-title="radio",FM Gold	
-http://airfmgold-lh.akamaihd.net/i/fmgold_1@507591/master.m3u8
-
-#EXTINF:0 group-title="radio",Radiom	
-http://peridot.streamguys.com:7150/Mirchi
-
-#EXTINF:0 group-title="radio",Vividh Bharati	
-https://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/index_1_a-p.m3u8?sd=10&rebase=on
-
-#EXTINF:0 group-title="radio",Radio 91.1 FM	
-http://prclive1.listenon.in:9960/
-
-#EXTINF:0 group-title="radio",92.7 BIG FM	
-http://sc-bb.1.fm:8017/
-
-#EXTINF:0 group-title="radio",Air FM Gold	
-http://51.15.208.163:8081/radio/fmgold/icecast.audio
-
-#EXTINF:0 group-title="radio",Radio City Lata Mangeshkar	
-http://prclive1.listenon.in:8832
-
-#EXTINF:0 group-title="radio",Non Stop Hindi Radio	
-http://198.178.123.14:8216/
-
-#EXTINF:0 group-title="radio",Radio Ghazal	
-https://mirchimahfil-lh.akamaihd.net/i/MirchiMehfl_1@120798/index_1_a-b.m3u8
-
-#EXTINF:0 group-title="radio",NDTV INDIA	
-http://51.15.208.163:8081/radio/ndtv_india/icecast.audio
-
-#EXTINF:0 group-title="radio",Radio City Asha Bhosle	
-http://prclive1.listenon.in:8812/
-
-#EXTINF:0 group-title="radio",Arijit Singh Radio	
-http://southradios.net:9090/arijitsinghradio
-
-#EXTINF:0 group-title="radio",Retro Bollywood 
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://64.71.79.181:5124/listen.pls?sid=1&t=.m3u
-
-#EXTINF:0 group-title="radio",Hits Of Bollywood 
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://50.7.77.115:8174/listen.pls&t=.m3u
-
-#EXTINF:0 group-title="radio", Mix Nation	
-http://72.44.89.82:8000/
-
-#EXTINF:0 group-title="radio",Retro Bollywood	
-http://64.71.79.181:5124
-
-#EXTINF:0 group-title="radio",Radio HSL 
-http://50.7.68.251:7064
-
-#EXTINF:0 group-title="radio",Hits Of Bollywood	
-http://50.7.77.115:8174/
-
-#EXTINF:0 group-title="radio",My Masti Radio	
-http://144.217.203.184:9056/
-
-#EXTINF:0 group-title="radio",Desi Music Mix!	
+#EXTINF:0 tvg-logo="https://cdn.webrad.io/images/logos/onlineradios-in/desi-music-mix-india.png" group-title="radio",Desi Music Mix India
 http://66.23.234.242:8012/
 
-#EXTINF:0 group-title="radio",CARIBBEAN SUPER MIX RADIO BOLLYWOOD	
-http://173.236.19.90:8149/
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/retrohindi.png" group-title="radio",Purani Jeans
+https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/index_1_a-p.m3u8
 
-#EXTINF:0 group-title="radio",Radio 88	
-http://178.33.251.97:8686/
+#EXTINF:0 tvg-logo="https://images.sportsflashes.com/1549545514-sflogo.png" group-title="radio",Hindi Cricket
+https://securestreams2.autopo.st:1079/sportsflashes_cricket
 
-#EXTINF:0 group-title="radio",Radio Central	
-http://176.31.107.8:8459/
+#EXTINF:0 tvg-logo="https://onlineradiofm.in/assets/image/radio/180/zabardast-hit95fm-logo.png" group-title="radio",Hit 95 FM
+http://50.7.77.115:8174/;?type=.mp3/;stream.mp3
 
-#EXTINF:0 group-title="radio",Intamixx 
-http://50.7.70.58:8333/
+#EXTINF:0 tvg-logo="https://i.ebayimg.com/images/g/p8AAAOSws65TozqX/s-l300.jpg" group-title="english movie",Radio Love Guru
+https://prclive4.listenon.in/Ishq
 
-#EXTINF:0 group-title="radio",Mehefil Radio	
-http://mehefil.no-ip.com/
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/bongonet.png" group-title="radio",RHI
+http://radio.bongonet.net:8012/rhi
 
-#EXTINF:0 group-title="radio",Radio Garam Masala	
-http://69.175.94.98:8146/
+#EXTINF:0 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/lhwpswmyudvr.png" group-title="radio",Shemaroo Bhakti	
+https://radiobhakti.shemaroo.com/hariomradio/Stream1_aac/chunklist_w324991546.m3u8
 
-#EXTINF:0 group-title="radio",RDehotties	
-http://37.59.41.35:15054/
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ciberfmindia.png" group-title="radio",CyberFM India	
+http://node-23.zeno.fm/uqxv1xvuzrquv.aac?rj-ttl=5&rj-tok=AAABboRtn2MAagx_n7kB50VPKA
 
-#EXTINF:0 group-title="radio",Nitnut Radio	
-http://185.193.112.155:18952/
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/abeeradio.png" group-title="radio",Abee radio	
+https://abee.radioca.st/stream
 
-#EXTINF:0 group-title="radio",RadioCityIN Hindi Radio	
-http://208.115.222.203:9960/
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/radio-selfie.png" group-title="radio",Radio Selfie
+https://streams.radio.co/s69032f19e/listen
 
-#EXTINF:0 group-title="radio",GRadio	
-http://149.56.195.94:8057/
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/bollywood-punjabi-radio-logo.png" group-title="radio",Bollywood Punjabi Radio
+http://node-18.zeno.fm/1k0y9f0cm0quv?rj-ttl=5&rj-tok=AAABboRo2dYAx9HyD1m-UZeG3w
 
-#EXTINF:0 group-title="radio",Radio Dabang 105.3FM (USA)	
-udp://@227.40.50.31:2001
+#EXTINF:0 tvg-logo="http://www.5riversradio.com/images/sukhdev.jpg" group-title="radio",5 rivers radio
+http://188.165.240.90:9510/;stream/1 
+
+#EXTINF:0 tvg-logo="http://www.desimixradio.com/wp-content/uploads/2018/12/desimix-isolated-logo-ver2.png" group-title="radio",Desi Music Mix!
+http://66.23.234.242:8012/;stream/1
+
+#EXTINF:0 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/8/75998.v4.png" group-title="radio",Sitara FM
+http://server-25.stream-server.nl:8348/stream
+
+#EXTINF:0 tvg-logo="https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/jazbaa-fm-hindi-radio.jpg" group-title="radio",Jazbaa FM
+https://stream.radio.co/s0e4cf6d8e/listen
+
+#EXTINF:0 tvg-logo="https://cdn.webrad.io/images/logos/radio-org-nz/tarana.png" group-title="radio",Radio Tarana 
+http://peridot.streamguys.com:7150/Tarana.aac
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1024400715895136256/ya7ODreI_400x400.jpg" group-title="radio",HUMM FM
+https://cp12.serverse.com/proxy/hummfm?mp=/live
+
+#EXTINF:0 tvg-logo="https://d368qv66y0shpj.cloudfront.net/featured_content/347160f7c385ec130ac12c4f6c107216_200x200.jpg" group-title="radio",Hungama Dil Se
+http://103.16.47.70:7333/;stream.nsv
+
+#EXTINF:0 tvg-logo="https://d368qv66y0shpj.cloudfront.net/featured_content/946f1eeebc4ae350cd011b5e65ba6a92_200x200.jpg" group-title="radio",Hungama Classical
+http://103.16.47.70:9999/;stream.nsv
+
+#EXTINF:0 tvg-logo="https://d368qv66y0shpj.cloudfront.net/featured_content/9db33d20bf6eb622b88ac5240031a5a0_200x200.jpg" group-title="radio",Hungama Dance Mast
+http://103.16.47.70:9222/;stream.nsv
+
+#EXTINF:0 tvg-logo="https://d368qv66y0shpj.cloudfront.net/featured_content/87e13ac99d76ef735f9b00db46606f4b_200x200.jpg" group-title="radio",Hungama Evergreen
+http://103.16.47.70:7666/;stream.nsv
+
+#EXTINF:0 tvg-logo="https://d368qv66y0shpj.cloudfront.net/featured_content/65e8fb1f34672cc1cff6753087450bb9_200x200.jpg" group-title="radio",Hungama Hot Now
+http://103.16.47.70:7222/;stream.nsv
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shiva.png" group-title="radio",Bhakti World - Shiva
+http://hot.out.airtime.pro:8000/hot_a
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/hanuman.jpg" group-title="radio",Bhakti World - Hanuman
+http://2bhanuman.out.airtime.pro:8000/2bhanuman_a
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ganesha.jpg" group-title="radio",Bhakti World - Ganesh 
+http://radio2bindia.out.airtime.pro:8000/radio2bindia_a
+
+#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/logo/8/79898.v1.png" group-title="radio",Bhakti World
+http://ibadat.out.airtime.pro:8000/ibadat_a
+
+#EXTINF:0 tvg-logo="https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/radio-azard-fm.jpg" group-title="radio",Radioazad FM
+http://162.244.80.30:8234/;stream.mp3
+
+#EXTINF:0 tvg-logo="https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/hungama-90s-super-hits.jpg" group-title="radio",Hungama 90s SuperHits
+http://103.16.47.70:7444/;stream.mp3
+
+#EXTINF:0 tvg-logo="https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/arijit-singh-radio.jpg" group-title="radio",ARIJIT SINGH RADIO
+http://southradios.net:9090/arijitsinghradio
+
+#EXTINF:0 tvg-logo="https://radiosindia.com/images/arrahman.jpg" group-title="radio",AR Rahman Radio
+http://southradios.net:9090/arrahmanhindiradio
+
+#EXTINF:0 tvg-logo="https://radiosindia.com/images/fnffm.jpg" group-title="radio",FNF FM
+http://192.99.8.192:5032/stream
+
+#EXTINF:0 tvg-logo="https://radiosindia.com/images/bestofindiepopradio.jpg" group-title="radio",Indie Pop Bollywood
+http://103.16.47.70:7111/;stream.mp3
+
+#EXTINF:0 tvg-logo="https://radiosindia.com/images/bestofghazals.jpg" group-title="radio",Ghazals Hindi
+http://103.16.47.70:9777/;stream.mp3
+
+#EXTINF:0 tvg-logo="https://radiosindia.com/images/radios1dhamaka.jpg" group-title="radio",S1 Dhamaka Hindi
+http://162.244.81.30:8050/
+
+#EXTINF:0 tvg-logo="https://radiosindia.com/images/bwclassics.jpg" group-title="radio",b & w classics Bollywood
+http://103.16.47.70:7888/
+
+
+#EXTINF:0 tvg-logo="https://radiosindia.com/images/60sforever.jpg" group-title="radio",60s forever Bollywood
+http://103.16.47.70:6222/
+
+#EXTINF:0 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/fb/bd/56/fbbd56ba-76c0-b1ac-073a-68556d08dd28/source/512x512bb.jpg" group-title="radio",Hindi Music Radio
+http://5.196.56.208:8308/;stream/1
+
+#EXTINF:0 tvg-logo="https://radiosindia.com/images/nukehindioldhits.jpg" group-title="radio",Nuke Hindi
+http://live.nukeradio.com:8016/stream3
+
+#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/logo/7/3777.png" group-title="radio",Sada Bahar
+http://192.240.102.133:8512/stream/
+
+#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/3776.v1.png" group-title="radio",Bollywood Evergreen
+http://192.240.102.133:11454/stream
+
+#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/logo/3/29303.png" group-title="radio",iWiFM
+http://s2.myradiostream.com:29270/
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/radiomastana.jpg" group-title="radio",Radio Mastana
+http://radiomastanaaustralia.serverroom.net:9170/;stream.mp3
+
+#EXTINF:0 tvg-logo="https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/mashup-102-radio.jpg" group-title="radio",Mashup102 Radio
+http://163.172.213.155:8010/stream
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/RadioJSR.png" group-title="radio",JSR Radio
+http://198.7.59.28:8078/stream/1/
+
+#EXTINF:0 tvg-logo="http://marci1683.marci.io/img/albums/cache/custom_skin_3_Meet%20Bros%20Anjjan%20and%20Kanika%20Kapoor%7C%7CChittiyaan%20Kalaiyaan%20(From%20Roy%20).jpg" group-title="radio",spiceradio.ca
+http://149.56.147.197:9091/
+
+#EXTINF:0 tvg-logo="https://cdn.webrad.io/images/logos/onlineradios-in/indifun-radio.png" group-title="radio",Indifun Radio
+http://indifun.net:7000/
+
+#EXTINF:0 tvg-logo="http://memestamil.com/hindifm/img/suno1024fm.jpg" group-title="radio",Suno 1024 FM
+http://50.7.71.27:9693/
+
+#EXTINF:0 tvg-logo="http://static.radio.net/images/broadcasts/51/c7/23196/c175.png" group-title="radio",Aakashvani Hindi FM
+http://media.guardian.co.tt:8000/aakashvaniradio
+
+#EXTINF:0 tvg-logo="http://memestamil.com/hindifm/img/FMGold.jpg" group-title="radio",Air FM GOLD
+http://airfmgold-lh.akamaihd.net/i/fmgold_1@507591/index_1_a-p.m3u8
+
+#EXTINF:0 tvg-logo="http://memestamil.com/hindifm/img/air-vividh-bharati.png" group-title="radio",Air Vividh Bharati
+http://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/index_1_a-p.m3u8
+
+#EXTINF:0 tvg-logo="http://memestamil.com/hindifm/img/ujala-radio.png" group-title="radio",Ujala Radio
+http://stream2.ujala.nl/stream/2/listen.mp3
+
+#EXTINF:0 tvg-logo="http://memestamil.com/hindifm/img/radiomirchi.jpg" group-title="radio",Radio Mirchi
+http://peridot.streamguys.com:7150/Mirchi
+
+
+#EXTINF:0 tvg-logo="https://mytuner.global.ssl.fastly.net/media/radios-100px/p4rnyz9bx5k5.png" group-title="radio",Radio zindagi
+http://76.164.217.100:7092/;stream.mp3
+
+#EXTINF:0 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/r5ljgezveaxu.png" group-title="radio",HID Radi
+http://hidradio.live-streams.nl/live
+
+#EXTINF:0 tvg-logo="https://onlineradiofm.in/assets/image/radio/180/Radio%20Noida.jpg" group-title="radio",Radio Noida
+http://180.151.226.202:8000/
+
+#EXTINF:0 tvg-logo="https://radiosindia.com/images/bollyhits.jpg" group-title="radio",Bolly Hits
+http://176.31.107.8:8172/stream
+
+#EXTINF:0 tvg-logo="https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/radio-namkin-ek-dumm-zabardast-fm.jpg" group-title="radio",Namkin Radio
+http://69.64.61.173:8057/;stream.mp3
 
 
 
