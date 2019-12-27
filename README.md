@@ -1,33 +1,5 @@
 #EXTM3U
 
-#EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Bhaktisagar_2.png?raw=true" group-title="bajan",Bhakti Sagar 
-http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/index_2128_av-p.m3u8
-
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mh1_shraddha.jpg" group-title="bajan",Shraddha
-http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sadhna.png?raw=true" group-title="bajan",sadhna
-http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sanskar.png?raw=true" group-title="bajan",Sanskar
-http://pockettv.xyz/api/zee.m3u8?c=sanskartv
-
-#EXTINF:0 group-title="bajan",Krishna Vaani
-https://lbor3kjlqvaj-hls-live.wmncdn.net/1174/kvabr/03260d30edc1c82404d346e83555a5da.sdp/tracks-v3a1/index.m3u8
-	
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Divya_TV.png?raw=true" group-title="bajan",Divya
-http://edge-ind.inapcdn.in:1935/berry1/laenglish movie.stream_aac/chunklist_w927914309.m3u8
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/divyatv/index.m3u8
-
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Satsang_TV.png?raw=true" group-title="bajan",satsang
-http://pockettv.xyz/api/zee.m3u8?c=satsangtv
-
-
-
-
-
-..........................................................................................................................................................................................................................................................................
-
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus hd
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43843
