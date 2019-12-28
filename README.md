@@ -2,7 +2,7 @@
 
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus hd
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43843
+https://triangle.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony.png?raw=true" group-title="entertainment",Sony 
 http://103.118.76.229:1935/tvprogram/SONY-HD/playlist.m3u8
@@ -284,17 +284,20 @@ http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43842
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
 http://pockettv.xyz/api/zee.m3u8?c=andpicshd
 
+#EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg" group-title="movie",BOLLYWOOD HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX.png?raw=true" group-title="movie",Sony Max sd
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Shemaroo_Logo.png"  group-title="movie",shemaroome
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 
-#EXTINF:0  tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="movie",Bollywood Now
-https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
-
 #EXTINF:0  tvg-logo="https://www.shemarooent.com/images/shemaroo-me.png" group-title="movie",Bollywood Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
+
+#EXTINF:0  tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="movie",Bollywood Now
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_central2.jpg" group-title="movie", MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
@@ -308,8 +311,17 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(167772
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/851px-Sony_MAX.svg.png" group-title="movie",SetMaX
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 
-#EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="movie",Zee Cinema
-http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="movie",Zee Cinema USA
+http://pockettv.xyz/api/zee.m3u8?c=cinemausa
+
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="movie",Zee Cinema UK
+http://pockettv.xyz/api/zee.m3u8?c=cinemauk
+
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="movie",Zee Cinema ME
+http://pockettv.xyz/api/zee.m3u8?c=zeecinemame
+
+#EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/11401_ZeeAnmolCinema1.jpg" group-title="movie",ZEE ANMOL CINEMA
+http://pockettv.xyz/api/zee.m3u8?c=zanmolcnm
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Bangla_Cinema.png?raw=true" group-title="movie",Zee Bollywood
 http://pockettv.xyz/api/zee.m3u8?c=classic
@@ -364,6 +376,9 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/HBO_HD.png?raw=true" group-title="movie",HBO hd
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49557
+
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/HBO_HD.png?raw=true" group-title="movie",HBO sd
+http://103.118.76.229:1935/tvprogram/HBO/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="movie",Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8?sd=10&rebase=on
@@ -483,18 +498,19 @@ http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65346
 
 .................................................................................................................................................................
 
-#EXTINF:0 tvg-logo="http://memestamil.com/hindifm/img/radiocity.png" group-title="radio",Radio City
-http://prclive1.listenon.in:9960/
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_turbo_ru.jpg"  group-title="earth",Sony BBC Earth HD
+
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_turbo_ru.jpg"  group-title="earth",BBC Earth HD
 http://103.118.76.229:1935/tvprogram/BBC-EARTH/playlist.m3u8
 
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_turbo_ru.jpg"  group-title="earth",Sony BBC Earth
+https://streamer-1.toffeelive.com/live/sony_bbc_earth_720/index.m3u8
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-32C279A19D-seeklogo.com.png"  group-title="earth",discovery
-http://streamer.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
+http://streamer.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Animal_Planet_HD_World.png?raw=true"  group-title="earth",animal planet
-http://streamer.multitvsolution.in//live//APHDHindi-a//p4.m3u8
+https://streamer.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_eur_hd.jpg"  group-title="earth",National Geographic
 http://jprdigitalott.com/media/NationalGeographic.mpd
@@ -509,7 +525,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/04.m3u8
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Epic.png?raw=true"  group-title="earth",epic 
-https://sony247channels.akamaized.net/hls/live/2008248/EPICCHANNEL/hdntl=exp=1577262078~acl=%2f*~data=hdntl~hmac=173c816a161b5dc2aa94cdfe79c4fe2a6c0a5db2224c2b84af1ad4fece272c52/master_2128.m3u8
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/fashion-tv-logo-png-3.png" group-title="earth", Fashion TV
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
@@ -523,7 +539,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/04.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_hr.jpg" group-title="earth",FOX Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 
-
+#EXTINF:0 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/6opjVlif.png" group-title="earth",LF
+http://pockettv.xyz/api/zee.m3u8?c=livingfoodz
 
 
 ...............................................................................................................................................................................
@@ -577,6 +594,10 @@ http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49582
 
 
 ..................................................................................................................................................................
+
+#EXTINF:0 tvg-logo="http://memestamil.com/hindifm/img/radiocity.png" group-title="radio",Radio City
+http://prclive1.listenon.in:9960/
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/red-fm15.jpg" group-title="radio",Red 93.5 FM
 http://prclive1.listenon.in:8808/
 
@@ -753,9 +774,56 @@ http://176.31.107.8:8172/stream
 #EXTINF:0 tvg-logo="https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/radio-namkin-ek-dumm-zabardast-fm.jpg" group-title="radio",Namkin Radio
 http://69.64.61.173:8057/;stream.mp3
 
+..................................................................................................................................................................................................................
 
 
+#EXTINF:0 tvg-logo="https://extraimage.net/images/2019/12/27/c899a565b7db479513ce96b73be0056e.jpg" group-title="VOD", Ujada Chaman
+https://www.dropbox.com/s/adaorwzaksew1ky/Ujda-Chaman-V1-Hindi-1080p.mkv?dl=1
 
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Housefull_4_poster.jpg/220px-Housefull_4_poster.jpg" group-title="VOD", Housefull 4
+https://www.dropbox.com/s/czlu2chzre87j1p/Housefull%204-HD-Hindi--1600MB-1080p.mkv?dl=1
+
+#EXTINF:0  tvg-logo="https://www.glamsham.com/Uploads/article/saaho-20190805181423934.jpg" group-title="VOD", Saaho
+https://www.dropbox.com/s/iyp1ee27z81ywxh/%5Bwww.benytv.xyz%5D-Saaho-Hindi-1080p.mkv?dl=1
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/War_official_poster.jpg/220px-War_official_poster.jpg" group-title="VOD", War
+https://www.dropbox.com/s/duf6fuxu3awye7e/%5Bwww.benytv.xyz%5D-War-Hindi-1080p.mkv?dl=1
+
+#EXTINF:0  tvg-logo="https://extraimage.net/images/2019/11/28/7b356a8dde5c17d859fe7103262323d4.jpg" group-title="VOD", Sye Raa Narasimha Reddy (Hindi)
+https://www.dropbox.com/s/qda97my1ci8nzkv/%5Bwww.benytv.xyz%5D-SSye-Raa-Narasimha-Reddy-Hindi-1080p.mkv?dl=1
+
+#EXTINF:0  tvg-logo="https://imgshare.info/images/2019/11/20/857667b3fa6f8b401b30aa20b5bcb559.jpg" group-title="VOD", Dream Girl
+https://www.googleapis.com/drive/v3/files/1qqaC8mPvUI78HC2E76lVsjXNbBoEXpHu?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E
+
+#EXTINF:0  tvg-logo="https://images3.static-bluray.com/movies/covers/248861_front.jpg" group-title="VOD", Dora and the Lost City of Gold (Hindi)
+https://firebasestorage.googleapis.com/v0/b/allmoviesdata-e0667.appspot.com/o/New%2FDora%20and%20the%20Lost%20City%20of%20Gold%20(2019).mkv?alt=media&token=f9c18a5c-2e21-48b3-a20d-aae09df18a8a
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/D3jx7Ti.jpg" group-title="VOD", Drive
+https://www.googleapis.com/drive/v3/files/1CCvns6ihTvICFXloYCwGAY0qKkN4fcPj?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/pYmoYbY.jpg" group-title="VOD", Chhichhore
+https://firebasestorage.googleapis.com/v0/b/alldata-41e1b.appspot.com/o/new%2FChhichhore%20(2019).mp4?alt=media&token=6217f01c-5714-4083-b3f6-0b301c64534f
+
+#EXTINF:0 tvg-logo="https://extraimage.net/images/2019/08/16/8894a5fce95f0f7fb57dbb84ffb44322.jpg" group-title="VOD", Mision Mangal
+https://firebasestorage.googleapis.com/v0/b/alldata-51697.appspot.com/o/new%2FMission%20Mangal%20(2019).mp4?alt=media&token=0b8991e9-4fee-4fd9-a038-926a4c4c0074
+
+#EXTINF:0 tvg-logo="https://extraimage.net/images/2019/10/09/394bfeb410989a4e2b51222033b36d0b.md.jpg" group-title="VOD", Batla House
+https://firebasestorage.googleapis.com/v0/b/alldata-51697.appspot.com/o/new%2FBatla%20House%20(2019)%20HD.mkv?alt=media&token=71c56692-f326-415a-8969-61e009403de8
+
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-Yz4PMBCjXwI/XaA0UmHAikI/AAAAAAAAvXU/x_TArrfNtD8Au0f0ho0SIM0tQous9xnJwCLcBGAsYHQ/s600/The%2BLion%2BKing%2B%25282019%2529.jpeg" group-title="VOD", The Lion King Hindi
+https://firebasestorage.googleapis.com/v0/b/alldata-51697.appspot.com/o/new%2FThe%20Lion%20King%20(2019).mkv?alt=media&token=65340761-2ff6-4cde-b7d1-89293c40d4d7
+
+#EXTINF:0 tvg-logo="https://extraimage.net/images/2019/09/11/49fcf7cd6907e60f67ba0bf20a595a16.jpg" group-title="VOD", Spider Man Far From Home Hindi
+https://www.googleapis.com/drive/v3/files/1RXdAl0ilLOPiIlR6Gmb9N2g5RcnPrl2w?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E
+
+#EXTINF:0 tvg-logo="https://www.soyacincau.com/wp-content/uploads/2019/08/20190804-AppleTV-Square-avengers.png" group-title="VOD", Avengers Endgame Hindi
+https://www.googleapis.com/drive/v3/files/1SMbBJjb4v-ayOPZ0sC17qkXdZcvaraDm?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/MgdfGXA.jpg" group-title="VOD", Fast And Furious Hobs and Shaw
+https://www.googleapis.com/drive/v3/files/1P4-c1qQvarWzTDOpdcsc2_KRqofY3M5W?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e1/05/5e/e1055e06e20f99d680ff5d5fd1734061.jpg" group-title="VOD", Captain Marvel (Hindi_2019)
+https://firebasestorage.googleapis.com/v0/b/allmovienamefirst.appspot.com/o/Captain%20Marvel%20(2019)%20HD.mkv?alt=media&token=968f9351-456c-4317-b9e8-cda11d600cfa
 
 
 
