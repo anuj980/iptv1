@@ -8,7 +8,7 @@ http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43843
 http://103.118.76.229:1935/tvprogram/SONY-HD/playlist.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony HD
-https://sony247channels.akamaized.net/hls/live/2008252/SETHD/hdntl=exp=1577468947~acl=%2f*~data=hdntl~hmac=572e7fff6a5b5a337ece4de4d328429784e548c26b75b4af79961c559ac276d5/master_3500.m3u8
+sony247channels.akamaized.net/hls/live/2008252/SETHD/hdntl=exp=1577558895~acl=%2f*~data=hdntl~hmac=ec66355fd8165643875824c9281c8baa4b0985b32eeac3b9af269f16ec54d80d/master_3500.m3u8
 
 #EXTINF:0 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
 http://pockettv.xyz/api/zee.m3u8?c=andtvhd
