@@ -424,14 +424,23 @@ http://sony247channels.akamaized.net/hls/live/2008248/EPICCHANNEL/hdntl=exp=1577
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Yay_Hindi.png?raw=true" group-title="kids",SONY YAY
 https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",hungama
-http://jprdigitalott.com/media/Hungama.mpd
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",Discovery Kids
+http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+
+
+
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_net_cartoon.jpg" group-title="kids",Marvel HQ
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Cartoon_Network_Hindi.png?raw=true" group-title="kids",cartoon network
-http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+http://103.118.76.229:1935/tvprogram/CARTOON/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Disney_XD.png?raw=true" group-title="kids",Disney jr
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
@@ -440,7 +449,7 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Nick_HD_Plus.png?raw=true" group-title="kids",Nick_Jr 
-http://95.170.215.118/hls/m3u8/Nickelodeon-JR.m3u8 
+https://akamai.anytv.live/NickelodeonHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Disney_XD.png?raw=true" group-title="kids",Disney_XD_HD_USA 
 http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8
