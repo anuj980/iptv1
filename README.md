@@ -50,6 +50,8 @@ http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43916
 
 
 ..................................................................................................................................................................................................................................................
+#EXTINF:0 tvg-logo="http://redflixtv.me/uploads/tv_image/mnx.jpeg" group-title="music",sony mix
+https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv.jpg" group-title="music",MTV Beats
 http://103.68.116.50/live/feed1002/index.m3u8
