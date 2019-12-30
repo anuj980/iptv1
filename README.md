@@ -40,9 +40,9 @@ https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=zeeanmol
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",MTV Beats HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43915
+http://103.118.76.229:1935/tvprogram/MTV/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_HD_Plus.png?raw=true" group-title="entertainment",MTV PLUS HD
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_HD_Plus.png?raw=true" group-title="entertainment",PLUS HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43916
 
 
