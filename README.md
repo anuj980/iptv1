@@ -30,7 +30,7 @@ http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43850
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43851
 
 #EXTINF:0 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR 
-http://fr-c.movply.stream/hls/Colors.m3u8
+http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 
 #EXTINF:0 tvg-id="COLOR" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors_HD.png?raw=true" group-title="entertainment",COLORS hd
 https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
