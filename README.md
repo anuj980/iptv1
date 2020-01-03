@@ -5,10 +5,10 @@
 http://103.118.76.229:1935/tvprogram/STAR-PLUS/playlist.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony.png?raw=true" group-title="entertainment",Sony 
-http://103.118.76.229:1935/tvprogram/SONY-HD/playlist.m3u8
+https://streamer-1.toffeelive.com/live/sony_entertainmnt_hd_320/index.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony HD
-https://streamer-1.toffeelive.com/live/sony_entertainmnt_hd_320/index.m3u8
+https://sony247channels.akamaized.net/linear/hls/pa/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/3eeec631-bef7-48a4-a502-38cd0e66f114:SIN/variant/48ac061cd3b3208d080a3da42b25746a/bandwidth/hdntl=exp=1578121572~acl=%2f*~data=hdntl~hmac=9d58985ffb4c8b665dbe5b26625c3fbc3d7f15143ba32b0335d7861b0eb79a51/3990800.m3u8
 
 #EXTINF:0 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
 http://pockettv.xyz/api/zee.m3u8?c=andtvhd
@@ -388,7 +388,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8?sd=10&rebase=on
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8?sd=10&rebase=on
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Pix_HD.png?raw=true" group-title="movie",Sony_Pix_HD
-https://live.airtel.tv/pixhd/smil:common.smil/chunklist_b896000_sleng.m3u8
+https://sony247channels.akamaized.net/hls/live/2009804/PIXHD/hdntl=exp=1578121833~acl=%2f*~data=hdntl~hmac=a6d8291a7f2a4db39110c8bf135d878315ddd46db8d4022beaec99167ab5daf8/master_3500.m3u8 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="movie",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
@@ -410,6 +410,10 @@ http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD374L240P/playlist.
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_city_hollywood.jpg" group-title="movie",Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_city_hollywood.jpg" group-title="movie",ANX HD
+https://sony247channels.akamaized.net/hls/live/2009805/AXNHD/hdntl=exp=1578121706~acl=%2f*~data=hdntl~hmac=24358700f6612cc158c6bd5c9cb1ca111baae6574f7a4de18580acd3c0daf752/master_3500.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Viasat_epic_drama_logo.jpg" group-title="music",Epic Drama
 http://sony247channels.akamaized.net/hls/live/2008248/EPICCHANNEL/hdntl=exp=1577214821~acl=%2f*~data=hdntl~hmac=214fc9fb49036bc82f7e8369024c565b6fe7ba16d348b9177d626f86b74b83be/master_2128.m3u8
