@@ -8,7 +8,7 @@ http://103.118.76.229:1935/tvprogram/STAR-PLUS/playlist.m3u8
 https://streamer-1.toffeelive.com/live/sony_entertainmnt_hd_320/index.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony HD
-https://sony247channels.akamaized.net/linear/hls/pa/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/3eeec631-bef7-48a4-a502-38cd0e66f114:SIN/variant/48ac061cd3b3208d080a3da42b25746a/bandwidth/hdntl=exp=1578121572~acl=%2f*~data=hdntl~hmac=9d58985ffb4c8b665dbe5b26625c3fbc3d7f15143ba32b0335d7861b0eb79a51/3990800.m3u8
+https://sony247channels.akamaized.net/hls/live/2008252/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1577608200_08a723ee5e79f43350587d768f071795
 
 #EXTINF:0 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
 http://pockettv.xyz/api/zee.m3u8?c=andtvhd
@@ -387,8 +387,11 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="movie",Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8?sd=10&rebase=on
 
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Pix_HD.png?raw=true" group-title="movie",Sony_Pix
+https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
+
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Pix_HD.png?raw=true" group-title="movie",Sony_Pix_HD
-https://sony247channels.akamaized.net/hls/live/2009804/PIXHD/hdntl=exp=1578121833~acl=%2f*~data=hdntl~hmac=a6d8291a7f2a4db39110c8bf135d878315ddd46db8d4022beaec99167ab5daf8/master_3500.m3u8 
+https://sony247channels.akamaized.net/hls/live/2009804/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1577608200_08a723ee5e79f43350587d768f071795/master_412.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="movie",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
