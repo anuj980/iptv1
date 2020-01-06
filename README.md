@@ -563,49 +563,9 @@ http://pockettv.xyz/api/zee.m3u8?c=livingfoodz
 ...............................................................................................................................................................................
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",ROMEDY NOW HD
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49568
+https://m1.vidcloud9.com/load/hls/Shz0wwuSpr5jPwo_svvstA/1578324866/1163/fae951fd2965aad0dc19985ac3f0bf47/sub.1.7203.ts
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",SONY BBC EARTH ENGLISH HD
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49569
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",STAR MOVIES HD
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49570
-
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",STAR MOVIES SELECT HD
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49571
-
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",STAR WORLD HD
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49572
-
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",STAR WORLD PREMIER HD
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49573
-
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",TATA SKY KIDS CINEMA
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49574
-
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",TATA SKY WORLD CINEMA HD
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49575
-
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",THE QYOU
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49576
-
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",TIMES NOW NEWS HD
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49577
-
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",TLC WORLD HD
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49578
-
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",TRAVEL XP HD
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49579
-
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",VH1 HD
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49580
-
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",WARNER BROS
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49581
-
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",ZEE CAFE HD
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/49582
 
 
 
