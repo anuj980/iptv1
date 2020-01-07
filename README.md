@@ -454,7 +454,7 @@ http://103.118.76.229:1935/tvprogram/CARTOON/playlist.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/duck_tv.jpg" group-title="kids",Duck TV
-https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Nick_HD_Plus.png?raw=true" group-title="kids",Nick_Jr 
 https://akamai.anytv.live/NickelodeonHD/tracks-v1a1/mono.m3u8
@@ -490,7 +490,7 @@ http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/8122
 http://103.118.76.229:1935/tvprogram/GAZI-TV/media_w1909850710_15853.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hd
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65357
+http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_2.png?raw=true" group-title="sports",STAR SPORTS 2 HD
 http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65358
