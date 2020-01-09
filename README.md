@@ -283,6 +283,9 @@ http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star Gold HS
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43841
 
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star Gold 
+http://103.118.76.229:1935/tvprogram/STAR-GOLD/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_Select_HD.png?raw=true" group-title="movie",Star Select HD 
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43842
 
@@ -423,11 +426,11 @@ http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD374L240P/playlist.
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_city_hollywood.jpg" group-title="movie",ANX HD
-https://sony247channels.akamaized.net/hls/live/2009805/AXNHD/hdntl=exp=1578121706~acl=%2f*~data=hdntl~hmac=24358700f6612cc158c6bd5c9cb1ca111baae6574f7a4de18580acd3c0daf752/master_3500.m3u8
+http://210.210.155.35/session/b2c42346-fb7e-11e9-b0e3-977c96db5c70/uq2663/h/h141/01.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Viasat_epic_drama_logo.jpg" group-title="music",Epic Drama
-http://sony247channels.akamaized.net/hls/live/2008248/EPICCHANNEL/hdntl=exp=1577214821~acl=%2f*~data=hdntl~hmac=214fc9fb49036bc82f7e8369024c565b6fe7ba16d348b9177d626f86b74b83be/master_2128.m3u8
+
 
 
 
@@ -448,9 +451,6 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",ANIMAX
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
-
-
-
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_net_cartoon.jpg" group-title="kids",Marvel HQ
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
@@ -567,6 +567,8 @@ https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:0 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/6opjVlif.png" group-title="earth",LF
 http://pockettv.xyz/api/zee.m3u8?c=livingfoodz
 
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/TLC_HD_World.png?raw=true" group-title="earth",TLC HD World
+http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 
 ...............................................................................................................................................................................
 
