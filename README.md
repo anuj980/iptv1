@@ -373,6 +373,11 @@ https://m-c16-j2apps.s.llnwi.net/hls/6502.MultiplexCinema.in.m3u8
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/big_magic.jpg" group-title="movie",BIG Magic
 http://pockettv.xyz/api/zee.m3u8?c=bigmagic
 
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="movie",&Flix hindi
+https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/exp=1578735068~acl=%2f*~data=hdntl~hmac=eb5c29d6d8eb8a09a4d3219a06212cbf88fc1f0878cb91e9911f43f932771bbe/index_6.m3u8
+
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="movie",&Flix HD
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 
