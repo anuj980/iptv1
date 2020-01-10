@@ -67,6 +67,9 @@ http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8?sd=
 #EXTINF:0  tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg"  group-title="music",Dilse HUNGAMA Hits
 https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 
+#EXTINF:0  tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg"  group-title="music",Dilse 
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+
 #EXTINF:0  tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg" group-title="music",Kadak HUNGAMA Hits
 https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 
@@ -81,6 +84,9 @@ https://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
 
 #EXTINF:0  tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="music",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+
+#EXTINF:0  tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="music",Fastway Ent.
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
 
 #EXTINF:0 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="music",MTV_Beats_HD
 https://www.djing.com/tv/karaoke.m3u8
