@@ -295,6 +295,9 @@ http://pockettv.xyz/api/zee.m3u8?c=andpicshd
 #EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg" group-title="movie",BOLLYWOOD HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 
+#EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg" group-title="movie",PRIME HD
+http://23.186.192.55:8080/live/primeplus/index.m3u8
+
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX.png?raw=true" group-title="movie",Sony Max sd
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 
