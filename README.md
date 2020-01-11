@@ -14,7 +14,7 @@ http://iptv4.ga:8080/live/test004/rebookk/433.ts
 http://pockettv.xyz/api/zee.m3u8?c=andtvhd
 
 #EXTINF:0 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
+http://zee18.site/zee/get.php?channel=zeetvhd
 
 #EXTINF:0 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star Bharat HS
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43840
@@ -37,7 +37,7 @@ https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 
 #EXTINF:0 tvg-id="Z Anmol" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Anmol.png?raw=true" group-title="entertainment",Zee Anmol
-http://pockettv.xyz/api/zee.m3u8?c=zeeanmol
+http://zee18.site/zee/get.php?channel=zeeanmol
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",MTV Beats HD
 http://103.118.76.229:1935/tvprogram/MTV/playlist.m3u8
