@@ -776,6 +776,14 @@ http://176.31.107.8:8172/stream
 http://69.64.61.173:8057/;stream.mp3
 
 ..................................................................................................................................................................................................................
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Kabir_Singh.jpg/220px-Kabir_Singh.jpg" group-title="VOD",Kabir Singh
+https://doc-08-0s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/rs20ilqqune4583dsgtlgvndk2j54amn/1578729600000/10068345043379047473/*/1z5zKYe-cbNuTCSVzv-LpkJD80Nx-_9PZ?e=download&access=a5FQyrr0Vun8twXQT76eQAcb0DZBNjyVV8AOrrnfH5ib5nfCDxJd%2BZHAifTohEfIuxd6xORLQDT%2B03hksdcHnNk0qspV3iavSKga%2BrZZASTzBMeXIqSA%2FNhZPmRSP5dH153qTq1XQhhG%2BKEuKWII82&point=database-else
+
+
+
+
+
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Malaal_poster.jpg/220px-Malaal_poster.jpg" group-title="VOD",Malaal
 https://r5---sn-npoe7nek.googlevideo.com/videoplayback?expire=1578736105&ei=yX0ZXuCQKYu41wKYxK7ICA&ip=167.86.70.228&id=5e42093b8ca06e19&itag=22&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=8008.910&lmt=1578626885024782&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRAIgFl6LJ_6tgEqn8mYc7ZJGqZPW3k0DYEw7cVrainpQR28CIEclQCSHkPd6FlZFXsELCSeHo7xh_47nxYIPmtv96-EA&access=Zzpl4KmHesXqc6d2d%2FKgogTjmUEX06nUwHYd6%2FxUfZX8NRm1qUlp1bLChmsGmtbDBmYKDQTR%2B00HeYXerpoAMMMJWE0J%2BdshRVSgmyIwpOiF%2BttfVzIeTRgSOMhyPnGVMH80oEwua9SXETUO%2FUamgl&redirect_counter=1&cm2rm=sn-qxal76&req_id=b010d47811ec36e2&cms_redirect=yes&mip=182.69.24.12&mm=34&mn=sn-npoe7nek&ms=ltu&mt=1578730949&mv=m&mvi=4&pl=20&lsparams=mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRgIhAM6o9MRozyeNFxSAZLCHcLZjXrovrwzGCqgFI_9ddjWuAiEAqVodhRjzYpBgaHax6BoR7-lMYFk40-iDTA7QKKJbA94=
