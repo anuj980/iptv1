@@ -777,6 +777,8 @@ http://69.64.61.173:8057/;stream.mp3
 
 ..................................................................................................................................................................................................................
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Malaal_poster.jpg/220px-Malaal_poster.jpg" group-title="VOD",Malaal
+https://r5---sn-npoe7nek.googlevideo.com/videoplayback?expire=1578736105&ei=yX0ZXuCQKYu41wKYxK7ICA&ip=167.86.70.228&id=5e42093b8ca06e19&itag=22&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=8008.910&lmt=1578626885024782&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRAIgFl6LJ_6tgEqn8mYc7ZJGqZPW3k0DYEw7cVrainpQR28CIEclQCSHkPd6FlZFXsELCSeHo7xh_47nxYIPmtv96-EA&access=Zzpl4KmHesXqc6d2d%2FKgogTjmUEX06nUwHYd6%2FxUfZX8NRm1qUlp1bLChmsGmtbDBmYKDQTR%2B00HeYXerpoAMMMJWE0J%2BdshRVSgmyIwpOiF%2BttfVzIeTRgSOMhyPnGVMH80oEwua9SXETUO%2FUamgl&redirect_counter=1&cm2rm=sn-qxal76&req_id=b010d47811ec36e2&cms_redirect=yes&mip=182.69.24.12&mm=34&mn=sn-npoe7nek&ms=ltu&mt=1578730949&mv=m&mvi=4&pl=20&lsparams=mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRgIhAM6o9MRozyeNFxSAZLCHcLZjXrovrwzGCqgFI_9ddjWuAiEAqVodhRjzYpBgaHax6BoR7-lMYFk40-iDTA7QKKJbA94=
 
 #EXTINF:0 tvg-logo="https://extraimage.net/images/2019/12/27/c899a565b7db479513ce96b73be0056e.jpg" group-title="VOD", Ujada Chaman
 https://www.dropbox.com/s/adaorwzaksew1ky/Ujda-Chaman-V1-Hindi-1080p.mkv?dl=1
