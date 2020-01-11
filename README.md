@@ -834,7 +834,9 @@ https://www.googleapis.com/drive/v3/files/1SMbBJjb4v-ayOPZ0sC17qkXdZcvaraDm?alt=
 https://www.googleapis.com/drive/v3/files/1P4-c1qQvarWzTDOpdcsc2_KRqofY3M5W?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e1/05/5e/e1055e06e20f99d680ff5d5fd1734061.jpg" group-title="VOD", Captain Marvel (Hindi_2019)
-https://mediatata.zee5.com/drm/PRIORITY1080/HINDI_MOVIES/Kohram_Hindi_Movie_hi.mp4/video/avc1/2/seg-11.m4s
+https://cdn.cloud.altbalaji.com/content/2020-01/6668-5e1884fa169d4/GB_S4_E2_WO_SAAT_DIN_R2_1146dcea_BR4500_audio_track_1.mp4
+
+
 
 
 
