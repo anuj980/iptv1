@@ -166,7 +166,7 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_News.png?raw=true" group-title="NEWS",Zee News
-https://z5ams.akamaized.net/out/v1/369dbd453ff740d49f4dc864a9f8a6b1/exp=1578984521~acl=%2f*~data=hdntl~hmac=be957f6cbbe09f6a8ef3f7f13b7ecaf5a0032993f5aa4b483640029a2cf90807/index_22.m3u8
+https://z5ams.akamaized.net/out/v1/369dbd453ff740d49f4dc864a9f8a6b1/exp=1578985768~acl=%2f*~data=hdntl~hmac=52305881eba384adc6ac9ac335d57da6de12222afe79bdc0c02e1d2f96a352fe/index_22_1859945.ts?m=1567670114
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_India.png?raw=true" group-title="NEWS",News18 India 
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
