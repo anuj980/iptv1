@@ -599,7 +599,7 @@ http://starbharat-i.akamaihd.net/hls/live/569933-b/starbharat/master_2000.m3u8
 https://z5ams.akamaized.net/out/v1/369dbd453ff740d49f4dc864a9f8a6b1/exp=1578997179~acl=%2f*~data=hdntl~hmac=2a470960a2f954c46e29bd4774af2a7f91b1a50bda935a18570df3fa79cc4761/index_22.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",movies5
 https://zee5vod.akamaized.net/drm1/1080p/movies/MOVIE_PROJECT/MOVIES/HINDI/THE_TASHKENT_FILE_HINDI_MOVIE_hi_b93df280.mp4/video/avc1/7/seg-187.m4s
 
 
