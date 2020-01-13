@@ -175,7 +175,7 @@ https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 https://streamer.multitvsolution.in/live/IndiaNews-e/p4.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Hindustan.png?raw=true" group-title="NEWS",zee hindustan
-https://z5ams.akamaized.net/hindustan/tracks-v1a1/exp=1578632309~acl=%2f*~data=hdntl~hmac=959f9a85d9aa3e9dca59e42dfa349a5301f3ff09cc8884cc1800bb2de7eca625/mono.m3u8
+https://yuppmsleumo2.akamaized.net/hls/live/2008784/aajtak/aajtak/aajtak_1800/chunklist.m3u8?hdntl=exp=1578986091~acl=!*/aajtak/aajtak/*!/payload/yuppTVCom_5_1509451_bd636ffd9eb849d9_IN_182.69.24.12/*~data=hdntl~hmac=86b59e0a5fe31fd0abe5b729c44ca837e454e5a5812213ff104e4e090bbfdd54
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_UP.png?raw=true" group-title="NEWS",NEWS18 UP
 https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_5_av-p.m3u8
