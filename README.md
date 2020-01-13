@@ -589,16 +589,18 @@ http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 ...............................................................................................................................................................................
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",ROMEDY NOW HD
-http://sngprcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/packagerx_mpd1/Jio_Cricket_HLS/5.m3u8
+http://starplushd-i.akamaihd.net/hls/live/569928-b/starplushd/master_2000.m3u8
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",cricket
-http://tv.b4ucast.me/tv/vJ9lsiZFOE20190929/chunklist_w1045454872_tkaGxzZW5kdGltZT0xNTc4NTc5MjQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9YW9UMkF4SlpmbEZNWGN5T1FQcFlJWHJsUmhXNkdhOU9ielQtWUJlQjMtZz0=.m3u8
-
-
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",cricket2
-http://tv.b4ucast.me/tv/vFrxPgSFTD20190929/chunklist_w1953141664_tkaGxzZW5kdGltZT0xNTc4NTc5MzYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9WV9vTEhNd1BhTEIyTDV1R1Q2aUJDRXZFZEF5UjNrb0x4TU9VOW9zTlFRRT0=.m3u8
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",starbharat
+http://starbharat-i.akamaihd.net/hls/live/569933-b/starbharat/master_2000.m3u8
 
 
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",zee5
+https://z5ams.akamaized.net/out/v1/369dbd453ff740d49f4dc864a9f8a6b1/exp=1578997179~acl=%2f*~data=hdntl~hmac=2a470960a2f954c46e29bd4774af2a7f91b1a50bda935a18570df3fa79cc4761/index_22.m3u8
+
+
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",
+https://zee5vod.akamaized.net/drm1/1080p/movies/MOVIE_PROJECT/MOVIES/HINDI/THE_TASHKENT_FILE_HINDI_MOVIE_hi_b93df280.mp4/video/avc1/7/seg-187.m4s
 
 
 
