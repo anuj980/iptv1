@@ -14,7 +14,7 @@ https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 http://zee18.site/zee/get.php?channel=andtvhd
 
 #EXTINF:0 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-http://beta.aslivetv.club/zee.php?cid=zeetvhd
+http://zee18.site/zee/get.php?channel=zeetvhd
 
 #EXTINF:0 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star Bharat HS
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43840
@@ -592,7 +592,14 @@ http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 ...............................................................................................................................................................................
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",ROMEDY NOW HD
-https://m1.vidcloud9.com/load/hls/Shz0wwuSpr5jPwo_svvstA/1578324866/1163/fae951fd2965aad0dc19985ac3f0bf47/sub.1.7203.ts
+http://sngprcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/packagerx_mpd1/Jio_Cricket_HLS/5.m3u8
+
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",cricket
+http://tv.b4ucast.me/tv/vJ9lsiZFOE20190929/chunklist_w1045454872_tkaGxzZW5kdGltZT0xNTc4NTc5MjQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9YW9UMkF4SlpmbEZNWGN5T1FQcFlJWHJsUmhXNkdhOU9ielQtWUJlQjMtZz0=.m3u8
+
+
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",cricket2
+http://tv.b4ucast.me/tv/vFrxPgSFTD20190929/chunklist_w1953141664_tkaGxzZW5kdGltZT0xNTc4NTc5MzYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9WV9vTEhNd1BhTEIyTDV1R1Q2aUJDRXZFZEF5UjNrb0x4TU9VOW9zTlFRRT0=.m3u8
 
 
 
