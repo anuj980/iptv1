@@ -265,8 +265,6 @@ https://stream1.jeem.tv/geo/geonews_abr/playlist.m3u8
 
 .......................................................................................................................................................................................................
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX_HD.png?raw=true" group-title="movie",Sony Max 1
-https://sony247channels.akamaized.net/linear/hls/pa/event/Qyqz40bSQriqSuAC7R8_Fw/stream/252550cf-fcb8-4aca-8965-ed5751793411:SIN/variant/cbda6f78ef8ee6656c74ffb613a9aa49/bandwidth/hdntl=exp=1579073836~acl=%2f*~data=hdntl~hmac=af4033571e3157b95a76a1ab7628bde560bf37b07cfb67db27466082b7790393/3955600.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX_HD.png?raw=true" group-title="movie",Sony Max HD
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
