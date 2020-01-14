@@ -186,7 +186,7 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_0.m3u8
 https://sony247channels.akamaized.net/hls/live/2002594/DELHIAAJTAK/master_1428.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News_Nation.png?raw=true" group-title="NEWS",News Nation
-https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/chunklist_b905111.m3u8
+https://livestream.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_NewsNation/chunklist_b905111.m3u8
 
 #EXTINF:0 tvg-logo="http://sudarshannews.in/wp-content/uploads/2018/09/logo.jpg" group-title="NEWS",SUDARSHAN NEWs
 https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w467417029.m3u8
