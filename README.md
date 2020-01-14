@@ -500,13 +500,13 @@ http://103.68.116.50/live/feed1002/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hd
-http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
+https://ul.cdn946.net:8443/hls/2vcwg84v3c6ho.m3u8?s=YtaY03KsF2PZnPPcYcTNAw&e=1579020043
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_2.png?raw=true" group-title="sports",STAR SPORTS 2 HD
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65358
+https://ul.cdn946.net:8443/hls/2vcwg84v3c6ho.m3u8?s=BAmvsBXxNi86Bx8KMNqTVA&e=1579020368
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR select 
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/12049
+https://ul.cdn946.net:8443/hls/2vcwg84v3c6ho.m3u8?s=McT8T0BdELSgRqzx4zRinQ&e=1579020792
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_HD_1.png?raw=true" group-title="sports",STAR SPORTS SELECT 1
 http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65356
