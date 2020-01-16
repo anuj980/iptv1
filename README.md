@@ -147,7 +147,7 @@ http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
 .......................................................................................................................................................................................................................................
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Aaj_Tak_HD.png?raw=true" group-title="NEWS",aajtaak 
-https://yuppmsleumo2.akamaized.net/hls/live/2008784/aajtak/aajtak/aajtak_1800/chunklist.m3u8?hdntl=exp=1579261369~acl=!*/aajtak/aajtak/*!/payload/yuppTVCom_5_-1_be47b4af510c425f_IN_182.77.110.34/*~data=hdntl~hmac=4a6e0d2ff2a6f9df390c95b03e331340f5971598a88bb5261ea354bd9230dcfb
+https://vidcdn.vidgyor.com/at-origin/homepagelive/at-origin/live3/l_166729_46596903_11649.ts
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Aaj_Tak_HD.png?raw=true" group-title="NEWS",aajtaak hd
