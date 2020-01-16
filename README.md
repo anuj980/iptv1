@@ -147,7 +147,7 @@ http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
 .......................................................................................................................................................................................................................................
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Aaj_Tak_HD.png?raw=true" group-title="NEWS",aajtaak 
-https://vidcdn.vidgyor.com/at-origin/homepagelive/at-origin/live3/l_166729_46596903_11649.ts
+https://vidcdn.vidgyor.com/at-origin/homepagelive/at-origin/live3/chunks.m3u8
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Aaj_Tak_HD.png?raw=true" group-title="NEWS",aajtaak hd
