@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",StaR_PLUS
+http://52.66.207.99/h.php?c=starplushd&e=.m3u8
+
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus hd
 http://103.118.76.229:1935/tvprogram/STAR-PLUS/playlist.m3u8
 
@@ -18,6 +21,9 @@ http://zee18.site/zee/get.php?channel=zeetvhd
 
 #EXTINF:0 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star Bharat HS
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43840
+
+#EXTINF:0 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star_Bharat
+http://52.66.207.99/h.php?c=starbharat&e=.m3u8
  
 #EXTINF:0 tvg-id="SONY SAB" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB.png?raw=true" group-title="entertainment",Sony SAB
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
@@ -387,13 +393,23 @@ http://zee18.site/zee/get.php?channel=zeecafehd
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/HBO_HD.png?raw=true" group-title="movie",HBO hd
-https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_hls/HBOFamily.m3u8
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49557
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/HBO_HD.png?raw=true" group-title="movie",HBO sd
 http://103.118.76.229:1935/tvprogram/HBO/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="movie",Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8?sd=10&rebase=on
+
+
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="movie",Star select
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49571
+
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/WB.png?raw=true" group-title="movie",WB
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49581
+
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="movie",Movies NOW 4K
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49562
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="movie",Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8?sd=10&rebase=on
