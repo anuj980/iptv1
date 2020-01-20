@@ -195,7 +195,7 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_0.m3u8
 https://sony247channels.akamaized.net/hls/live/2002594/DELHIAAJTAK/master_1428.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News_Nation.png?raw=true" group-title="NEWS",News Nation
-https://livestream.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_NewsNation/chunklist_b906401.m3u8
+https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="http://sudarshannews.in/wp-content/uploads/2018/09/logo.jpg" group-title="NEWS",SUDARSHAN NEWs
 https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w467417029.m3u8
@@ -282,13 +282,11 @@ https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
 http://zee18.site/zee/get.php?channel=zcinemahd
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star Gold HS
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43841
+http://52.66.207.99/h.php?c=stargold&q=800&e=.m3u8
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star Gold 
-http://103.118.76.229:1935/tvprogram/STAR-GOLD/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_Select_HD.png?raw=true" group-title="movie",Star Select HD 
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43842
+http://red.aslivetv.club/StarGoldSelectHD.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
 http://zee18.site/zee/get.php?channel=andpicshd
@@ -590,10 +588,10 @@ http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 ...............................................................................................................................................................................
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",ROMEDY NOW HD
-http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_HD/Sony_HD_800.m3u8?jct=Sj0MhdF1sJvnjYfeSyuwlw&pxe=1578496789&st=2rABpyTLSDzkoYSlKcWJhg
+http://cdn.joovox.xyz/hls293/MTV_HD_Plus.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",starbharat
-http://sngprecdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_1200.m3u8
+https://staragold-i.akamaihd.net/hls/live/569910-b/staragold/master_2000.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",zee5
