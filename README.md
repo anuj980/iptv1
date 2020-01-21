@@ -587,19 +587,18 @@ http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 
 ...............................................................................................................................................................................
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",ROMEDY NOW HD
-http://cdn.joovox.xyz/hls293/MTV_HD_Plus.m3u8
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test1
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48234.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",starbharat
-https://staragold-i.akamaihd.net/hls/live/569910-b/staragold/master_2000.m3u8
-
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48239.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",zee5
-http://sngprecdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_1200.m3u8
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/46187.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",movies5
-https://ul.cdn946.net:8443/hls/2vcwg84v3c6ho.m3u8?s=BMdM4_6NPrv8K6RjWH8Qgw&e=1579019806
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48242.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",jiotv
 https://cqyirsc.com/c4/e9/af/c4e9affc205796fa4d35ae05e165097f.js
