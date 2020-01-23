@@ -39,7 +39,7 @@ http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43851
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 
 #EXTINF:0 tvg-id="COLOR" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors_HD.png?raw=true" group-title="entertainment",COLORS hd
-http://vootlivelinear.akamaized.net/hls/live/2008467/VootBBH13/master_3628.m3u8
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43856
 
 
 #EXTINF:0 tvg-id="Z Anmol" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Anmol.png?raw=true" group-title="entertainment",Zee Anmol
@@ -61,7 +61,8 @@ https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/k9kHJv9.jpg" group-title="music",Gabruu TV
 http://104.237.60.234/live/gabruutv.m3u8
 
-
+#EXTINF:0 tvg-logo="http://redflixtv.me/uploads/tv_image/mnx.jpeg" group-title="music",mtv_beathd
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43915
 
 #EXTINF:0  tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg" group-title="music",pop pataka
 http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8?sd=10&rebase=on
@@ -286,7 +287,7 @@ http://52.66.207.99/h.php?c=stargold&q=800&e=.m3u8
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_Select_HD.png?raw=true" group-title="movie",Star Select HD 
-http://red.aslivetv.club/StarGoldSelectHD.m3u8
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43842
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
 http://zee18.site/zee/get.php?channel=andpicshd
@@ -513,9 +514,14 @@ http://103.118.76.229:1935/tvprogram/GAZI-TV/media_w1909850710_15853.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",gtv 2
 http://103.68.116.50/live/feed1002/index.m3u8
 
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_sports_hindi
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/23930
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hd
 http://103.118.76.234:1935/tvprogram/STAR-SPORTS-1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_2
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/23929
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_2.png?raw=true" group-title="sports",STAR SPORTS 2 HD
 https://ul.cdn946.net:8443/hls/2vcwg84v3c6ho.m3u8?s=Rm0cNU2S8Z49J0xYZWrz0w&e=1579270114
@@ -576,6 +582,9 @@ https://streamer.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/history_hd.jpg" group-title="earth",History 2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/04.m3u8?sd=10&rebase=on
 
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/history_hd.jpg" group-title="earth",History_hindi
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43900
+
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_hr.jpg" group-title="earth",FOX Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 
@@ -588,17 +597,17 @@ http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 ...............................................................................................................................................................................
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test1
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48234.m3u8
+http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_1200.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",starbharat
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48239.m3u8
+http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_1200.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",zee5
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/46187.m3u8
+http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",movies5
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48242.m3u8
+http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1200.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",jiotv
 https://cqyirsc.com/c4/e9/af/c4e9affc205796fa4d35ae05e165097f.js
