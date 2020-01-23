@@ -527,7 +527,7 @@ http://103.118.76.234:1935/tvprogram/STAR-SPORTS-SELECT1/playlist.m3u8
 http://103.118.76.234:1935/tvprogram/STAR-SPORTS-SELECT1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_Select_HD_2.png?raw=true" group-title="sports",Star Sports Select 2
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65355
+http://103.68.116.50/live/feed1006/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_Sports.png?raw=true" group-title="sports",DD Sports
 https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in_480p/index.m3u8
