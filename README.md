@@ -597,20 +597,20 @@ http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 ...............................................................................................................................................................................
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test1
-http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_1200.m3u8
+http://sngprecdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_1200.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",starbharat
-http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_1200.m3u8
+http://sngprecdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_1200.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",zee5
-http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8
+http://27.147.156.14:1935/MTV-Beats/MTV-Beats.stream/chunklist_w1986306343.m3u8?Stamp=12ab65d77f644a43c433ca6644a
 
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",movies5
-http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1200.m3u8
+http://185.152.64.54:2200/R-EX/HINDI_LIVING_FOODZ_HD_S-in/index.m3u8?token=9SNg9QFnyn5Ki6GmThY_Eg==,1575862280.6160869393
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",jiotv
-https://cqyirsc.com/c4/e9/af/c4e9affc205796fa4d35ae05e165097f.js
+http://185.152.64.54:2200/R-EX/ENGLISH_AXN_HD_S-in/index.m3u8?token=9SNg9QFnyn5Ki6GmThY_Eg==,1575862280.6160869393
 
 
 
