@@ -48,7 +48,8 @@ http://zee18.site/zee/get.php?channel=zeeanmol
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",MTV Beats HD
 http://103.118.76.229:1935/tvprogram/MTV/playlist.m3u8
 
-
+#EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",MTV+
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43916
 
 
 
@@ -63,6 +64,9 @@ http://104.237.60.234/live/gabruutv.m3u8
 
 #EXTINF:0 tvg-logo="http://redflixtv.me/uploads/tv_image/mnx.jpeg" group-title="music",mtv_beathd
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43915
+
+#EXTINF:0 tvg-logo="http://redflixtv.me/uploads/tv_image/mnx.jpeg" group-title="music",primeplus+
+http://23.186.192.55:8080/live/primeplus/index.m3u8
 
 #EXTINF:0  tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg" group-title="music",pop pataka
 http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8?sd=10&rebase=on
