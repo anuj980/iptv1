@@ -601,14 +601,13 @@ http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 ...............................................................................................................................................................................
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test1
-http://sngprecdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_1200.m3u8
+http://playing-jootv.somee.com/iptv/play-2.php?c=colorstvhd&tv.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",starbharat
-http://sngprecdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_1200.m3u8
+http://cdn.joovox.xyz/hls293/Zee_TV_HD.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",zee5
-http://27.147.156.14:1935/MTV-Beats/MTV-Beats.stream/chunklist_w1986306343.m3u8?Stamp=12ab65d77f644a43c433ca6644a
-
+http://red.aslivetv.club/StarGoldSelectHD.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",movies5
 http://185.152.64.54:2200/R-EX/HINDI_LIVING_FOODZ_HD_S-in/index.m3u8?token=9SNg9QFnyn5Ki6GmThY_Eg==,1575862280.6160869393
