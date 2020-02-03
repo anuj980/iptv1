@@ -51,6 +51,8 @@ http://103.118.76.229:1935/tvprogram/MTV/playlist.m3u8
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",MTV+
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43916
 
+#EXTINF:0   tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/dd_national.png" group-title="entertainment",DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
 
 
@@ -283,6 +285,9 @@ https://stream1.jeem.tv/geo/geonews_abr/playlist.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX_HD.png?raw=true" group-title="movie",Sony Max HD
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
 
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX_HD.png?raw=true" group-title="movie",sm_2
+https://sony247channels.akamaized.net/hls/live/2009802/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
 http://zee18.site/zee/get.php?channel=zcinemahd
 
@@ -512,8 +517,8 @@ http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/8108
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_ESPN_HD.png?raw=true" group-title="sports",ESPN HD
 http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/8122
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",gtv
-http://103.118.76.229:1935/tvprogram/GAZI-TV/media_w1909850710_15853.m3u8
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",s1
+https://rebrand.ly/StarSports1
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",gtv 2
 http://103.68.116.50/live/feed1002/index.m3u8
@@ -601,13 +606,12 @@ http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 ...............................................................................................................................................................................
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test1
-http://playing-jootv.somee.com/iptv/play-2.php?c=colorstvhd&tv.m3u8
+http://185.152.64.54:2200/R-EX/HINDI_COLORS_HD_S-in/tracks-v1a1/mono.m3u8?token=EAKbxISa6Dzxc5RUBwc7dA%3D%3D%2C1578552146.1409712960"
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",starbharat
-http://cdn.joovox.xyz/hls293/Zee_TV_HD.m3u8
+http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",zee5
-http://red.aslivetv.club/StarGoldSelectHD.m3u8
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",zee5https://live15p.hotstar.com/hls/live/2004211/nzvsind2020/hin/15mindvr1440006264pxrzmzwj8r24january2020/master_4.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",movies5
 http://185.152.64.54:2200/R-EX/HINDI_LIVING_FOODZ_HD_S-in/index.m3u8?token=9SNg9QFnyn5Ki6GmThY_Eg==,1575862280.6160869393
