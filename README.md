@@ -39,7 +39,7 @@ http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43851
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 
 #EXTINF:0 tvg-id="COLOR" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors_HD.png?raw=true" group-title="entertainment",COLORS hd
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43856
+https://1784075063.rsc.cdn77.org/1784075063/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 tvg-id="Z Anmol" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Anmol.png?raw=true" group-title="entertainment",Zee Anmol
