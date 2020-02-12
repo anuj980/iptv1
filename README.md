@@ -36,7 +36,7 @@ http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43850
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43851
 
 #EXTINF:0 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR 
-http://ok2.se:8000/2906F7UdfaT0QkUPk/5dd9F9UOyDRLCKdNC/6902
+http://vootlivelinear.akamaized.net/hls/live/2008467/VootBBH13/master_3628.m3u8
 
 #EXTINF:0 tvg-id="COLOR" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors_HD.png?raw=true" group-title="entertainment",COLORS hd
 https://1784075063.rsc.cdn77.org/1784075063/tracks-v1a1/mono.m3u8
@@ -617,18 +617,19 @@ http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 ...............................................................................................................................................................................
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test1
-http://185.152.64.54:2200/R-EX/HINDI_COLORS_HD_S-in/tracks-v1a1/mono.m3u8?token=EAKbxISa6Dzxc5RUBwc7dA%3D%3D%2C1578552146.1409712960"
+https://live.airtelxstream.in/colorscineplexhd/smil:common.smil/manifest.mpd
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",starbharat
-http://sngprecdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_1200.m3u8
+https://live.airtelxstream.in/colorscineplexhd/smil:common.smil/manifest.mpd
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",zee5https://live15p.hotstar.com/hls/live/2004211/nzvsind2020/hin/15mindvr1440006264pxrzmzwj8r24january2020/master_4.m3u8
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",zee5
+http://iptvpro.premium-itv.com:8789/31031986/31031986/59107
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",movies5
-http://185.152.64.54:2200/R-EX/HINDI_LIVING_FOODZ_HD_S-in/index.m3u8?token=9SNg9QFnyn5Ki6GmThY_Eg==,1575862280.6160869393
+http://ok2.se:8000/2906F7UdfaT0QkUPk/5dd9F9UOyDRLCKdNC/6902
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",jiotv
-http://185.152.64.54:2200/R-EX/ENGLISH_AXN_HD_S-in/index.m3u8?token=9SNg9QFnyn5Ki6GmThY_Eg==,1575862280.6160869393
+http://sngprecdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_1200.m3u8
 
 
 
