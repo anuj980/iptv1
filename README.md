@@ -5,7 +5,7 @@
 http://iptvpro.premium-itv.com:8789/31031986/31031986/59108
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus hd
-http://hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_1800.m3u8
+http://skdn.redi-vo.com/iptv/ch1706?code=103131497823984&key=41959
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony.png?raw=true" group-title="entertainment",Sony 
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
@@ -295,7 +295,7 @@ https://sony247channels.akamaized.net/hls/live/2009802/SonyMaxhd/master.m3u8?hdn
 http://zee18.site/zee/get.php?channel=zcinemahd
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star Gold HS
-http://staragold-i.akamaihd.net:80/hls/live/569910-b/staragold/master_1800.m3u8
+http://skdn.redi-vo.com/iptv/ch1704?code=103131497823984&key=40708
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_Select_HD.png?raw=true" group-title="movie",Star Select HD 
@@ -535,7 +535,7 @@ https://rebrand.ly/StarSports1
 http://103.68.116.50/live/feed1002/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_sports_hindi
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/23930
+http://skdn.redi-vo.com/iptv/ch1948?code=103131497823984&key=13539
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hd
 http://51.15.8.16:8081/ind1live/starsports1hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjAgNDoxNDozOSBBTSZoYXNoX3ZhbHVlPW1Mc2tIUE9hbWQxSnorUG1KUTYwb0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
