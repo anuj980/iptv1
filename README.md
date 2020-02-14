@@ -1,11 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",StaR_PLUS
-http://iptvpro.premium-itv.com:8789/31031986/31031986/59108
+
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus hd
-http://skdn.redi-vo.com/iptv/ch1706?code=103131497823984&key=41959
+http://www.sansat.net:25461/MBGbJTVsytIhBxO/KmMKqyGcMHg1rgS/53851
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony.png?raw=true" group-title="entertainment",Sony 
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
@@ -36,10 +35,10 @@ http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43850
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43851
 
 #EXTINF:0 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR 
-http://vootlivelinear.akamaized.net/hls/live/2008467/VootBBH13/master_3628.m3u8
+https://1784075063.rsc.cdn77.org/1784075063/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="COLOR" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors_HD.png?raw=true" group-title="entertainment",COLORS hd
-https://1784075063.rsc.cdn77.org/1784075063/tracks-v1a1/mono.m3u8
+http://www.sansat.net:25461/MBGbJTVsytIhBxO/KmMKqyGcMHg1rgS/53865
 
 
 #EXTINF:0 tvg-id="Z Anmol" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Anmol.png?raw=true" group-title="entertainment",Zee Anmol
@@ -49,7 +48,7 @@ http://zee18.site/zee/get.php?channel=zeeanmol
 http://103.118.76.229:1935/tvprogram/MTV/playlist.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",MTV+
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43916
+http://www.sansat.net:25461/MBGbJTVsytIhBxO/KmMKqyGcMHg1rgS/53916
 
 #EXTINF:0   tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/dd_national.png" group-title="entertainment",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
@@ -295,11 +294,13 @@ https://sony247channels.akamaized.net/hls/live/2009802/SonyMaxhd/master.m3u8?hdn
 http://zee18.site/zee/get.php?channel=zcinemahd
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star Gold HS
-http://skdn.redi-vo.com/iptv/ch1704?code=103131497823984&key=40708
-
+http://www.sansat.net:25461/MBGbJTVsytIhBxO/KmMKqyGcMHg1rgS/53849
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_Select_HD.png?raw=true" group-title="movie",Star Select HD 
-http://iptvpro.premium-itv.com:8789/31031986/31031986/59110
+http://www.sansat.net:25461/MBGbJTVsytIhBxO/KmMKqyGcMHg1rgS/53850
+
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/UTV_HD.png?raw=true" group-title="movie",UTV HD 
+http://www.sansat.net:25461/MBGbJTVsytIhBxO/KmMKqyGcMHg1rgS/53937
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
 http://zee18.site/zee/get.php?channel=andpicshd
