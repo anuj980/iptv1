@@ -624,20 +624,19 @@ http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 ...............................................................................................................................................................................
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test1
-https://live.airtelxstream.in/colorscineplexhd/smil:common.smil/manifest.mpd
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeepunjabi/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",starbharat
-https://live.airtelxstream.in/colorscineplexhd/smil:common.smil/manifest.mpd
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",zee5
-http://iptvpro.premium-itv.com:8789/31031986/31031986/59107
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",movies5
-http://ok2.se:8000/2906F7UdfaT0QkUPk/5dd9F9UOyDRLCKdNC/6902
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",jiotv
-http://sngprecdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_1200.m3u8
-
+http://185.152.64.54:2200/R-EX/HINDI_COLORS_HD_S-in/tracks-v1a1/mono.m3u8?token=EAKbxISa6Dzxc5RUBwc7dA%3D%3D%2C1578552146.1409712960"
 
 
 ..................................................................................................................................................................
