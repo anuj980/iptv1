@@ -22,10 +22,10 @@ http://zee18.site/zee/get.php?channel=andtvhd
 http://zee18.site/zee/get.php?channel=zeetvhd
 
 #EXTINF:0 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star Bharat HS
-http://uktv0.host:8000/empty/empty/197110
+https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 
 #EXTINF:0 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star_Bharat
-http://uktv0.host:8000/empty/empty/196939
+https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
  
 #EXTINF:0 tvg-id="SONY SAB" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB.png?raw=true" group-title="entertainment",Sony SAB
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
