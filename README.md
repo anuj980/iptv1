@@ -2,6 +2,9 @@
 
 
 
+#EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star_Plus_hd
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus hd
 http://www.sansat.net:25461/MBGbJTVsytIhBxO/KmMKqyGcMHg1rgS/53851
@@ -35,7 +38,7 @@ http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43850
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43851
 
 #EXTINF:0 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR 
-https://1784075063.rsc.cdn77.org/1784075063/tracks-v1a1/mono.m3u8
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:0 tvg-id="COLOR" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors_HD.png?raw=true" group-title="entertainment",COLORS hd
 http://www.sansat.net:25461/MBGbJTVsytIhBxO/KmMKqyGcMHg1rgS/53865
@@ -292,6 +295,9 @@ https://sony247channels.akamaized.net/hls/live/2009802/SonyMaxhd/master.m3u8?hdn
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
 http://zee18.site/zee/get.php?channel=zcinemahd
+
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star_Gold_HS
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star Gold HS
 http://www.sansat.net:25461/MBGbJTVsytIhBxO/KmMKqyGcMHg1rgS/53849
