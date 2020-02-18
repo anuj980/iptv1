@@ -290,6 +290,9 @@ https://stream1.jeem.tv/geo/geonews_abr/playlist.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Flix.png?raw=true" group-title="movie",&explorhd.
 http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8
 
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX_HD.png?raw=true" group-title="movie",sony_max_HD
+https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8?token=a700c2740eda36dc9f8a6155b0d28c1b"
+
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX_HD.png?raw=true" group-title="movie",sm_2
 https://sony247channels.akamaized.net/hls/live/2009802/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
 
