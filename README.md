@@ -550,8 +550,8 @@ http://skdn.redi-vo.com/iptv/ch1948?code=103131497823984&key=13539
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hd
 http://51.15.8.16:8081/ind1live/starsports1hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjAgNDoxNDozOSBBTSZoYXNoX3ZhbHVlPW1Mc2tIUE9hbWQxSnorUG1KUTYwb0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_2
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/23929
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_1_1
+http://grabdeal.xyz/livetv/starsports1
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_2.png?raw=true" group-title="sports",STAR SPORTS 2 HD
 https://ul.cdn946.net:8443/hls/2vcwg84v3c6ho.m3u8?s=Rm0cNU2S8Z49J0xYZWrz0w&e=1579270114
