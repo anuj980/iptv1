@@ -294,7 +294,7 @@ http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/525714a3be
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8?token=a700c2740eda36dc9f8a6155b0d28c1b"
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX_HD.png?raw=true" group-title="movie",sm_2
-https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1582450780~acl=%2f*~data=hdntl~hmac=8d7aee09cf3992b181fda1c78d50ad2208c503f84d86008a60bb587d5bdd0492/master_3500.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
 http://zee18.site/zee/get.php?channel=zcinemahd
@@ -545,10 +545,10 @@ https://rebrand.ly/StarSports1
 http://103.68.116.50/live/feed1002/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_sports_hindi
-http://skdn.redi-vo.com/iptv/ch1948?code=103131497823984&key=13539
+http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/34492
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hd
-http://51.15.8.16:8081/ind1live/starsports1hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjAgNDoxNDozOSBBTSZoYXNoX3ZhbHVlPW1Mc2tIUE9hbWQxSnorUG1KUTYwb0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/34493
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_1_1
 http://grabdeal.xyz/livetv/starsports1
