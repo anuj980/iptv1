@@ -527,19 +527,19 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_1_HD.png?raw=true" group-title="sports",Sony Ten1 
-https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_2_HD.png?raw=true" group-title="sports",Sony TEN2 HD
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/15557
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="sports",Ten3_HD
-http://103.68.116.50/live/feed1004/index.m3u8
+http://163.172.85.133:8080/TenS/3/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Six_HD.png?raw=true" group-title="sports",SONY SIX HD
 http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/8108
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_ESPN_HD.png?raw=true" group-title="sports",ESPN HD
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/8122
+https://streamer-1.toffeelive.com/live/sony_six_hd_720/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",s1
 https://rebrand.ly/StarSports1
