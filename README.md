@@ -13,7 +13,7 @@ http://www.sansat.net:25461/MBGbJTVsytIhBxO/KmMKqyGcMHg1rgS/53851
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony HD
-https://sony247channels.akamaized.net/hls/live/2009800/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/hdntl=exp=1582551297~acl=%2f*~data=hdntl~hmac=f708d508e0347ebd38475f039e1ce8dff09453c506d28eb8342b952de2e10e0d/master_3500.m3u8 
 
 #EXTINF:0 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
@@ -294,7 +294,7 @@ https://stream1.jeem.tv/geo/geonews_abr/playlist.m3u8
 http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX_HD.png?raw=true" group-title="movie",sony_max_HD
-https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8?token=a700c2740eda36dc9f8a6155b0d28c1b"
+https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8?token=a700c2740eda36dc9f8a6155b0d28c1b
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX_HD.png?raw=true" group-title="movie",sm_2
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1582450780~acl=%2f*~data=hdntl~hmac=8d7aee09cf3992b181fda1c78d50ad2208c503f84d86008a60bb587d5bdd0492/master_3500.m3u8
@@ -580,19 +580,19 @@ http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_turbo_ru.jpg"  group-title="earth",BBC Earth HD
-http://103.118.76.229:1935/tvprogram/BBC-EARTH/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_turbo_ru.jpg"  group-title="earth",Sony BBC Earth
-https://streamer-1.toffeelive.com/live/sony_bbc_earth_720/index.m3u8
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1582623982~acl=%2f*~data=hdntl~hmac=c671d9dfb2773d387215994a0b386a25cdc2f95100fff5d8de0c241580300be7/master_3500.m3u8
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-32C279A19D-seeklogo.com.png"  group-title="earth",discovery
-http://streamer.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
+https://streamer-1.toffeelive.com/live/discovery_hd_720/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Animal_Planet_HD_World.png?raw=true"  group-title="earth",animal planet
-https://streamer.multitvsolution.in/live/APHDHindi-a/p4.m3u8
+http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_eur_hd.jpg"  group-title="earth",National Geographic
-http://jprdigitalott.com/media/NationalGeographic.mpd
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_eur_hd.jpg"  group-title="earth",National Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
@@ -610,13 +610,14 @@ https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:0 tvg-logo="http://pluspng.com/img-png/science-png-hd-file-discovery-science-hd-png-575.png" group-title="earth",Discovery Science HD
-https://streamer.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
+http://streamidvo.multitvsolution.in/DiscoverScienceHindi-a/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/history_hd.jpg" group-title="earth",History 2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/04.m3u8?sd=10&rebase=on
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/history_hd.jpg" group-title="earth",History_hindi
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43900
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_hr.jpg" group-title="earth",FOX Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
