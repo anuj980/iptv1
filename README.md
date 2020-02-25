@@ -297,7 +297,7 @@ http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/525714a3be
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8?token=a700c2740eda36dc9f8a6155b0d28c1b
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX_HD.png?raw=true" group-title="movie",sm_2
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1582450780~acl=%2f*~data=hdntl~hmac=8d7aee09cf3992b181fda1c78d50ad2208c503f84d86008a60bb587d5bdd0492/master_3500.m3u8
+http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/72147
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
@@ -527,25 +527,20 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_1_HD.png?raw=true" group-title="sports",Sony Ten1 
-https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/34486
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_2_HD.png?raw=true" group-title="sports",Sony TEN2 HD
-https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/34485
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="sports",Ten3_HD
-http://163.172.85.133:8080/TenS/3/index.m3u8
+http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/34484
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Six_HD.png?raw=true" group-title="sports",SONY SIX HD
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/8108
+http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/34494
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_ESPN_HD.png?raw=true" group-title="sports",ESPN HD
-https://streamer-1.toffeelive.com/live/sony_six_hd_720/index.m3u8
+http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/34495
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",s1
-https://rebrand.ly/StarSports1
-
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",gtv 2
-http://103.68.116.50/live/feed1002/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_sports_hindi
 http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/34492
@@ -553,23 +548,26 @@ http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/34492
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hd
 http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/34493
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_1_1
-http://grabdeal.xyz/livetv/starsports1
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_sports_2
+http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/34491
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_2.png?raw=true" group-title="sports",STAR SPORTS 2 HD
-https://ul.cdn946.net:8443/hls/2vcwg84v3c6ho.m3u8?s=Rm0cNU2S8Z49J0xYZWrz0w&e=1579270114
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_sports_3
+http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/34490
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR select 1 
 http://103.118.76.234:1935/tvprogram/STAR-SPORTS-SELECT1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_HD_1.png?raw=true" group-title="sports",STAR SPORTS SELECT 1
-http://103.118.76.234:1935/tvprogram/STAR-SPORTS-SELECT1/playlist.m3u8
+http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/34489
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_Select_HD_2.png?raw=true" group-title="sports",Star Sports Select 2
-http://103.68.116.50/live/feed1006/index.m3u8
+http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/34488
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_Sports.png?raw=true" group-title="sports",DD Sports
 https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in_480p/index.m3u8
+
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",gtv 2
+http://103.68.116.50/live/feed1002/index.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="sports",Sky Sports Cricket
 http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
