@@ -635,32 +635,31 @@ http://sngprecdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbh
 http://sbglrecdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_1800.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test3
-http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8
+http://sbglrecdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplus/master_1800.m3u8
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test4
-http://starbharat-i.akamaihd.net/hls/live/569933-b/starbharat/master_2000.m3u8
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test4starplus
+http://hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_1800.m3u8
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test5
-http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test5gold
+http://staragold-i.akamaihd.net:80/hls/live/569910-b/staragold/master_1800.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test6
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_600.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test7
-http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8
+http://staragold-i.akamaihd.net:80/hls/live/569910-b/staragold/master_1800.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test8_jio
-http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Rishtey/Rishtey_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg
+http://hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_1800.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test9_jio
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Pal/Sony_Pal_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg
+https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test10_hotstar
-https://live15p.hotstar.com/hls/live/2004211/nzvsind2020/hin/15mindvr1440006264pxrzmzwj8r24january2020/master_4.m3u8
+http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master.m3u8?jct\u003dXDpAGV1pDx_2EpnEfKWKIw\u0026pxe\u003d1587039125\u0026st\u003dpNFtcqZwj504VyrOCjSPjA
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test11_hotstar
-http://sngprecdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_1200.m3u8
-
+ttp://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/ssselecthd2/master.m3u8?jct\u003dXDpAGV1pDx_2EpnEfKWKIw\u0026pxe\u003d1587039125\u0026st\u003dpNFtcqZwj504VyrOCjSPjA
 
 
 ..................................................................................................................................................................
