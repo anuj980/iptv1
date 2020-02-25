@@ -659,7 +659,7 @@ https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklis
 http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master.m3u8?jct\u003dXDpAGV1pDx_2EpnEfKWKIw\u0026pxe\u003d1587039125\u0026st\u003dpNFtcqZwj504VyrOCjSPjA
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",test11_hotstar
-ttp://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/ssselecthd2/master.m3u8?jct\u003dXDpAGV1pDx_2EpnEfKWKIw\u0026pxe\u003d1587039125\u0026st\u003dpNFtcqZwj504VyrOCjSPjA
+http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/ssselecthd2/master.m3u8?jct\u003dXDpAGV1pDx_2EpnEfKWKIw\u0026pxe\u003d1587039125\u0026st\u003dpNFtcqZwj504VyrOCjSPjA
 
 
 ..................................................................................................................................................................
