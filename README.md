@@ -16,7 +16,7 @@ https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/72146 
 
 #EXTINF:0 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
+http://zee18.site/zee/get.php?channel=andtvhd
 
 #EXTINF:0 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
 http://zee18.site/zee/get.php?channel=zeetvhd
