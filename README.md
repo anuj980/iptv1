@@ -1,5 +1,7 @@
 #EXTM3U
 
+For latest  movie join your channel   - https://t.me/newmoviebyanuj
+
 
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star_Plus_hd
