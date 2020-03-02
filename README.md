@@ -9,13 +9,14 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus hd
-http://www.sansat.net:25461/MBGbJTVsytIhBxO/KmMKqyGcMHg1rgS/53851
+ http://51.15.8.16:8081/ind1live/starbharat/playlist.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony.png?raw=true" group-title="entertainment",Sony 
-https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
+ http://51.15.8.16:8081/ind1live/sonytv/playlist.m3u8
+
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony HD
-http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/72146 
+https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 
 #EXTINF:0 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
 http://zee18.site/zee/get.php?channel=andtvhd
@@ -24,7 +25,7 @@ http://zee18.site/zee/get.php?channel=andtvhd
 http://zee18.site/zee/get.php?channel=zeetvhd
 
 #EXTINF:0 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star Bharat HS
-https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+http://51.15.8.16:8081/ind1live/starbharat/playlist.m3u8 
 
 #EXTINF:0 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star_Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
@@ -33,18 +34,17 @@ https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 
 #EXTINF:0 tvg-id="SONY SAB HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB_HD.png?raw=true" group-title="entertainment",Sony SAB HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43850 
+http://51.15.8.16:8081/lolind2/sonysabhd/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="sony pal" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Pal.png?raw=true" group-title="entertainment",Sony Pal 
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43851
+http://51.15.8.16:8081/lolind2/sonypal/playlist.m3u8
 
 #EXTINF:0 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD 
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:0 tvg-id="COLOR" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors_HD.png?raw=true" group-title="entertainment",COLORS_sd
-https://1784075063.rsc.cdn77.org/1784075063/tracks-v1a1/mono.m3u8
-
+https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:0 tvg-id="Z Anmol" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Anmol.png?raw=true" group-title="entertainment",Zee Anmol
 http://zee18.site/zee/get.php?channel=zeeanmol
@@ -307,13 +307,7 @@ http://zee18.site/zee/get.php?channel=zcinemahd
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star Gold HS
-http://www.sansat.net:25461/MBGbJTVsytIhBxO/KmMKqyGcMHg1rgS/53849
-
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_Select_HD.png?raw=true" group-title="movie",Star Select HD 
-http://www.sansat.net:25461/MBGbJTVsytIhBxO/KmMKqyGcMHg1rgS/53850
-
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/UTV_HD.png?raw=true" group-title="movie",UTV HD 
-http://www.sansat.net:25461/MBGbJTVsytIhBxO/KmMKqyGcMHg1rgS/53937
+http://51.15.8.16:8081/ind1live/stargold/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
 http://zee18.site/zee/get.php?channel=andpicshd
