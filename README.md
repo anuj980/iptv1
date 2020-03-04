@@ -881,8 +881,8 @@ https://firebasestorage.googleapis.com/v0/b/alldata-51697.appspot.com/o/new%2FMi
 #EXTINF:0 tvg-logo="https://extraimage.net/images/2019/10/09/394bfeb410989a4e2b51222033b36d0b.md.jpg" group-title="VOD", Batla House
 https://firebasestorage.googleapis.com/v0/b/alldata-51697.appspot.com/o/new%2FBatla%20House%20(2019)%20HD.mkv?alt=media&token=71c56692-f326-415a-8969-61e009403de8
 
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-Yz4PMBCjXwI/XaA0UmHAikI/AAAAAAAAvXU/x_TArrfNtD8Au0f0ho0SIM0tQous9xnJwCLcBGAsYHQ/s600/The%2BLion%2BKing%2B%25282019%2529.jpeg" group-title="VOD", The Lion King Hindi
-https://firebasestorage.googleapis.com/v0/b/alldata-51697.appspot.com/o/new%2FThe%20Lion%20King%20(2019).mkv?alt=media&token=65340761-2ff6-4cde-b7d1-89293c40d4d7
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-Yz4PMBCjXwI/XaA0UmHAikI/AAAAAAAAvXU/x_TArrfNtD8Au0f0ho0SIM0tQous9xnJwCLcBGAsYHQ/s600/The%2BLion%2BKing%2B%25282019%2529.jpeg" group-title="VOD", hotshot
+https://www2167.o0-5.com/token=O7fNmM-n_toWZmC0DGF7lA/1583313924/182.77.0.0/114/e/dd/0afe807c53d7faa2b765e31f58c17dde-480p.mp4
 
 #EXTINF:0 tvg-logo="https://extraimage.net/images/2019/09/11/49fcf7cd6907e60f67ba0bf20a595a16.jpg" group-title="VOD", Spider Man Far From Home Hindi
 https://www.googleapis.com/drive/v3/files/1RXdAl0ilLOPiIlR6Gmb9N2g5RcnPrl2w?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E
