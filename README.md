@@ -190,7 +190,7 @@ https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_5_av-p.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_News.png?raw=true" group-title="NEWS",DD_news_hd
-https://livestream.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_NewsNation/playlist.m3u8
+http://p5.giffy.be:8080/Testing1/Testing1/21065
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_news.png?raw=true" group-title="NEWS",india news 
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8
