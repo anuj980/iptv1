@@ -16,7 +16,7 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony HD
-https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:0 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
@@ -50,10 +50,10 @@ https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeeanmol/index.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",MTV Beats HD
-http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/72215
+http://51.15.8.16:8081/ind1live/mtvbeats/chunks.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",MTV+
-http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/72216
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/53916
 
 #EXTINF:0   tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/dd_national.png" group-title="entertainment",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
