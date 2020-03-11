@@ -9,7 +9,7 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus hd
-https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+https://livedoomovies.com/02_Star_Plus_720p/chunklist.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony.png?raw=true" group-title="entertainment",Sony 
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
@@ -28,7 +28,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 
 #EXTINF:0 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star_Bharat
-https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+https://livedoomovies.com/02_STAR_BHARAT_720p/chunklist.m3u8
  
 #EXTINF:0 tvg-id="SONY SAB" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB.png?raw=true" group-title="entertainment",Sony SAB
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
@@ -315,7 +315,7 @@ http://p5.giffy.be:8080/Testing1/Testing1/21039
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star Gold HS
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+https://livedoomovies.com/02_Star_Gold_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_Select_HD.png?raw=true" group-title="movie",Star_select
 http://p5.giffy.be:8080/Testing1/Testing1/21055
