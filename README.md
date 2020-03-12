@@ -265,6 +265,9 @@ http://zee18.site/zee/get.php?channel=wion
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNBC_TV18.png?raw=true" group-title="NEWS",CNBC 18 News
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
 
+#EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNBC_TV18.png?raw=true" group-title="NEWS",CNN18
+https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
+
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/ET_Now.png?raw=true" group-title="NEWS",ET NOW
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&rebase=on
 
@@ -489,19 +492,19 @@ https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Cartoon_Network_HD+_English.png?raw=true" group-title="kids",cartoon_network
-http://188.35.9.11:21151/udp/185f
+http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",ANIMAX
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",shemaroome
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_net_cartoon.jpg" group-title="kids",Marvel HQ
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Cartoon_Network_Hindi.png?raw=true" group-title="kids",cartoon network
-http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Cartoon_Network_Hindi.png?raw=true" group-title="kids",Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/04.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Disney_XD.png?raw=true" group-title="kids",Disney jr
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
@@ -521,8 +524,8 @@ http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/us/PBSKids.us.png" group-title="Kids",PBS Kids
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
 
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/Pop.uk.png" group-title="Kids",POP Kids
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/Pop.uk.png" group-title="Kids",disney1
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
 
 
