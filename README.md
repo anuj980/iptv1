@@ -416,7 +416,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecafehd/index.m3
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/HBO_HD.png?raw=true" group-title="movie",HBO hd
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49557
+http://217.160.65.197:25461/WEB/WEB/358  
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="movie",Star select
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
