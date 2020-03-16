@@ -535,10 +535,7 @@ http://p5.giffy.be:8080/gabi12/gabi12/20730
 http://68.183.92.29:1935/live/star1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_sports_2
-http://ok2.se:8000/fa32F7UBHT3GJ9ATH/eb2bF9UrjhkJaLbj8/201
-
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_sports_3
-http://ok2.se:8000/fa32F7UBHT3GJ9ATH/eb2bF9UrjhkJaLbj8/202
+http://68.183.92.29:1935/live/star2/playlist.m3u8	
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR select 1 
 http://51.15.8.16:8081/ind1live/starsportsselect1/playlist.m3u8
