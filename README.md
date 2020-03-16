@@ -418,6 +418,9 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/HBO_HD.png?raw=true" group-title="movie",HBO hd
 http://217.160.65.197:25461/WEB/WEB/358  
 
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="movie",Star World1
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8 
+
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="movie",Star select
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
