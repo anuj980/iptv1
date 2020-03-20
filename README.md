@@ -266,10 +266,10 @@ https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0 tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="NEWS",Aljazeera News
-https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/BBC_World_News.png?raw=true" group-title="NEWS",BBC
-http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNN_NEWS_18.png?raw=true" group-title="NEWS",CNN
 http://185.176.117.243/live/eds/CNN/HLS_encr/CNN.m3u8
