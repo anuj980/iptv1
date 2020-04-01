@@ -7,13 +7,13 @@ For latest  movie join your channel   - https://t.me/newmoviebyanuj
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 #EXTINF:0 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD 
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+http://p5.giffy.be:8080/Testing1/Testing1/21056
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony HD
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:0 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star Bharat HS
-https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+http://p5.giffy.be:8080/Testing1/Testing1/21042
 
 #EXTINF:0 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
@@ -302,7 +302,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star_Gold_HS
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+http://p5.giffy.be:8080/Testing1/Testing1/21058
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_Select_HD.png?raw=true" group-title="movie",Star_select
 http://p5.giffy.be:8080/Testing1/Testing1/21055
@@ -532,16 +532,16 @@ https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
 http://p5.giffy.be:8080/gabi12/gabi12/20730
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hd
-http://68.183.92.29:1935/live/star1/playlist.m3u8
+http://195.181.169.120/StarSports_Hd4/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_sports_2
 http://68.183.92.29:1935/live/star2/playlist.m3u8	
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR select 1 
-http://51.15.8.16:8081/ind1live/starsportsselect1/playlist.m3u8
+http://p5.giffy.be:8080/gabi12/gabi12/20733
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_Select_HD_2.png?raw=true" group-title="sports",Star Sports Select 2
-http://51.15.8.16:8081/ind1live/starsportsselect2/playlist.m3u8
+http://p5.giffy.be:8080/gabi12/gabi12/20734
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_Sports.png?raw=true" group-title="sports",DD Sports
 https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in_480p/index.m3u8
