@@ -52,7 +52,7 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/53916
 
 #EXTINF:0   tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/dd_national.png" group-title="entertainment",DD National
-http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_360p/index.m3u8
 
 
 
