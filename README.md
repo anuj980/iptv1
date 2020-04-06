@@ -16,10 +16,10 @@ https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=e
 http://p5.giffy.be:8080/Testing1/Testing1/21042
 
 #EXTINF:0 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
+https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
 
 #EXTINF:0 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
+http://45.120.188.76:8080/0.ts
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus hd
 https://livedoomovies.com/02_Star_Plus_720p/chunklist.m3u8
@@ -170,7 +170,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_News.png?raw=true" group-title="NEWS",Zee News
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
+https://z5ams.akamaized.net/out/v1/369dbd453ff740d49f4dc864a9f8a6b1/exp=1586269826~acl=%2f*~data=hdntl~hmac=5b2b8163b0e946d811a9f56c2f5fc1bef43c282956068035d33f9c5905772643/index_20.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true"  group-title="NEWS",INDIA TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/chunks.m3u8
@@ -254,7 +254,7 @@ https://timesnowssai.akamaized.net/amagi_hls_data_timesnetw-timesnow/CDN/1280x72
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Wion.png?raw=true" group-title="NEWS",WION
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8
+https://z5ams.akamaized.net/out/v1/f3bf04506e254324b199b4fdebddf02a/exp=1586270183~acl=%2f*~data=hdntl~hmac=abcca3290e2675c6f820a5641f4945f726e66e79f4ab21129bec990bfb38d131/index_9.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNBC_TV18.png?raw=true" group-title="NEWS",CNBC 18 News
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
