@@ -51,8 +51,11 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",MTV+
 http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/53916
 
-#EXTINF:0   tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/dd_national.png" group-title="entertainment",DD National
+#EXTINF:0   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
+
+#EXTINF:0   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National hd
+http://zee18.site/zee/get.php?channel=out/v1/061be0ece7a849939ac2d9031f8fc532
 
 
 
