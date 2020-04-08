@@ -616,16 +616,13 @@ http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 ...............................................................................................................................................................................
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",star_plushhd
-https://starplushd-i.akamaihd.net:443/hls/live/569928-b/starplushd/master_1800.m3u8
+http://live.redtraffic.xyz/bigdick.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",star_goldhhd
-http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1800.m3u8
+http://188.35.9.11:21141/udp/214h
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",star_bharathdd
-http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8
-
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",starutsavhhd
-http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8
+http://live.redtraffic.xyz/pornstar.m3u8 
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",aajtaakhd
 http://live.redtraffic.xyz/cuckold.m3u8
