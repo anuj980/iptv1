@@ -616,16 +616,16 @@ http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 ...............................................................................................................................................................................
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",star_plushhd
-http://live.redtraffic.xyz/bigdick.m3u8
+
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",star_goldhhd
-http://188.35.9.11:21141/udp/214h
+
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",star_bharathdd
-http://live.redtraffic.xyz/pornstar.m3u8 
+
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="english movie",aajtaakhd
-http://live.redtraffic.xyz/cuckold.m3u8
+
 
 
 ..................................................................................................................................................................
