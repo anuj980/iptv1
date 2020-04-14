@@ -21,35 +21,15 @@ https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
 #EXTINF:0 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
 http://45.120.188.76:8080/0.ts
 
-#EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus hd
-https://livedoomovies.com/02_Star_Plus_720p/chunklist.m3u8
-
-#EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony.png?raw=true" group-title="entertainment",Sony 
-https://streamer-1.toffeelive.com/live/sony_entertainmnt_hd_720/index.m3u8
-
-#EXTINF:0 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star_Bharat
-https://livedoomovies.com/02_STAR_BHARAT_720p/chunklist.m3u8
- 
-#EXTINF:0 tvg-id="SONY SAB" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB.png?raw=true" group-title="entertainment",Sony SAB
-https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
-
 #EXTINF:0 tvg-id="SONY SAB HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB_HD.png?raw=true" group-title="entertainment",Sony SAB HD
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
-#EXTINF:0 tvg-id="COLOR" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors_HD.png?raw=true" group-title="entertainment",COLORS_sd
-https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:0 tvg-id="Z Anmol" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Anmol.png?raw=true" group-title="entertainment",Zee Anmol
 http://bolly360.xyz:80/zee.php?c=zeeanmol
 
-#EXTINF:0 tvg-id="sony pal" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Pal.png?raw=true" group-title="entertainment",Sony Pal 
-http://51.15.8.16:8081/lolind2/sonypal/playlist.m3u8
-
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",MTV Beats HD
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
-#EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",MTV+
-http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/53916
+https://bracnet.iptv.jadoodigital.com/live/mtv_beats/chunks.m3u8
 
 #EXTINF:0   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
