@@ -224,14 +224,11 @@ https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/NDTV_India.png?raw=true"  group-title="NEWS",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_news_international.jpg" group-title="NEWS",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ndtv_profit.jpg" group-title="NEWS",NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@3.m3u8
 
 #EXTINF:0 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" group-title="NEWS",Times Now HD
-https://timesnowssai.akamaized.net/amagi_hls_data_timesnetw-timesnow/CDN/1280x720_2128000/index.m3u8
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/NDTV_24x7.png?raw=true" group-title="NEWS",NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
@@ -255,7 +252,7 @@ https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNN_NEWS_18.png?raw=true" group-title="NEWS",CNN
-http://185.176.117.243/live/eds/CNN/HLS_encr/CNN.m3u8
+https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dawn_news.jpg" group-title="NEWS",Dawn News
 http://stream.tapmad.com:1935/pitvlive2/dawnnews3/playlist.m3u8
