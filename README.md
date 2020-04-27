@@ -6,6 +6,9 @@ For latest  movie join your channel   - https://t.me/newmoviebyanuj
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star_Plus_hd
 https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
 
+#EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star_Plus
+http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD 
 https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
 
@@ -16,7 +19,7 @@ https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=e
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 
 #EXTINF:0 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-http://z5amshls.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
+http://103.141.66.36/bpk-tv/10403/default/manifest.mpd
 
 #EXTINF:0 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
 http://45.120.188.76:8080/0.ts
@@ -153,10 +156,13 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_News.png?raw=true" group-title="NEWS",Zee News
-http://bolly360.xyz/zee.php?c=zeenews
+http://103.141.66.36/bpk-tv/10285/default/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true"  group-title="NEWS",INDIA TV
-https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/chunks.m3u8
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Republic_Bharat.png?raw=true" group-title="NEWS",Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_0.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_India.png?raw=true" group-title="NEWS",News18 India 
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
@@ -184,9 +190,6 @@ https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.suryasamachar.com/images/logo.png" group-title="NEWS",SURYA SAMACHAR 
 http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
-
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Republic_Bharat.png?raw=true" group-title="NEWS",Republic Bharat
-https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_0.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Delhi_Aaj_Tak.png?raw=true" group-title="NEWS",Delhi Aaj Tak 
 https://hsaajtak-i.akamaihd.net/hls/live/719730/tezevent/tez_6/chunklist.m3u8
@@ -278,7 +281,7 @@ https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdn
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
-https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
+http://103.141.66.36/bpk-tv/10430/default/manifest.mpd
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star_Gold_HS
@@ -289,7 +292,7 @@ https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
-http://bolly360.xyz:80/zee.php?c=andpicshd
+http://103.141.66.36/bpk-tv/10190/default/manifest.mpd
 
 #EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg" group-title="movie",BOLLYWOOD HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
@@ -343,7 +346,7 @@ http://bolly360.xyz:80/zee.php?c=zanmolcnm
 http://bolly360.xyz:80/zee.php?c=classic
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Action.png?raw=true"  group-title="movie",Zee Action
-http://bolly360.xyz:80/zee.php?c=action
+http://103.141.66.36/bpk-tv/10337/default/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/B4U_Movies.png?raw=true" group-title="movie",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
