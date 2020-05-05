@@ -174,7 +174,7 @@ https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_5_av-p.m3u8
 https://stream-03.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUJYCGDWLDaPTNBqAus9u0c)/dm/3/x7t0g3i/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1&qos_geostore=1
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Aaj_Tak_HD.png?raw=true" group-title="NEWS",aajtaak 
-http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_3/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_news.png?raw=true" group-title="NEWS",india news 
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8
