@@ -44,8 +44,7 @@ http://zee18.site/zee/get.php?channel=out/v1/061be0ece7a849939ac2d9031f8fc532
 
 
 ..................................................................................................................................................................................................................................................
-#EXTINF:0 tvg-logo="http://redflixtv.me/uploads/tv_image/mnx.jpeg" group-title="music",sony mix
-https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/k9kHJv9.jpg" group-title="music",Gabruu TV
 http://104.237.60.234/live/gabruutv.m3u8
