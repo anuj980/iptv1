@@ -179,7 +179,7 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_3
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Hindustan.png?raw=true" group-title="NEWS",zee_hindustan
-http://bolly360.xyz:80/zee.php?c=hindustan
+http://z5amshls.akamaized.net/hindustan/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_UP.png?raw=true" group-title="NEWS",IBC 24 NEWS
 https://stream2.ibc24.in/livestream.m3u8?__nn__=5606168722001&hdnea=1577178000_a21ad6364d32739b985255b77a4a45b7
@@ -514,13 +514,13 @@ https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
 http://195.181.169.120/StarSports_Hd1/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hd
-http://195.181.169.120/StarSports_Hd4/playlist.m3u8
+http://amigotv.online:8080/faucontv/2c248b3e1d35/3631
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_sports_2
 http://68.183.92.29:1935/live/star2/playlist.m3u8	
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR select 1 
-http://p5.giffy.be:8080/gabi12/gabi12/20733
+http://amigotv.online:8080/faucontv/2c248b3e1d35/82628
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_Select_HD_2.png?raw=true" group-title="sports",Star Sports Select 2
 http://p5.giffy.be:8080/gabi12/gabi12/20734
