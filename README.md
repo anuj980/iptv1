@@ -152,7 +152,7 @@ http://103.141.66.36/bpk-tv/10285/default/manifest.mpd
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Republic_Bharat.png?raw=true" group-title="NEWS",Republic Bharat
-https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_0.m3u8
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_India.png?raw=true" group-title="NEWS",News18 India 
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
