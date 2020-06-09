@@ -7,13 +7,13 @@ For latest  movie join your channel   - https://t.me/newmoviebyanuj
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 #EXTINF:0 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD 
-http://45.120.188.219:80/0.ts
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony HD
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:0 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star Bharat HS
-http://sngprecdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_1800.m3u8
+https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 
 #EXTINF:0 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
 http://103.141.66.36/bpk-tv/10403/default/manifest.mpd
@@ -161,7 +161,7 @@ https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_5_av-p.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News_Nation.png?raw=true" group-title="NEWS",News Nation
-https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
+http://tv.flametv.design/zeee.m3u8?c=out/v1/9519f4d89ede404fa6b4dc86c616a7ef
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Aaj_Tak_HD.png?raw=true" group-title="NEWS",aajtaak 
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_3/chunklist.m3u8
@@ -182,28 +182,25 @@ https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Delhi_Aaj_Tak.png?raw=true" group-title="NEWS",Delhi Aaj Tak 
-https://hsaajtak-i.akamaihd.net/hls/live/719730/tezevent/tez_6/chunklist.m3u8
+https://feeds.intoday.in/aajtak/api/dat/master.m3u8
 
 #EXTINF:0 tvg-logo="http://sudarshannews.in/wp-content/uploads/2018/09/logo.jpg" group-title="NEWS",SUDARSHAN news
-https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w467417029.m3u8
+https://sudarshan.live/hls/sudarshannews/index.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News_24.png?raw=true" group-title="NEWS",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv-today-aaj-tak-tez-logo.jpg" group-title="NEWS",Aaj Tak Tej
-https://vidcdn.vidgyor.com/tez-origin/liveabr/playlist.m3u8
+https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_3/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2015/09/cnbc-awaaz-1.png" group-title="NEWS",CNBC AWAZ
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 
 #EXTINF:0 tvg-logo="http://ddnews.gov.in/sites/all/themes/cmf/logo.png" group-title="NEWS",DD NEWS 
-https://z5ams.akamaized.net/ddnews/tracks-v1a1/exp=1578632432~acl=%2f*~data=hdntl~hmac=507071205c8389f962f77c2e6629377480d7a780ec2910473aa4dfb4d4d981f9/mono.m3u8
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_Rajyasabha.png?raw=true"  group-title="NEWS",Rajyasabha
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dd_india.jpg"  group-title="NEWS",DD India
-http://bolly360.xyz:80/zee.php?c=ddnews
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Business.png?raw=true"  group-title="NEWS",ZEE BUSINESS
 http://z5amshls.akamaized.net/zeebusiness/tracks-v1a1/index.m3u8
@@ -244,15 +241,11 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNN_NEWS_18.png?raw=true" group-title="NEWS",CNN
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dawn_news.jpg" group-title="NEWS",Dawn News
-http://stream.tapmad.com:1935/pitvlive2/dawnnews3/playlist.m3u8
-
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/b92_tv.jpg" group-title="NEWS",92 News
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/geo_news_international.jpg"  group-title="NEWS",GEO News
-https://stream1.jeem.tv/geo/geonews_abr/playlist.m3u8
-
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
 
 
 
@@ -278,7 +271,7 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
-http://103.141.66.36/bpk-tv/10190/default/manifest.mpd
+http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg" group-title="movie",BOLLYWOOD HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
@@ -300,7 +293,7 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(167772
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_central2.jpg" group-title="movie", MBC BOLLYWOOD
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzoXK3NLZ3BRwm9puzYYeLJD8KM7-7nDXfU6fQ3uJQ6E_7vzBuGA&s" group-title="movie",Videocon 
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
