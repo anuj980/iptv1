@@ -348,57 +348,61 @@ https://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in_480p/index.m3u8
 http://z5amshls.akamaized.net/bigmagic/tracks-v1a1/index.m3u8
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="movie",&Flix hindi
+........................................................................................................................................
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="english movie",&Flix hindi
 http://z5amshls.akamaized.net/andflix/tracks-v1a1/index.m3u8
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="movie",&Flix HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="english movie",&Flix HD
 http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Prive_HD.png?raw=true" group-title="movie",&Prive HD
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Prive_HD.png?raw=true" group-title="english movie",&Prive HD
 http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cafe.png?raw=true" group-title="movie",Zee Cafe SD
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cafe.png?raw=true" group-title="english movie",Zee Cafe SD
 http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cafe.png?raw=true" group-title="movie",Zee Cafe HD
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cafe.png?raw=true" group-title="english movie",Zee Cafe HD
 http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_movie.jpg" group-title="movie",RAI MOVIE HD
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_movie.jpg" group-title="english movie",RAI MOVIE HD
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/HBO_HD.png?raw=true" group-title="movie",HBO hd
-http://channels.ooguy.com:80/auth?channel=Hbo&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/HBO_HD.png?raw=true" group-title="english movie",HBO hd
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="movie",Star World1
-http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8 
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="english movie",Star World1
+https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="movie",Star select
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="english movie",Star select
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="movie",Movies NOW 4K
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="english movie",Movies NOW 4K
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="movie",Star World
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="english movie",Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8?sd=10&rebase=on
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Pix_HD.png?raw=true" group-title="movie",Sony_Pix_HD
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Pix_HD.png?raw=true" group-title="english movie",Sony_Pix_HD
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="movie",Movies Now
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="english movie",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Romedy_Now.png?raw=true" group-title="movie",Romedy Now
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Romedy_Now.png?raw=true" group-title="english movie",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MNX_HD.png?raw=true" group-title="movie",MNX
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MNX_HD.png?raw=true" group-title="english movie",MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_city_hollywood.jpg" group-title="movie",ANX HD
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_city_hollywood.jpg" group-title="english movie",ANX HD
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_city_hollywood.jpg" group-title="movie",blockbaster
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_city_hollywood.jpg" group-title="english movie",blockbaster
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
 
 
