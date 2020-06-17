@@ -379,7 +379,7 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="english movie",Star select
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="english movie",Movies NOW 4K
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
@@ -423,19 +423,19 @@ https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdn
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Cartoon_Network_HD+_English.png?raw=true" group-title="kids",cartoon_network
-https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",Disney Junior
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+http://202.163.117.6:9981/stream/channelid/349051393?codec=mpegts&profile=pass
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",shemaroome
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_net_cartoon.jpg" group-title="kids",Marvel HQ
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_net_cartoon.jpg" group-title="kids",tom & jerry
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Cartoon_Network_Hindi.png?raw=true" group-title="kids",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/04.m3u8
+http://145.239.255.4:8080/BOO/mono.m3u8?token=test
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Disney_XD.png?raw=true" group-title="kids",Disney jr
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
@@ -444,19 +444,11 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 http://45.120.188.207:80/0.ts
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Nick_HD_Plus.png?raw=true" group-title="kids",Nick_Jr 
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
-
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Nick_HD_Plus.png?raw=true" group-title="kids",Nick_Jr2
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8
+https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Disney_XD.png?raw=true" group-title="kids",Disney_XD_HD_USA 
-http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8
+http://202.163.117.6:9981/stream/channelid/349051393?codec=mpegts&profile=pass
 
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/us/PBSKids.us.png" group-title="Kids",PBS Kids
-http://190.80.3.28/PBS/PBS.isml/index.m3u8
-
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/Pop.uk.png" group-title="Kids",disney1
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
 
 
@@ -483,19 +475,19 @@ https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_sports_hindi
-http://195.181.169.120/StarSports_Hd1/tracks-v1a1/mono.m3u8
+http://202.163.117.6:9981/stream/channelid/1089518334
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hd
-http://amigotv.online:8080/faucontv/2c248b3e1d35/3631
+http://tv.ebox.live:8080/live/starsports-1-hind.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_sports_2
-http://68.183.92.29:1935/live/star2/playlist.m3u8	
+http://otv.ftpbd.net/streams/116/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR select 1 
-http://amigotv.online:8080/faucontv/2c248b3e1d35/82628
+http://tv.ebox.live:8080/live/starsportsselect-1.m3u8 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_Select_HD_2.png?raw=true" group-title="sports",Star Sports Select 2
-http://p5.giffy.be:8080/gabi12/gabi12/20734
+ http://tv.ebox.live:8080/live/starsportsselect-2.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_Sports.png?raw=true" group-title="sports",DD Sports
 https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in_480p/index.m3u8
@@ -503,8 +495,6 @@ https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",gtv 2
 http://103.68.116.50/live/feed1002/index.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="sports",Sky Sports Cricket
-http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
 
 
 .................................................................................................................................................................
@@ -514,8 +504,6 @@ http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_turbo_ru.jpg"  group-title="earth",BBC Earth HD
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_turbo_ru.jpg"  group-title="earth",Sony BBC Earth
-http://p5.giffy.be:8080/gabi12/gabi12/21064
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-32C279A19D-seeklogo.com.png"  group-title="earth",discovery
 https://streamer-1.toffeelive.com/live/discovery_hd_720/index.m3u8
