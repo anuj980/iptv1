@@ -13,7 +13,7 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:0 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star Bharat HS
-https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+http://starshare.cc:41000/tuhin12/tuhin12/199
 
 #EXTINF:0 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
 http://103.141.66.36/bpk-tv/10403/default/manifest.mpd
@@ -263,6 +263,9 @@ https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdn
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
 http://103.141.66.36/bpk-tv/10430/default/manifest.mpd
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="movie",Colors Cineplex HD
+http://starshare.cc:41000/tuhin9/tuhin9/867
+
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star_Gold_HS
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
@@ -373,7 +376,7 @@ http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/HBO_HD.png?raw=true" group-title="english movie",HBO hd
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+http://starshare.cc:41000/tuhin12/tuhin12/150
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="english movie",Star World1
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
