@@ -258,7 +258,7 @@ https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdn
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
-http://103.141.66.36/bpk-tv/10430/default/manifest.mpd
+http://findoutyou.com/TJ.m3u8?c=zcinemahd&e=.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="movie",Colors Cineplex HD
 http://starshare.cc:41000/tuhin9/tuhin9/867
@@ -302,7 +302,7 @@ http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Classic.png?raw=true" group-title="movie",Zee Classic
-http://z5amshls.akamaized.net/classic/tracks-v1a1/index.m3u8
+http://findoutyou.com/TJ.m3u8?c=classic&e=.m3u8
 
 
 #EXTINF:0 tvg-name="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="movie",Bollywood Classic
@@ -312,16 +312,16 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(167772
 http://45.120.188.65:8080/0.ts
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="movie",Zee Cinema UK
-http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8
+http://findoutyou.com/TJ.m3u8?c=cinemauk&e=.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="movie",Zee Cinema ME
-http://z5amshls.akamaized.net/zeecinemame/tracks-v1a1/index.m3u8
+http://findoutyou.com/TJ.m3u8?c=zeecinemame&e=.m3u8
 
 #EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/11401_ZeeAnmolCinema1.jpg" group-title="movie",ZEE ANMOL CINEMA
-http://z5amshls.akamaized.net/zanmolcnm/tracks-v1a1/index.m3u8
+http://findoutyou.com/TJ.m3u8?c=zanmolcnm&e=.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Bangla_Cinema.png?raw=true" group-title="movie",Zee Bollywood
-http://z5amshls.akamaized.net/classic/tracks-v1a1/index.m3u8
+http://findoutyou.com/TJ.m3u8?c=classic&e=.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Action.png?raw=true"  group-title="movie",Zee Action
 http://103.141.66.36/bpk-tv/10337/default/manifest.mpd
@@ -355,22 +355,15 @@ http://sbglrecdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargo
 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="english movie",&Flix hindi
-http://z5amshls.akamaized.net/andflix/tracks-v1a1/index.m3u8
-
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="english movie",&Flix HD
-http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+http://findoutyou.com/TJ.m3u8?c=andflixhd&e=.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Prive_HD.png?raw=true" group-title="english movie",&Prive HD
-http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+http://findoutyou.com/TJ.m3u8?c=andprivehd&e=.m3u8
 
-
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cafe.png?raw=true" group-title="english movie",Zee Cafe SD
-http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cafe.png?raw=true" group-title="english movie",Zee Cafe HD
-http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+http://findoutyou.com/TJ.m3u8?c=zeecafehd&e=.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_movie.jpg" group-title="english movie",RAI MOVIE HD
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
