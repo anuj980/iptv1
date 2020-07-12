@@ -10,7 +10,7 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony HD
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+https://sony247channels.akamaized.net/linear/hls/pb/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/f0838709-b8b5-4816-8706-be08e55906fe:TPE/variant/67213275926f45d1a7bba4fe0a5f0c49/bandwidth/hdntl=exp=1594620096~acl=%2f*~id=4ce83527-83e9-4cca-8a1e-7a8fb7df4bda~data=hdntl~hmac=409d5ccc39ab0142e413f927c6f12fbe5fd24a941accbb2608fbb21217c12570/1218800.m3u8
 
 #EXTINF:0 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star Bharat HS
 http://starshare.cc:41000/tuhin12/tuhin12/199
@@ -22,7 +22,7 @@ http://103.141.66.36/bpk-tv/10403/default/manifest.mpd
 http://103.141.66.36/bpk-tv/10182/default/manifest.mpd
 
 #EXTINF:0 tvg-id="SONY SAB HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB_HD.png?raw=true" group-title="entertainment",Sony SAB HD
-https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+https://sony247channels.akamaized.net/linear/hls/pb/event/UI4QFJ_uRk6aLxIcADqa_A/stream/f4f6df34-f6d8-44a0-8dd5-79106a34243e:TPE/variant/8558a26b84c2cd04c1d5496584d97285/bandwidth/hdntl=exp=1594620223~acl=%2f*~id=3a80e44f-56a0-4fdd-9061-106d3eda78a6~data=hdntl~hmac=17d44955ee0096c680614caacffaddf1e2711f9c2288df2c1b0fa3611a3f7ff7/1218800.m3u8
 
 
 #EXTINF:0 tvg-id="Z Anmol" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Anmol.png?raw=true" group-title="entertainment",Zee Anmol
@@ -90,6 +90,7 @@ http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8
 #EXTINF:0 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="music",9X M
 http://z5amshls.akamaized.net/9xm/tracks-v1a1/index.m3u8
 
+
 #EXTINF:0 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/etc.png" group-title="music",Zee ETC
 http://findoutyou.com/TJ.m3u8?c=etc&e=.m3u8
 
@@ -97,7 +98,7 @@ http://findoutyou.com/TJ.m3u8?c=etc&e=.m3u8
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="music",Zing
-http://z5amshls.akamaized.net/zing/tracks-v2a1/playlist.m3u8
+http://lucifer.freetzi.com/rade/web.m3u8?c=zing
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg"  group-title="music",9X O
@@ -145,7 +146,7 @@ http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/ABP_News_India.png?raw=true" group-title="NEWS",ABP News
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_News.png?raw=true" group-title="NEWS",Zee News
 http://103.141.66.36/bpk-tv/10285/default/manifest.mpd
@@ -259,7 +260,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX_HD.png?raw=true" group-title="movie",sony_max_HD
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+https://sony247channels.akamaized.net/linear/hls/pb/event/Qyqz40bSQriqSuAC7R8_Fw/stream/20c44676-9714-4292-8b46-3534315ea5ca:TPE2/variant/ff560568b1beb8e392f1a682ac6b3547/bandwidth/hdntl=exp=1594636014~acl=%2f*~id=4382d881-5bff-4871-ae38-53f403e474b5~data=hdntl~hmac=b1a1386982aecaf774f1c5e1856b1e472d10a5125e7fddc126ae0de158d18a55/1218800.m3u8
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
@@ -277,7 +278,7 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 http://tv.ebox.live:8080/live/star-gold-select.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
-http://z5amshls.akamaized.net/andpicshd/tracks-v2a1/playlist.m3u8
+http://lucifer.freetzi.com/rade/web.m3u8?c=andpicshd
 
 
 #EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg" group-title="movie",BOLLYWOOD HD
@@ -287,7 +288,7 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?
 http://23.186.192.55:8080/live/primeplus/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX.png?raw=true" group-title="movie",Sony Max sd
-https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
+https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/hdntl=exp=1594620345~acl=%2f*~data=hdntl~hmac=afd22f728df5e23e56d5ac52a0734a9b7df6d1b81c23be06e41322622eb982fd/master_664.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Shemaroo_Logo.png"  group-title="movie",shemaroome
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1280x720_cf.m3u8
@@ -309,7 +310,9 @@ http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Classic.png?raw=true" group-title="movie",Zee Classic
-http://findoutyou.com/TJ.m3u8?c=classic&e=.m3u8
+http://findoutyou.com/TJ.m3u8?c=&e=.m3u8
+
+http://lucifer.freetzi.com/rade/web.m3u8?c=classic
 
 
 #EXTINF:0 tvg-name="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="movie",Bollywood Classic
