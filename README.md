@@ -389,7 +389,7 @@ http://findoutyou.com/TJ.m3u8?c=zeecafehd&e=.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/HBO_HD.png?raw=true" group-title="english movie",HBO hd
-http://starshare.cc:41000/tuhin12/tuhin12/150
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="english movie",Star World1
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
