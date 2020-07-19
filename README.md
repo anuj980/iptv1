@@ -27,14 +27,14 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_dvr.m3u8
 
 
 #EXTINF:0 tvg-id="Z Anmol" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Anmol.png?raw=true" group-title="entertainment",Zee Anmol
-http://three.somee.com/rade/web.php?c=zeeanmol
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeeanmol
 
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",sonypal
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_dvr.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/big_magic.jpg" group-title="movie",BIG Magic
-http://z5amshls.akamaized.net/bigmagic/tracks-v1a1/index.m3u8
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=bigmagic
 
 
 #EXTINF:0   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National
@@ -98,6 +98,7 @@ https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 
 #EXTINF:0 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/etc.png" group-title="music",Zee ETC
 http://three.somee.com/rade/web.php?c=etc
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=etc
 
 #EXTINF:0 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png" group-title="music",Zoom
 https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8
@@ -105,9 +106,6 @@ https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8
 #EXTINF:0 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="music",Zing
 http://lucifer.freetzi.com/rade/web.m3u8?c=zing
 
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg"  group-title="music",9X O
-http://three.somee.com/rade/web.php?c=9xo
 
 #EXTINF:0 tvg-logo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_578/PORTRAIT/4a9d4053-fa52-4d71-a8d3-a05d19c5a711.jpg" group-title="music",9X Jalwa
 http://103.141.66.36/bpk-tv/10283/default/manifest.mpd
@@ -175,7 +173,7 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_3
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Hindustan.png?raw=true" group-title="NEWS",zee_hindustan
-http://three.somee.com/rade/web.php?c=hindustan 
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=hindustan 
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_UP.png?raw=true" group-title="NEWS",IBC 24 NEWS
@@ -209,7 +207,7 @@ https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Business.png?raw=true"  group-title="NEWS",ZEE BUSINESS
-http://three.somee.com/rade/web.php?c=zeebusiness
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeebusiness
 
 
 
@@ -229,7 +227,7 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Wion.png?raw=true" group-title="NEWS",WION
-http://three.somee.com/rade/web.php?c=wion
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=wion
 
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNBC_TV18.png?raw=true" group-title="NEWS",CNBC 18 News
@@ -282,7 +280,7 @@ http://103.141.66.36/bpk-tv/10476/default/manifest.mpd
 http://tv.ebox.live:8080/live/star-gold-select.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
-https://z5amshls.akamaized.net/andpicshd/tracks-v3a1/index.m3u8
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andpicshd
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures sd
 http://103.141.66.36/bpk-tv/10190/default/index.m3u8
@@ -320,10 +318,7 @@ http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 http://103.141.66.36/bpk-tv/10102/default/index.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Classic.png?raw=true" group-title="movie",Zee Classic
-http://findoutyou.com/TJ.m3u8?c=&e=.m3u8
-
-http://lucifer.freetzi.com/rade/web.m3u8?c=classic
-
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=classic
 
 #EXTINF:0 tvg-name="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="movie",Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
@@ -332,7 +327,7 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(167772
 http://45.120.188.65:8080/0.ts
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="movie",Zee Cinema UK
-http://z5amshls.akamaized.net/cinemauk/tracks-v2a1/playlist.m3u8
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=cinemauk
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="movie",Zee Cinema ME
@@ -340,10 +335,11 @@ http://z5amshls.akamaized.net/zeecinemame/tracks-v2a1/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/11401_ZeeAnmolCinema1.jpg" group-title="movie",ZEE ANMOL CINEMA
-http://findoutyou.com/TJ.m3u8?c=zanmolcnm&e=.m3u8
+http://findoutyou.com/TJ.m3u8?c=&e=.m3u8
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zanmolcnm
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Bangla_Cinema.png?raw=true" group-title="movie",Zee Bollywood
-http://findoutyou.com/TJ.m3u8?c=classic&e=.m3u8
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=action 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Action.png?raw=true"  group-title="movie",Zee Action
 http://103.141.66.36/bpk-tv/10337/default/manifest.mpd
@@ -376,14 +372,14 @@ https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="english movie",&Flix HD
-http://findoutyou.com/TJ.m3u8?c=andflixhd&e=.m3u8
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andflixhd
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Prive_HD.png?raw=true" group-title="english movie",&Prive HD
-http://findoutyou.com/TJ.m3u8?c=andprivehd&e=.m3u8
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andprivehd
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cafe.png?raw=true" group-title="english movie",Zee Cafe HD
-http://findoutyou.com/TJ.m3u8?c=zeecafehd&e=.m3u8
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeecafehd
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_movie.jpg" group-title="english movie",RAI MOVIE HD
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
@@ -724,12 +720,6 @@ http://198.7.59.28:8078/stream/1/
 
 #EXTINF:0 tvg-logo="http://marci1683.marci.io/img/albums/cache/custom_skin_3_Meet%20Bros%20Anjjan%20and%20Kanika%20Kapoor%7C%7CChittiyaan%20Kalaiyaan%20(From%20Roy%20).jpg" group-title="radio",spiceradio.ca
 http://149.56.147.197:9091/
-
-#EXTINF:0 tvg-logo="https://cdn.webrad.io/images/logos/onlineradios-in/indifun-radio.png" group-title="radio",Indifun Radio
-http://live.redtraffic.xyz/teen.m3u8 
-
-#EXTINF:0 tvg-logo="http://memestamil.com/hindifm/img/suno1024fm.jpg" group-title="radio",funun
-http://live.redtraffic.xyz/blowjob.m3u8
 
 #EXTINF:0 tvg-logo="http://static.radio.net/images/broadcasts/51/c7/23196/c175.png" group-title="radio",Aakashvani Hindi FM
 http://media.guardian.co.tt:8000/aakashvaniradio
