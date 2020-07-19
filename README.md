@@ -249,7 +249,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/b92_tv.jpg" group-title="NEWS",92 News
-https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
 
 
@@ -385,7 +385,7 @@ https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeecafehd
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/HBO_HD.png?raw=true" group-title="english movie",HBO hd
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+https://dl.dropbox.com/sh/ufeeyetsmgdp748/AADdcRn4a09AZ7jVcI2JIXXRa/HBO HITS.m3u8?dl=1
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="english movie",Star World1
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
@@ -414,9 +414,8 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_city_hollywood.jpg" group-title="english movie",ANX HD
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_city_hollywood.jpg" group-title="english movie",blockbaster
-http://starshare.cc:41000/live/tuhin9/tuhin9/4800.m3u8
-
+#EXTINF:0  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="english movie",FOX Movies HD
+http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
 
 
 
@@ -451,6 +450,7 @@ http://145.239.255.4:8080/BOO/mono.m3u8?token=test
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Disney_XD.png?raw=true" group-title="kids",Disney jr
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/duck_tv.jpg" group-title="kids",pogo
 http://45.120.188.207:80/0.ts
