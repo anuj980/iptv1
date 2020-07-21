@@ -737,21 +737,6 @@ http://stream2.ujala.nl/stream/2/listen.mp3
 http://peridot.streamguys.com:7150/Mirchi
 
 
-#EXTINF:0 tvg-logo="https://mytuner.global.ssl.fastly.net/media/radios-100px/p4rnyz9bx5k5.png" group-title="radio",Radio zindagi
-http://live.redtraffic.xyz/bigdick.m3u8
-
-#EXTINF:0 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/r5ljgezveaxu.png" group-title="radio",HID Radi
-http://live.redtraffic.xyz/blowjob.m3u8
-
-#EXTINF:0 tvg-logo="https://onlineradiofm.in/assets/image/radio/180/Radio%20Noida.jpg" group-title="radio",Radio Noida
-http://live.redtraffic.xyz/hardcore.m3u8
-
-#EXTINF:0 tvg-logo="https://radiosindia.com/images/bollyhits.jpg" group-title="radio",Bolly Hits
-http://live.redtraffic.xyz/pornstar.m3u8
-
-#EXTINF:0 tvg-logo="https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/radio-namkin-ek-dumm-zabardast-fm.jpg" group-title="radio",Namkin Radio
-http://live.redtraffic.xyz/teen.m3u8 
-
 
 
 
