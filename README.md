@@ -609,10 +609,10 @@ http://indtv.online/TLC_HD_World.m3u8
 ...............................................................................................................................................................................
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",star_plushhd
-https://jiotv.live.cdn.jio.com/bpk-tv/Star_PlusHD_BTS/output/index.mpd
+https://watchindia.net:8443/live/52296/16834/784.ts
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",star_goldhhd
-https://jiotv.live.cdn.jio.com/bpk-tv/Star_Bharat_HD_BTS/output/index.mpd
+https://watchindia.net:8443/live/52296/16834/2081.ts
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",star_bharathdd
 https://sdlhivkcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Colors_HD_BTS/output/index.mpd
