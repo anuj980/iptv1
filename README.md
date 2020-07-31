@@ -189,7 +189,7 @@ https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_5_av-p.m3u8
 
 #EXTINF:0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png" group-title="NEWS",BBC News Hindi
-http://indtv.online/BBC_Hindi.m3u8
+http://indtv.online/jiotv/BBC_Hindi.m3u8
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Aaj_Tak_HD.png?raw=true" group-title="NEWS",aajtaak 
@@ -403,7 +403,7 @@ https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andflixhd
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="english movie",&xplorHD
-http://indtv.online/0-9-209.m3u8
+http://indtv.online/zee5/0-9-209.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Prive_HD.png?raw=true" group-title="english movie",&Prive HD
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andprivehd
@@ -443,8 +443,8 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MNX_HD.png?raw=true" group-title="english movie",MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_city_hollywood.jpg" group-title="english movie",ANX HD
-https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/WB.png" group-title="english movie",ANX HD
+http://indtv.online/jiotv/WB.m3u8
 
 #EXTINF:0  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="english movie",FOX Movies HD
 http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
