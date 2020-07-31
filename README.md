@@ -302,6 +302,10 @@ http://103.141.66.36/bpk-tv/10430/default/manifest.mpd
 http://indtv.online/jiotv/Colors_Cineplex.m3u8
 
 
+#EXTINF:0 tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bollywood%20HD.png" group-title="movie", Bollywood HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+
+
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star_Gold_HS
 http://103.141.66.36/bpk-tv/10476/default/manifest.mpd
 
@@ -311,8 +315,8 @@ http://indtv.online/jiotv/EROSNOW_Hindi_Premium.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andpicshd
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures sd
-http://103.141.66.36/bpk-tv/10190/default/index.m3u8
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/UTV_HD.png" group-title="movie", Utv HD
+https://bit.ly/2uTVMviESHD
 
 
 #EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg" group-title="movie",BOLLYWOOD HD
