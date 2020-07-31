@@ -278,7 +278,10 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/b92_tv.jpg" group-title="NEWS",pakistan news
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1596245568/ei/4HEkX7y_HcDp4-EP4qC_-Ao/ip/103.216.142.144/id/bnVQETf4FdQ.1/source/yt_live_broadcast/requiressl/yes/tx/23907054/txs/23907052%2C23907053%2C23907054%2C23907055%2C23907056%2C23907057%2C23907058/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/in/vprv/1/go/1/keepalive/yes/fexp/23883098/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIfaXkU7JwtsG4EFIqKGustOpiKhLdmb00fB1xz7DhwlQIhAOZHIRK95_v2v54HVcwmvhHYP_lYxPivCZujaiA5MAOa/file/index.m3u8
+
+
+
 
 
 
