@@ -193,7 +193,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8
 https://m-c02-j2apps.s.loris.llnwd.net/hls/2129.NewsStateUttarakhandUttarPradesh.in_480p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Hindustan.png?raw=true" group-title="NEWS",zee_hindustan
-https://z5amshls.akamaized.net/hindustan/tracks-v2a1/index.m3u8
+http://three.somee.com/web.php?c=hindustan
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_UP.png?raw=true" group-title="NEWS",IBC 24 NEWS
@@ -227,7 +227,7 @@ http://103.141.66.36/bpk-tv/10332/default/index.m3u8
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Business.png?raw=true"  group-title="NEWS",ZEE BUSINESS
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeebusiness
+http://three.somee.com/web.php?c=zeebusiness
 
 
 
@@ -248,7 +248,7 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Wion.png?raw=true" group-title="NEWS",WION
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=wion
+http://three.somee.com/web.php?c=wion
 
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNBC_TV18.png?raw=true" group-title="NEWS",CNBC 18 News
@@ -277,7 +277,7 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title="NEWS",Geo News
-https://playlive.goonj.pk/geonewsweb_480p/index.m3u8
+http://playlive.goonj.pk/geonewsweb_480p/index.m3u8?checkedby:iptvcat.com
 
 
 
@@ -291,7 +291,7 @@ https://playlive.goonj.pk/geonewsweb_480p/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX_HD.png?raw=true" group-title="movie",sony_max_HD
-http://indtv.online/sonyliv/SonyMaxhd.m3u8
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
@@ -313,10 +313,7 @@ http://103.141.66.36/bpk-tv/10476/default/manifest.mpd
 http://indtv.online/jiotv/EROSNOW_Hindi_Premium.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andpicshd
-
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/UTV_HD.png" group-title="movie", Utv HD
-https://bit.ly/2uTVMviESHD
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
 
 
 #EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg" group-title="movie",BOLLYWOOD HD
