@@ -391,7 +391,7 @@ https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="english movie",&xplorHD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+https://wserials.com/live-and-xplor-hd.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Prive_HD.png?raw=true" group-title="english movie",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
@@ -429,7 +429,7 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
 #EXTINF:0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/WB.png" group-title="english movie",ANX HD
-https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/865
 
 #EXTINF:0  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="english movie",FOX Movies HD
 http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
@@ -496,29 +496,22 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_1_HD.png?raw=true" group-title="sports",Sony Ten1 
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/150
+http://103.194.169.115:25461/1E5mc4ZUha/5TTeiw5UAL/54249?play_token=Db4goqDLE5&token=GRdRWUpbQV9BVQkHWlVRB1IEDQMLAQBSUlMAAABXWwdbB1haD1FaUwYRFEQQFxAGVQxnD1YVCVQHUVALHEFNQgdHZlFdEVlHUgoMUldVVEEYQ0wPX1IRWwJWXQUEUgsIVgMVGklaB0dZEQFUWlRATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAMVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXEFRW1ANQxREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFpRUVMWHA==
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_2_HD.png?raw=true" group-title="sports",Sony TEN2 HD
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/196
+http://103.194.169.115:25461/tnlhhdl/Okj4KocP5L/54248?play_token=7KAHSvTulJ&token=GRdRWUpbQV9BCwpVAFNbBlYDDQJUVFFUVQdTUAhSWQdWBw4KCgVaVwARFEQQFxAGVQxnD1YVCVQHUVAKHEFNQgdHZlFdEVlHUgYKVFNSW0EYQ0wPX1IRWwJWXQUCUwkDUQUVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="sports",Ten3_HD
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18196
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Six_HD.png?raw=true" group-title="sports",SONY SIX HD
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/185
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_ESPN_HD.png?raw=true" group-title="sports",ESPN HD
-https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_sports_hindi
-http://indtv.online/jiotv/Jio_Football.m3u8
-
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",jiocricket
-http://indtv.online/jiotv/Jio_Cricket_1_HD.m3u8
+http://185.93.2.159:25461/DAb5jP2Jls/J68lKLexS5/56199?play_token=fwRDXleVfB&token=GRdRWUpbQV9BUQ9fVgEBVgYFXlBUVgJVAVNcUVRQAQhXBggLXwpbXFQRFEQQFxAGVQxnD1YVCVQFUl0LHEFNQgdHZlFdEVlHUgUNUFFVWkEYQ0wPX1IRWwJWXQUBUw4AUwcVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hd
-http://iptv.kitv.live:1935/live/Shari/MTV-P/53.ts
+http://87.117.234.107:1935/live/StarSports1FHD/playlists.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_sports_2
 http://indtv.online/jiotv/Jio_Cricket_1_HD.m3u8
@@ -528,13 +521,13 @@ http://indtv.online/jiotv/Jio_Cricket_1_HD.m3u8
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/198
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR select 1 
-http://indtv.online/jiotv/Jio_Football_2.m3u8
+http://103.194.169.115:25461/tnlhhdl/Okj4KocP5L/54242?play_token=xevBe88Yxz&token=GRdRWUpbQV9BUAlfV1JUW1dRClABAgBRAFsGAFFVDFdWBwBcAApTAFIRFEQQFxAGVQxnD1YVCVQHUVAAHEFNQgdHZlFdEVlHUgYKVFNSW0EYQ0wPX1IRWwJWXQUCUwkCUgEVGklaB0dZEQpfVlZVQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFkNFw9YTRoFXUJdFUEaRggSLmETThdcQE1WDRYKXFZEWUEWEBZNGg9BaEEEQBcWV1EOXUNADxsIGx9BCAJLZwUMDQwGVxVRCVxEEVsRUkYeEg5XXwtBVkpmQwoBQQkaVFRRW1UWHA==
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_Select_HD_2.png?raw=true" group-title="sports",Star Sports Select 2
-http://indtv.online/Dsports.m3u8
+http://103.194.169.115:25461/tnlhhdl/Okj4KocP5L/54243?play_token=9m3hHBxPNg&token=GRdRWUpbQV9BCglWB1AHW1ZVXl8GBQZYUFoFUwYBDVBRDABZXVAGUgYRFEQQFxAGVQxnD1YVCVQHUVABHEFNQgdHZlFdEVlHUgYKVFNSW0EYQ0wPX1IRWwJWXQUCUwkDVAMVGklaB0dZEQpeUlZQQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFkNFw9YTRoFXUJdFUEaRggSLmETThdcQE1WDRYKXFZEWUEWEBZNGg9BaEEEQBcWV1EOXUNADxsIGx9BCAJLZwUMDQwGVxVRCVxEEVsRUkYeEg5XXwtBVkpmQwoBQQkaVFtSUlQWHA==
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_Sports.png?raw=true" group-title="sports",DD Sports
-https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in_480p/index.m3u8
+https://streamitv.multitvsolution.in/idvo/ddsports_360p/index.m3u8 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",gtv 2
 http://tv.ebox.live:8080/live/willow-cric.m3u8
