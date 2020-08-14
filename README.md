@@ -298,7 +298,7 @@ http://103.141.66.36/bpk-tv/10430/default/manifest.mpd
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="movie",Colors Cineplex HD
-http://185.59.220.88:25461/Alen023/alen02/55466?play_token=zpCg0PEFTn&token=GRdRWUpbQV9BBQxXWloBWlFRWVdTBwJVA1QBBwFWDldUV1gBWlZSAFcRFEQQFxAGVQxnD1YVCVQGV1IEHEFNQgdHZlFdEVlHUgsNX1dVVkEYQ0wPX1IRWwJWXQQIVQ0JWwEVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
+http://iptv-line.com:7899/live/zsolt.lanczok1/VL0sGg3l/110869.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star_Gold_HS
 http://103.141.66.36/bpk-tv/10476/default/manifest.mpd
