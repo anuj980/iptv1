@@ -398,16 +398,13 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cafe.png?raw=true" group-title="english movie",Zee Cafe HD
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeecafehd
+http://z5amshls.akamaized.net/zeecafehd/tracks-v2a1/playlist.m3u8
 
 #EXTINF:0  tvg-logo="https://akamaividz.zee5.com/resources/0-9-181/list/386x386/09181theqindiahd.png" group-title="english movie",The Q India HD
-http://indtv.online/zee5/0-9-181.m3u8
-
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_movie.jpg" group-title="english movie",RAI MOVIE HD
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/HBO_HD.png?raw=true" group-title="english movie",HBO hd
-http://indtv.online/jiotv/HBO_HD.m3u8
+http://rstr0.teamnetwork.co/stream179/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="english movie",Star World1
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
@@ -420,7 +417,7 @@ https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Pix_HD.png?raw=true" group-title="english movie",Sony_Pix_HD
-http://indtv.online/zee5/PIXHD.m3u8
+http://103.194.169.115:25461/1E5mc4ZUha/5TTeiw5UAL/54057?play_token=eyiNZ5SJw0&token=GRdRWUpbQV9BVQwCUAJbU1VXClEEU1cHBgFVBFQAAQVSB1gAAQoFAAARFEQQFxAGVQxnD1YVCVQHU1EFHEFNQgdHZlFdEVlHUgoMUldVVEEYQ0wPX1IRWwJWXQUEUgwJVgEVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="english movie",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
@@ -432,7 +429,7 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
 #EXTINF:0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/WB.png" group-title="english movie",ANX HD
-http://indtv.online/jiotv/WB.m3u8
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTINF:0  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="english movie",FOX Movies HD
 http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
@@ -596,13 +593,13 @@ http://indtv.online/jiotv/TLC_HD_World.m3u8
 ...............................................................................................................................................................................
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",dilbechara
-https://z5ams.akamaized.net/out/v1/7dcee573362e48908ab1b335d8780625/exp=1597007659~acl=%2f*~data=hdntl~hmac=66f2a762895391fe128f25c5c96a9786b4b96a7f6a43c76c17d203ec2ebc7d68/index_16.m3u8
+http://127.0.0.1:48996/play/packagerx_mpd3/Nick_HD_Plus/master.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",star_goldhhd
-https://watchindia.net:8443/live/52296/16834/2081.ts
+http://127.0.0.1:48996/play/TLC_Hindi/TLC_Hindi_800.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",star_bharathdd
-https://sdlhivkcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Colors_HD_BTS/output/index.mpd
+http://127.0.0.1:48996/play/IBN_7/IBN_7_800.m3u8
 
 
 
