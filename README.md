@@ -294,17 +294,17 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
-http://103.141.66.36/bpk-tv/10430/default/manifest.mpd
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="movie",Colors Cineplex HD
-http://iptv-line.com:7899/live/zsolt.lanczok1/VL0sGg3l/110869.m3u8
+http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54090?play_token=y5eTUqytvn
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star_Gold_HS
-http://103.141.66.36/bpk-tv/10476/default/manifest.mpd
+https://watchindia.net:8443/live/39824/59648/785.ts
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
-http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg" group-title="movie",BOLLYWOOD HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
@@ -321,10 +321,6 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 #EXTINF:0  tvg-logo="https://www.shemarooent.com/images/shemaroo-me.png" group-title="movie",Bollywood Premier
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 
-
-#EXTINF:0  tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="movie",Bollywood Now
-https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
-
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_central2.jpg" group-title="movie", MBC BOLLYWOOD
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
 
@@ -332,16 +328,13 @@ https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors_Infinity.png?raw=true" group-title="movie",zing
-http://103.141.66.36/bpk-tv/10102/default/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Classic.png?raw=true" group-title="movie",Zee Classic
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=classic
+https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="movie",Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/851px-Sony_MAX.svg.png" group-title="movie",bindass
-http://45.120.188.65:8080/0.ts
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="movie",Zee Cinema UK
 http://z5amshls.akamaized.net/cinemauk/tracks-v2a1/playlist.m3u8
@@ -361,10 +354,10 @@ http://z5amshls.akamaized.net/action/tracks-v2a1/playlist.m3u8
 http://103.141.66.36/bpk-tv/10180/default/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/B4U_Movies.png?raw=true" group-title="movie",B4U Movies
-http://103.141.66.36/bpk-tv/10331/default/index.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/36.m3u8 
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/b4u_plus_ae.jpg" group-title="movie", B4U PLUS
-http://103.141.66.36/bpk-tv/10191/default/index.m3u8
+https://watchindia.net:8443/live/39824/59648/823.ts
 
 #EXTINF:0 tvg-logo="http://skystarmovies.com/wp-content/uploads/2018/05/logo.png" group-title="movie",SKYSTAR MOVIES
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
