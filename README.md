@@ -254,7 +254,7 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title="NEWS",Geo News
-http://103.141.66.36/bpk-tv/10288/default/index.m3u8
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
 
 
 
