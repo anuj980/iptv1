@@ -150,7 +150,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_News.png?raw=true" group-title="NEWS",Zee News
-https://watchindia.net:8443/live/39984/76377/832.ts
+https://z5ams.akamaized.net/linear/hls/pb/event/W1x4XiDkR5yE7K9amJwTDg/stream/38c2aa6e-8ab1-403f-bcef-b000d0ca6df6:SIN/variant/c0ffee3455f60938c3ea0246ea152be9/bandwidth/exp=1599068891~acl=%2f*~id=888d897f-4814-4aca-ba17-5a3dbb53e011~data=hdntl~hmac=bc8b8aa7baaa598ed2ebbd0d6b7d6c2a70b7934f4e67eecf9f08089dc9ff06e7/1901110.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true"  group-title="NEWS",INDIA TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
@@ -174,7 +174,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8
 https://m-c02-j2apps.s.loris.llnwd.net/hls/2129.NewsStateUttarakhandUttarPradesh.in_480p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Hindustan.png?raw=true" group-title="NEWS",zee_hindustan
-http://three.somee.com/web.php?c=hindustan
+https://z5ams.akamaized.net/hindustan/tracks-v2a1/exp=1599069454~acl=%2f*~data=hdntl~hmac=c5bd2a1fba8ee842e3b95f8081d8a3cdd37c7049eec885c3f3d142b8ea5ef454/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_UP.png?raw=true" group-title="NEWS",IBC 24 NEWS
 https://stream2.ibc24.in/livestream.m3u8?__nn__=5606168722001&hdnea=1577178000_a21ad6364d32739b985255b77a4a45b7
@@ -272,7 +272,7 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+https://z5amshls.akamaized.net/zcinemahd/tracks-v3a1/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="movie",Colors Cineplex HD
