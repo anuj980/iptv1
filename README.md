@@ -4,10 +4,10 @@ For latest  movie join your channel   - https://t.me/newmoviebyanuj
 
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star_Plus_hd
-https://watchindia.net:8443/live/16873/83339/1924.ts
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/67.m3u8
 
 #EXTINF:0 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD 
-https://watchindia.net:8443/live/16873/83339/801.ts
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/68.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_dvr.m3u8
@@ -17,10 +17,10 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_dvr.m3u8
 https://watchindia.net:8443/live/16873/83339/780.ts
 
 #EXTINF:0 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-https://watchindia.net:8443/live/71446/19395/1970.ts
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/40.m3u8
 
 #EXTINF:0 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
-https://watchindia.net:8443/live/71446/19395/782.ts
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/74.m3u8
 
 #EXTINF:0 tvg-id="SONY SAB HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB_HD.png?raw=true" group-title="entertainment",Sony SAB HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_dvr.m3u8
