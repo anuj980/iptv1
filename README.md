@@ -17,10 +17,10 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_dvr.m3u8
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/4
 
 #EXTINF:0 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/26
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 
 #EXTINF:0 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/57
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
 
 #EXTINF:0 tvg-id="SONY SAB HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB_HD.png?raw=true" group-title="entertainment",Sony SAB HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_dvr.m3u8
@@ -277,7 +277,7 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
-https://z5amshls.akamaized.net/zcinemahd/tracks-v3a1/index.m3u8
+http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8?@IPTVSoltuion
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="movie",Colors Cineplex HD
@@ -290,7 +290,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/13
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
-https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+http://z5amshls.akamaized.net/andpicshd/tracks-v3a1/playlist.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg" group-title="movie",BOLLYWOOD HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
