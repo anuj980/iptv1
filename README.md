@@ -558,13 +558,13 @@ http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 ...............................................................................................................................................................................
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",dilbechara
-https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+http://43.230.123.21:8080/live/star-plus.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",star_goldhhd
-https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+http://robi.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",star_bharathdd
-https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+http://robi.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
 
 
