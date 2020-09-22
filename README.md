@@ -470,7 +470,7 @@ http://iptv.mirrorace.net/vid.php?c=Starh
 https://bit.ly/3iSNWxN
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star_sports_2
-http://185.59.222.171:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=RED_P0ReeAm8SJ0T_Kmt4MuHwA%3D%3D%2C1600590967.5949028435
+http://f.ok2.se:8000/victor1/victor123/201
 
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR select 1 
