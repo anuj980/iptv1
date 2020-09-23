@@ -4,7 +4,7 @@ For latest  movie join your channel   - https://t.me/newmoviebyanuj
 
 
 #EXTINF:0  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star_Plus_hd
-http://195.181.169.129/StarPlusASIA-Hin/tracks-v1a1/mono.m3u8
+http://ccntv.anytv.live:8080/starplus/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD 
 https://watchindia.net:8443/live/37007/46430/801.m3u8
@@ -463,6 +463,8 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 
 ....................................................................................................................................................................
 
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",ipl live
+http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 eng
 http://aklivetv.com:8080/starsports1/tracks-v1a1/mono.m3u8
