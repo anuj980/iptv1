@@ -445,7 +445,7 @@ http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 http://aklivetv.com:8080/starsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hindi
-https://watchindia.net:8443/live/37007/46430/1072.m3u8
+http://185.246.210.54:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hd
 https://watchindia.net:8443/live/37007/46430/2162.m3u8
