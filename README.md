@@ -2,6 +2,8 @@
 
 For latest  movie join your channel   - https://t.me/newmoviebyanuj
 
+#EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",testing
+https://lh4.googleusercontent.com/proxy/G04UKoY_kwCX2KItsX0fhvVCNYgSTbMrUUtYVKHmF-WbSViaMB6QoMergs-Rgylz09uNL4J2smmNFqad77fKY8Bq8-Dk2cT5C79me30kpIH2G0_jrqMeV8UD5ny8pq57hBgFLWHH3FNbScSNIBpCDSiWJGNOGwlmeQ=s0
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star_Plus_hd
 http://ccntv.anytv.live:8080/starplus/tracks-v1a1/mono.m3u8
