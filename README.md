@@ -539,8 +539,9 @@ http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",dilbechara
 https://load.airtel.tv/sonyten1hd/smil:common.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",star_goldhhd
-https://load.airtel.tv/sonyten2hd/smil:common.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",mirzapur
+https://lh5.googleusercontent.com/proxy/PyMD2PN0s70D8hW29e9m8X6uZvgPJZ11eUPZIHONtF6W9l0VK7k9UpsYb9_VM5j0hI9WyfuIFMuZYwFfyf6WpAcf6WXtbgN4kYTOR_Lx4oRh-lT7Fmtlzj9fTXqUns5M8mBYh8eXJgwYs7V4U3dQPFwnCC43Z-Sogz4=s0
+
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",ipl live
 http://66.northerniptv.ca:8000/live/george/george123/201.m3u8
