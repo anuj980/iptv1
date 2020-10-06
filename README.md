@@ -435,11 +435,11 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 ....................................................................................................................................................................
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_Select_HD_2.png?raw=true" group-title="sports",ipl_live_p
-http://103.194.169.115:25461/hHQcyglr3i/DsIXstfyTnisshared/54242?token=GRdRWUpbQV9BUQwAW1JRVwJUCAJTBQBSV1FSUVVbDwEBDA1bAAZUAwARFEQQFxAGVQxnD1YVCVQHUVAAHEFNQgdHZlFdEVlHUgQMVVJTU0EYQ0wPX1IRWwJVVAMBVAsIVgUVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
+https://watchindia.net:8443/live/44590/90628/808.ts
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",ipl live
-http://mu02.v2iptv.com:8880/test636/re646495/1893
+https://watchindia.net:8443/live/44590/90628/1072.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 eng
 http://103.102.136.106:8080/cmcltv/livesports.m3u8
