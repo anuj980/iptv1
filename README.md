@@ -529,7 +529,9 @@ http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 https://load.airtel.tv/sonyten1hd/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",mirzapur2
-http://45.249.187.238:8081/hls/new1.m3u8
+https://delta14tatasky.akamaized.net/out/i/2624997.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://ipl.indtv.online/tatasky/26280298.mpd1.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",ipl live
