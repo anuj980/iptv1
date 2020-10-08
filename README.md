@@ -430,18 +430,18 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 ....................................................................................................................................................................
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_Select_HD_2.png?raw=true" group-title="sports",ipl_live_p
-https://watchindia.net:8443/live/44590/90628/808.ts
+http://anytv.live:8080/live/saiful/saiful/347.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",ipl live
-https://watchindia.net:8443/live/44590/90628/1072.ts
+https://rebrand.ly/bein-13-n32
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 eng
-http://103.102.136.106:8080/cmcltv/livesports.m3u8
+https://rebrand.ly/sky-sports-2
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR select 1 
-http://mu02.v2iptv.com:8880/test636/re646495/1892
+https://rebrand.ly/star-sports-1-hd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",gtv HD
 http://iptv-line.com:7899/ojeanorson1/5IeqcUFF/54242
