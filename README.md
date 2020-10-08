@@ -534,7 +534,7 @@ http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 https://load.airtel.tv/sonyten1hd/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",mirzapur2
-https://inabsolor.com/15?rnd=2369439820&z=3524072&var=&rb=gzB2KLa5NxsBdRP6QGU7NcgDbzSNldbQPzZ-SVVufAMZVSdHa3ACOvcOco_5SRapYdQEwy7F5rAWTTw4nJxqxemh5i2UrX4UqFUxjWGyClEUHXcbL2I5zZo7UwLDWjzQ4GPBB65KbYbb8zexhFWe_02GtR3UeFlMrpPQSFX4kbtchdSpYwWCRLWN_K-mapAEgCe6xc9-Dve0HFDe1y2JaxXeLHHN5X0sTuQhPgeMk3W2ex5Zcl56H3GNNkM=&ruid=0b51a435-deb1-4dcb-995e-59a48a33ed18&uci=%7B%22path%22%3A%7B%22count%22%3A101%2C%22totalLength%22%3A2160%2C%22pathHistogram%22%3A%7B%224%22%3A3%2C%228%22%3A24%2C%2216%22%3A41%2C%2232%22%3A16%2C%2264%22%3A11%2C%22128%22%3A2%2C%22256%22%3A3%2C%22512%22%3A0%2C%221024%22%3A0%7D%7D%2C%22durationOnCreate%22%3A16.365%2C%22location%22%3A%22https%3A%2F%2Fdatabase.gdriveplayer.us%2F%2Fplayer.php%3Ftype%3Dseries%26imdb%3Dtt6473300%26season%3D1%26episode%3D1%22%2C%22isSelenium%22%3Afalse%2C%22isPhantom%22%3Afalse%2C%22isTouch%22%3Afalse%2C%22pluginCount%22%3A3%2C%22wdov%22%3A0%2C%22isIONS%22%3Atrue%7D
+http://45.249.187.238:8081/hls/new1.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",ipl live
