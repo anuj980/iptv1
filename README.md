@@ -437,7 +437,7 @@ http://www.hitechvisionz.com:25461/live/alba56/123456/195329.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",ipl live
-https://rebrand.ly/bein-13-n32
+https://live15p.hotstar.com/hls/live/2004204/ipl2020/hin/1540002247/15mindvrm0151f4dcc9833245498937a1adbdf8866609october2020/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 eng
 https://rebrand.ly/sky-sports-2
