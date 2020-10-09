@@ -433,7 +433,7 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 ....................................................................................................................................................................
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_Select_HD_2.png?raw=true" group-title="sports",ipl_live_p
-http://anytv.live:8080/live/saiful/saiful/347.m3u8
+http://www.hitechvisionz.com:25461/live/alba56/123456/195329.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",ipl live
