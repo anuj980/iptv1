@@ -440,18 +440,18 @@ http://www.hitechvisionz.com:25461/live/alba56/123456/195329.m3u8
 https://live15p.hotstar.com/hls/live/2004204/ipl2020/hin/1540002247/15mindvrm0151f4dcc9833245498937a1adbdf8866609october2020/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 eng
-https://rebrand.ly/sky-sports-2
+http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR select 1 
 https://rebrand.ly/star-sports-1-hd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",gtv HD
-http://iptv-line.com:7899/ojeanorson1/5IeqcUFF/54242
+http://164.132.160.137/hls/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_Select_HD_2.png?raw=true" group-title="sports",Star Sports Select 2
-https://watchindia.net:8443/live/37007/46430/1071.m3u8
+https://instagram.fdel5-1.fna.fbcdn.net/hvideo-cln2/_nc_ohc-TCPeWAsa5EIAX-kIT_J/_nc_cat-106/v/rUfvAQrr_4xW9GXGjhHK_/live-dash/dash-hd/17857490798237344.mpd?_nc_rl=AfD-Ts2QsYX5-IvE&ms=m_CN&oh=bba2a991eb661e9860471a9b2604919a&oe=5F81EFB7
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_1_HD.png?raw=true" group-title="sports",Sony Ten1 
 https://load.airtel.tv/sonyten1hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
