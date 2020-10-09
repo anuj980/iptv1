@@ -3,10 +3,13 @@
 For latest  movie join your channel   - https://t.me/newmoviebyanuj
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star_Plus_hd
+http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star_Plus_sd
 http://ccntv.anytv.live:8080/starplus/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD 
-http://anytv.live:8080/saiful/saiful/289
+http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_SD
 http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
@@ -267,10 +270,10 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zcinemah
 http://198.255.87.59:8080/INDIA_HINDI/CINEPLEX_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star_Gold_HS
-http://198.255.87.59:8080/INDIA_HINDI/STAR_GOLD_HD/tracks-v1a1/mono.m3u8?token=test
+http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star_select_hd
-http://198.255.87.59:8080/INDIA_HINDI/STAR_GOLD_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
+http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andpicshd/index.m3u8
@@ -529,13 +532,11 @@ http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 https://load.airtel.tv/sonyten1hd/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",mirzapur2
-https://delta14tatasky.akamaized.net/out/i/2624997.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://ipl.indtv.online/tatasky/26280298.mpd1.m3u8
+http://103.141.66.36/bpk-tv/10476/default/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",ipl live
-https://inpagepush.com/500/3521780?excludes=5524033&oaid=39d96d97b73b4909bececa89d9271b05&fs=0&cf=0&sw=1366&sh=768&sah=728&wx=0&wy=0&ww=1366&wh=728&cw=795&wiw=795&wih=592&wfc=5&pl=https%3A%2F%2Fdatabase.gdriveplayer.us%2F%2Fplayer.php%3Ftype%3Dseries%26imdb%3Dtt6473300%26season%3D1%26episode%3D1&drf=https%3A%2F%2Fakaplayer.com%2Fp2p%2FM2xSWTJyU21lYmpETy9QVnUrOFpyQT09%40tt6473300-1-1&np=1&pt=0&nb=1&ng=1&ix=1&nw=0&tb=false
+http://103.141.66.36/bpk-tv/10182/default/manifest.mpd
 
 ..................................................................................................................................................................
 ..................................................................................................................................................................................................................
