@@ -435,9 +435,8 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_Select_HD_2.png?raw=true" group-title="sports",ipl_live_p
 http://ns3035950.ip-164-132-160.eu/hls/stream.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",ipl live
-https://live15p.hotstar.com/hls/live/2004204/ipl2020/hin/1540002247/15mindvrm0151f4dcc9833245498937a1adbdf8866609october2020/master_1.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_Select_HD_2.png?raw=true" group-title="sports",ipl_liv2 
+http://85.203.33.15:25461/GG3R15rlPW/ZOHnfpIDcV/202376?play_token=yrHyGev4sb&token=ShdcBRFREglDAQcHWwpYB1dVAFMKAAEFBQdcUFEHCFNUAlBSAF8JVgRGHxERR0tSUF5mClwbCQVWVwoCAU4bRUJQRjsLXRIJQ1ABC1YEChUdEU0KVVwRDVdTCQcDUwoDAw0YRhJQVBFbRgIBVgYNFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCgYGABtPGlpcQggRS0wVWBt5fxcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUACCwMAChse
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 eng
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
@@ -529,14 +528,14 @@ http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 ...............................................................................................................................................................................
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",dilbechara
-https://load.airtel.tv/sonyten1hd/smil:common.smil/chunklist.m3u8
+https://ott.bingebd.com:443/live/ngrp:sony_max_2_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",mirzapur2
-http://103.141.66.36/bpk-tv/10476/default/manifest.mpd
+https://ott.bingebd.com/live/ngrp:star_gold_intl_all/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",ipl live
-http://103.141.66.36/bpk-tv/10182/default/manifest.mpd
+https://ott.bingebd.com:443/live/ngrp:star_gold_all/playlist.m3u8
 
 ..................................................................................................................................................................
 ..................................................................................................................................................................................................................
