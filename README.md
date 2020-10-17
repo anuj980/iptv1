@@ -523,6 +523,47 @@ https://ott.bingebd.com:443/live/ngrp:star_gold_all/playlist.m3u8
 ..................................................................................................................................................................
 ..................................................................................................................................................................................................................
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Mirchi - Filmy Mirchi 
+https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Mirchi - Hindi Retro 
+https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Big 95 FM 
+https://radioindia.net/radio/sc-bb/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio city Dance 
+http://prclive1.listenon.in:8994
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio City (india) - Hindi 
+http://prclive1.listenon.in:9960/
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Bollywood Radio and Beyond 
+http://96.31.83.86:8084/;
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Big FM 
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Awaj FM 
+http://streamasiacdn.atc-labs.com/radioawaj.aac?listening-from-radio-garden=1601016488674
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio City Hiphop
+http://prclive1.listenon.in:9292/;?listening-from-radio-garden=1601019819282
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Retro Bollywood 
+http://64.71.79.181:5124/stream?listening-from-radio-garden=1601020369270
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Suno FM 102. http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Mirchi - Mirchi Unplugged 
+https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/master.m3u8
+
+
+
+....................................................................................................................................................................................................................................................
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Kabir_Singh.jpg/220px-Kabir_Singh.jpg" group-title="VOD",Kabir Singh
 https://doc-08-0s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/rs20ilqqune4583dsgtlgvndk2j54amn/1578729600000/10068345043379047473/*/1z5zKYe-cbNuTCSVzv-LpkJD80Nx-_9PZ?e=download&access=a5FQyrr0Vun8twXQT76eQAcb0DZBNjyVV8AOrrnfH5ib5nfCDxJd%2BZHAifTohEfIuxd6xORLQDT%2B03hksdcHnNk0qspV3iavSKga%2BrZZASTzBMeXIqSA%2FNhZPmRSP5dH153qTq1XQhhG%2BKEuKWII82&point=database-else
