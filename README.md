@@ -510,11 +510,11 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunkl
 
 ...............................................................................................................................................................................
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",dilbechara
-https://ott.bingebd.com:443/live/ngrp:sony_max_2_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",anupuma
+https://hses4.hotstar.com/videos/plus/anpmsp/85_4f73d8e60c/1260022017/1000253548/1603051000767/8c5c9fdf7b21d17389cd82f736a00472/seg-video-avc1-8.mp4
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",mirzapur2
-https://ott.bingebd.com/live/ngrp:star_gold_intl_all/playlist.m3u8
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=StarTell&q=1200&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",ipl live
