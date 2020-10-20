@@ -278,14 +278,20 @@ http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg" group-title="movie",BOLLYWOOD HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
-
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX.png?raw=true" group-title="movie",Sony Max sd
-https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX.png?raw=true" group-title="movie",Sony Max2
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX.png?raw=true" group-title="movie",Sony_wah
+https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg" group-title="movie",BOLLYWOOD HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Shemaroo_Logo.png"  group-title="movie",shemaroome
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1280x720_cf.m3u8
@@ -445,19 +451,17 @@ http://164.132.160.137/hls/stream.m3u8
 http://global.thunderbd.com/27/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_1_HD.png?raw=true" group-title="sports",Sony Ten1 
-https://load.airtel.tv/sonyten1hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_2_HD.png?raw=true" group-title="sports",Sony TEN2 HD
-http://global.thunderbd.com/21/tracks-v1a1/mono.m3u8
+https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="sports",Ten3_HD
-https://load.airtel.tv/sonyten3hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Six_HD.png?raw=true" group-title="sports",SONY SIX HD
-http://global.thunderbd.com/24/tracks-v1a1/mono.m3u8
+https://load.airtelxstream.in/sonysix/smil:common.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_ESPN_HD.png?raw=true" group-title="sports",ESPN HD
-https://watchindia.net:8443/live/53279/56814/2161.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_Sports.png?raw=true" group-title="sports",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
