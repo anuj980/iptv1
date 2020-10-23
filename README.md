@@ -42,7 +42,7 @@ https://z5amshls.akamaized.net/bigmagic/tracks-v2a1/index.m3u8
 
 
 #EXTINF:-1   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National
-http://cv.khushitv.xyz/channels.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.m3u8
+https://z5ams.akamaized.net/linear/hls/pb/event/-rJNQu3LRR2q6_izClfioA/stream/9596972b-44a7-4ad1-8b13-7c1035e7d855:SIN2/variant/f735447ad9894f2d06ffc1c24bd18d2a/bandwidth/exp=1603523616~acl=%2F*~id=e1b58ce0-8f71-4483-9107-f61064e4975f~data=hdntl~hmac=1c5d8fd8faa707c52f19032b014bbe2dafee18434389a6385454251053f16baa/2961164.m3u8
 
 
 
