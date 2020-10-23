@@ -41,8 +41,14 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_dvr.m3u8
 https://z5amshls.akamaized.net/bigmagic/tracks-v2a1/index.m3u8
 
 
-#EXTINF:-1   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National
+#EXTINF:-1   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National1
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index_dvr.m3u8
+
+#EXTINF:-1   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National2
+https://z5ams.akamaized.net/linear/hls/pb/event/-rJNQu3LRR2q6_izClfioA/stream/bcef1aa6-56fb-4b3c-87b5-be1278f54d73:SIN2/variant/f735447ad9894f2d06ffc1c24bd18d2a/bandwidth/exp=1603537252~acl=%2f*~id=900d9b2d-c383-4f05-8556-45d5298efda5~data=hdntl~hmac=7d60fd3acf6bbb1154312eb3df7135c8d7f5a94428c988d28071bade049b2e86/2961164.m3u8
+
+#EXTINF:-1   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National3
+https://z5ams.akamaized.net/out/v1/061be0ece7a849939ac2d9031f8fc532/index_8_2942839.ts?m=1603434159
 
 
 
