@@ -569,59 +569,33 @@ https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Kabir_Singh.jpg/220px-Kabir_Singh.jpg" group-title="VOD",Kabir Singh
-https://doc-08-0s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/rs20ilqqune4583dsgtlgvndk2j54amn/1578729600000/10068345043379047473/*/1z5zKYe-cbNuTCSVzv-LpkJD80Nx-_9PZ?e=download&access=a5FQyrr0Vun8twXQT76eQAcb0DZBNjyVV8AOrrnfH5ib5nfCDxJd%2BZHAifTohEfIuxd6xORLQDT%2B03hksdcHnNk0qspV3iavSKga%2BrZZASTzBMeXIqSA%2FNhZPmRSP5dH153qTq1XQhhG%2BKEuKWII82&point=database-else
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Malaal_poster.jpg/220px-Malaal_poster.jpg" group-title="VOD",BALA
-https://www.dropbox.com/s/230ui5tfxu65x0t/Bala-Hindi-1080P.mkv?dl=1
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E1
+https://www.googleapis.com/drive/v3/files/1Qtq5XqOMtAb1dCAsxrpYX0KI0Y8D8IRP?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-logo="https://extraimage.net/images/2019/12/27/c899a565b7db479513ce96b73be0056e.jpg" group-title="VOD", Ujada Chaman
-https://www.dropbox.com/s/adaorwzaksew1ky/Ujda-Chaman-V1-Hindi-1080p.mkv?dl=1
+#EXTINF:-1 tvg-ID="2" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E2
+https://www.googleapis.com/drive/v3/files/17VpvgAU-VXO6LnYGEZXn5oVtaE_9QHhN?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Housefull_4_poster.jpg/220px-Housefull_4_poster.jpg" group-title="VOD", Housefull 4
-https://www.dropbox.com/s/czlu2chzre87j1p/Housefull%204-HD-Hindi--1600MB-1080p.mkv?dl=1
+#EXTINF:-1 tvg-ID="3" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E3
+https://www.googleapis.com/drive/v3/files/1B_ThxRhTz6DheP7UD00y9zrLnwF9wyAc?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1  tvg-logo="https://www.glamsham.com/Uploads/article/saaho-20190805181423934.jpg" group-title="VOD", Saaho
-https://www.dropbox.com/s/iyp1ee27z81ywxh/%5Bwww.benytv.xyz%5D-Saaho-Hindi-1080p.mkv?dl=1
+#EXTINF:-1 tvg-ID="4" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E4
+https://www.googleapis.com/drive/v3/files/1GFqaOk3JQAnrmoBOnFGss8Dxn6QcaQ0g?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/War_official_poster.jpg/220px-War_official_poster.jpg" group-title="VOD", War
-https://www.dropbox.com/s/duf6fuxu3awye7e/%5Bwww.benytv.xyz%5D-War-Hindi-1080p.mkv?dl=1
+#EXTINF:-1 tvg-ID="5" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E5
+https://www.googleapis.com/drive/v3/files/1b9d_2sSWUcC2Sf-7J-6khLD1OuH09IAF?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1  tvg-logo="https://extraimage.net/images/2019/11/28/7b356a8dde5c17d859fe7103262323d4.jpg" group-title="VOD", Sye Raa Narasimha Reddy (Hindi)
-https://www.dropbox.com/s/qda97my1ci8nzkv/%5Bwww.benytv.xyz%5D-SSye-Raa-Narasimha-Reddy-Hindi-1080p.mkv?dl=1
+#EXTINF:-1 tvg-ID="6" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E6
+https://www.googleapis.com/drive/v3/files/1CGyx5yddba5hLnYf49D1QWG7MQK6SYme?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1  tvg-logo="https://imgshare.info/images/2019/11/20/857667b3fa6f8b401b30aa20b5bcb559.jpg" group-title="VOD", Dream Girl
-https://www.googleapis.com/drive/v3/files/1qqaC8mPvUI78HC2E76lVsjXNbBoEXpHu?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E
+#EXTINF:-1 tvg-ID="7" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E7
+https://www.googleapis.com/drive/v3/files/1HFzIV64TVPOV4oALH6AbhHAtD1OjZbPr?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1  tvg-logo="https://images3.static-bluray.com/movies/covers/248861_front.jpg" group-title="VOD", Dora and the Lost City of Gold (Hindi)
-https://firebasestorage.googleapis.com/v0/b/allmoviesdata-e0667.appspot.com/o/New%2FDora%20and%20the%20Lost%20City%20of%20Gold%20(2019).mkv?alt=media&token=f9c18a5c-2e21-48b3-a20d-aae09df18a8a
+#EXTINF:-1 tvg-ID="8" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E8
+https://www.googleapis.com/drive/v3/files/1aepqtlXu0tIk4xukf0DE7I1S-nC3qS-u?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D3jx7Ti.jpg" group-title="VOD", Drive
-https://www.googleapis.com/drive/v3/files/1CCvns6ihTvICFXloYCwGAY0qKkN4fcPj?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pYmoYbY.jpg" group-title="VOD", Chhichhore
-https://firebasestorage.googleapis.com/v0/b/alldata-41e1b.appspot.com/o/new%2FChhichhore%20(2019).mp4?alt=media&token=6217f01c-5714-4083-b3f6-0b301c64534f
-
-#EXTINF:-1 tvg-logo="https://extraimage.net/images/2019/08/16/8894a5fce95f0f7fb57dbb84ffb44322.jpg" group-title="VOD", Mision Mangal
-https://firebasestorage.googleapis.com/v0/b/alldata-51697.appspot.com/o/new%2FMission%20Mangal%20(2019).mp4?alt=media&token=0b8991e9-4fee-4fd9-a038-926a4c4c0074
-
-#EXTINF:-1 tvg-logo="https://extraimage.net/images/2019/10/09/394bfeb410989a4e2b51222033b36d0b.md.jpg" group-title="VOD", Batla House
-https://firebasestorage.googleapis.com/v0/b/alldata-51697.appspot.com/o/new%2FBatla%20House%20(2019)%20HD.mkv?alt=media&token=71c56692-f326-415a-8969-61e009403de8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Yz4PMBCjXwI/XaA0UmHAikI/AAAAAAAAvXU/x_TArrfNtD8Au0f0ho0SIM0tQous9xnJwCLcBGAsYHQ/s600/The%2BLion%2BKing%2B%25282019%2529.jpeg" group-title="VOD", hotshot
-https://www2167.o0-5.com/token=O7fNmM-n_toWZmC0DGF7lA/1583313924/182.77.0.0/114/e/dd/0afe807c53d7faa2b765e31f58c17dde-480p.mp4
-
-#EXTINF:-1 tvg-logo="https://extraimage.net/images/2019/09/11/49fcf7cd6907e60f67ba0bf20a595a16.jpg" group-title="VOD", Spider Man Far From Home Hindi
-https://www.googleapis.com/drive/v3/files/1RXdAl0ilLOPiIlR6Gmb9N2g5RcnPrl2w?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E
-
-#EXTINF:-1 tvg-logo="https://www.soyacincau.com/wp-content/uploads/2019/08/20190804-AppleTV-Square-avengers.png" group-title="VOD", Avengers Endgame Hindi
-https://www.googleapis.com/drive/v3/files/1SMbBJjb4v-ayOPZ0sC17qkXdZcvaraDm?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MgdfGXA.jpg" group-title="VOD", Fast And Furious Hobs and Shaw
-https://www.googleapis.com/drive/v3/files/1P4-c1qQvarWzTDOpdcsc2_KRqofY3M5W?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e1/05/5e/e1055e06e20f99d680ff5d5fd1734061.jpg" group-title="VOD", Captain Marvel (Hindi_2019)
-https://cdn.cloud.altbalaji.com/content/2020-01/6668-5e1884fa169d4/GB_S4_E2_WO_SAAT_DIN_R2_1146dcea_BR4500_audio_track_1.mp4
+#EXTINF:-1 tvg-ID="9" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E9
+https://www.googleapis.com/drive/v3/files/1Yy3vXD1LE41rP0JHyBe0P8JwLVH1KZiL?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
 
 
