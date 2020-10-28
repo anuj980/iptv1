@@ -276,7 +276,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 https://watchindia.net:8443/live/53279/56814/803.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star_Gold_HS
-https://watchindia.net:8443/live/53279/56814/785.ts
+http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star_select_hd
 http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
