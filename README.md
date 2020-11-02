@@ -234,7 +234,7 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Wion.png?raw=true" group-title="NEWS",WION
-http://three.somee.com/web.php?c=wion
+http://z5amshls.akamaized.net/wion/tracks-v2a1/playlist.m3u8 
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNBC_TV18.png?raw=true" group-title="NEWS",CNBC 18 News
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
