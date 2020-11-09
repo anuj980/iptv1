@@ -169,6 +169,9 @@ https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News_Nation.png?raw=true" group-title="NEWS",NEWS18 UP
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Bharat_Samachar_Logo.jpg" group-title="NEWS",bharatsamachar
+https://streamidvo.multitvsolution.in/idvo/bharatsamachar_540p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Aaj_Tak_HD.png?raw=true" group-title="NEWS",aajtaak 
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_3/chunklist.m3u8
 
