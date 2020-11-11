@@ -524,7 +524,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunkl
 ...............................................................................................................................................................................
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",anupuma
-https://hses4.hotstar.com/videos/plus/anpmsp/85_4f73d8e60c/1260022017/1000253548/1603051000767/8c5c9fdf7b21d17389cd82f736a00472/seg-video-avc1-8.mp4
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCcK_l/nJv6DA/mkv/ChTGqdyk7knf99f93KWMR6trlT4DvxAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1605696981&Signature=mAFYOTOoqrOobp4iQl1Low4A2MY%3D&ngsw-bypass=1
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",mirzapur2
 https://s7.123movieulz.org/wqtadfdyfqnuzwv4jmmumpboafi5zk6az3ocyhgtg6uu5bdb7ds3t25z2hiq/v.mp4
