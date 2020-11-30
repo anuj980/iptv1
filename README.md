@@ -279,7 +279,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 https://watchindia.net:8443/live/53279/56814/803.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star_Gold_HS
-http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
+http://rktv-ott.com:80/11556CA45F6275A/413D9C02FC3DAC4/73320
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star_select_hd
 http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
@@ -438,7 +438,7 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 ....................................................................................................................................................................
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_1_HD.png?raw=true" group-title="sports",Sony Ten1 
-http://dx3.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8
+http://rktv-ott.com:80/11556CA45F6275A/413D9C02FC3DAC4/122216
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_2_HD.png?raw=true" group-title="sports",Sony TEN2 HD
 http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
