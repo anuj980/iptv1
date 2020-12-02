@@ -5,8 +5,6 @@ For latest  movie join your channel   - https://t.me/newmoviebyanuj
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star_Plus_hd
 http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star_Plus_sd
-http://ccntv.anytv.live:8080/starplus/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD 
 http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
