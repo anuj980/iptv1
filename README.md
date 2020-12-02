@@ -517,7 +517,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunkl
 ...............................................................................................................................................................................
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",anupuma
-https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCcK_l/nJv6DA/mkv/ChTGqdyk7knf99f93KWMR6trlT4DvxAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1605696981&Signature=mAFYOTOoqrOobp4iQl1Low4A2MY%3D&ngsw-bypass=1
+https://z5ams.akamaized.net/linear/hls/pb/event/W1x4XiDkR5yE7K9amJwTDg/stream/0a0e1c5e-f29b-4be2-bda9-fab72a6855e9:SIN/variant/6d7b744b4ea7d3d6494bc592450d38e9/bandwidth/hdntl=exp=1606986683~acl=%2f*~id=bf8d0208-1cd5-4f65-9e5e-47de9f6d1e95~data=hdntl~hmac=a8ebdac76314d1ae1103c3d04317f64359789efbf1b2fc6fade94dab0dcdde04/291063.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",mirzapur2
 https://s7.123movieulz.org/wqtadfdyfqnuzwv4jmmumpboafi5zk6az3ocyhgtg6uu5bdb7ds3t25z2hiq/v.mp4
