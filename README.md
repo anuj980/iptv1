@@ -435,8 +435,8 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 
 ....................................................................................................................................................................
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_1_HD.png?raw=true" group-title="sports",Sony Ten1 
-https://sonydai.akamaized.net/linear/hls/pb/event/YdkvVYC9SWOpxSmk6DXUzQ/stream/466d51ea-09bc-46f0-934b-bd68f1eb1af6:SIN/variant/a84bcf6d882891414d96ab4373873b7f/bandwidth/hdntl=exp=1606983826~acl=%2f*~id=c841fcd4-b867-4866-b505-54c8f86f8cba~data=hdntl~hmac=eba13d5e45e2dffecfa360f3e76344cdf52397f91b95785336aec74c91e31bf6/1201200.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_1_HD.png?raw=true" group-title="sports",Sony Tenen
+https://live.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_2_HD.png?raw=true" group-title="sports",Sony TEN2 HD
 http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
