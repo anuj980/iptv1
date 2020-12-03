@@ -13,7 +13,7 @@ http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
 http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony HD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index.m3u8
+http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star Bharat HS
 http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
@@ -25,7 +25,7 @@ http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB_HD.png?raw=true" group-title="entertainment",Sony SAB HD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_dvr.m3u8
+http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Z Anmol" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Anmol.png?raw=true" group-title="entertainment",Zee Anmol
@@ -436,7 +436,7 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 ....................................................................................................................................................................
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_1_HD.png?raw=true" group-title="sports",Sony Tenen
-https://live.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+http://dx3.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_2_HD.png?raw=true" group-title="sports",Sony TEN2 HD
 http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
@@ -448,13 +448,13 @@ http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 eng
-http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/7888
+http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 2
-http://global.thunderbd.com/26/tracks-v1a1/mono.m3u8
+http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR select 1 
-http://global.thunderbd.com/25/tracks-v1a1/mono.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",gtv HD
 http://164.132.160.137/hls/stream.m3u8
@@ -476,19 +476,19 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_turbo_ru.jpg"  group-title="earth",BBC Earth HD
-https://watchindia.net:8443/live/53279/56814/789.ts
+http://dx3.gcdn.co/hindi-SONYBBCEARTHHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-32C279A19D-seeklogo.com.png"  group-title="earth",discovery
-https://watchindia.net:8443/live/30757/64109/793.ts
+https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png"  group-title="earth",Discovery Science Hindi
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Animal_Planet_HD_World.png?raw=true"  group-title="earth",animal planet
-https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_eur_hd.jpg"  group-title="earth",National Geographic
- https://watchindia.net:8443/live/53279/56814/790.ts
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/food_food_in.jpg"  group-title="earth",food food  
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
@@ -498,9 +498,6 @@ https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://pluspng.com/img-png/science-png-hd-file-discovery-science-hd-png-575.png" group-title="earth",Discovery Science HD
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/history_hd.jpg" group-title="earth",History 2
-https://watchindia.net:8443/live/53279/56814/791.ts
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_hr.jpg" group-title="earth",FOX Life
 http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
