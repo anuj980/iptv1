@@ -3,15 +3,15 @@
 For latest  movie join your channel   - https://t.me/newmoviebyanuj
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star_Plus_hd
-http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
+http://182.176.93.225:8000/play/a00a
 
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD 
-http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
+http://182.176.93.225:8000/play/a00c
 
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony 
-http://cshms2.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/index.m3u8
+https://bit.ly/3fKTNU8seTHd
 
 #EXTINF:-1 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star Bharat HS
 http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
@@ -23,7 +23,7 @@ https://y5w8j4a9.ssl.hwcdn.net/apacsea/tracks-v1a1/index.m3u8
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB_HD.png?raw=true" group-title="entertainment",Sony SAB HD
-http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
+https://bit.ly/3fBsABhd
 
 
 #EXTINF:-1 tvg-id="Z Anmol" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Anmol.png?raw=true" group-title="entertainment",Zee Anmol
@@ -31,7 +31,7 @@ https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",sonypal
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_dvr.m3u8
+https://bit.ly/30a3wsONyPal
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/big_magic.jpg" group-title="movie",BIG Magic
 https://z5amshls.akamaized.net/bigmagic/tracks-v2a1/index.m3u8
@@ -39,15 +39,6 @@ https://z5amshls.akamaized.net/bigmagic/tracks-v2a1/index.m3u8
 
 #EXTINF:-1   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National1
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index_dvr.m3u8
-
-#EXTINF:-1   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National2
-https://z5ams.akamaized.net/linear/hls/pb/event/-rJNQu3LRR2q6_izClfioA/stream/bcef1aa6-56fb-4b3c-87b5-be1278f54d73:SIN2/variant/f735447ad9894f2d06ffc1c24bd18d2a/bandwidth/exp=1603537252~acl=%2f*~id=900d9b2d-c383-4f05-8556-45d5298efda5~data=hdntl~hmac=7d60fd3acf6bbb1154312eb3df7135c8d7f5a94428c988d28071bade049b2e86/2961164.m3u8
-
-#EXTINF:-1   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National3
-https://z5ams.akamaized.net/out/v1/061be0ece7a849939ac2d9031f8fc532/index_8_2942839.ts?m=1603434159
-
-
-
 
 
 
@@ -272,7 +263,7 @@ https://bit.ly/32bsOnymAXhd
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star_Gold_HS
-http://rktv-ott.com:80/11556CA45F6275A/413D9C02FC3DAC4/73320
+http://182.176.93.225:8000/play/a02m
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star_select_hd
 http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
@@ -284,10 +275,10 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 https://bit.ly/30dsoNYmaX2
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX.png?raw=true" group-title="movie",Sony Max2
-https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_dvr.m3u8
+https://bit.ly/2WmsoNYYaY
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX.png?raw=true" group-title="movie",Sony_wah
-https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8
+https://bit.ly/3j7sOnywAh
 
 
 #EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg" group-title="movie",BOLLYWOOD HD
@@ -379,7 +370,7 @@ http://198.255.87.59:8080/INDIA_ENGLISH/STAR_WORLD_HD/tracks-v1a1/mono.m3u8?toke
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Pix_HD.png?raw=true" group-title="english movie",Sony_Pix_HD
-http://global.thunderbd.com/41/tracks-v1a1/mono.m3u8
+https://bit.ly/32sOnypIXhd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="english movie",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
@@ -400,7 +391,7 @@ http://136.243.177.164/AXN/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Yay_Hindi.png?raw=true" group-title="kids",SONY YAY
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_dvr.m3u8
+https://bit.ly/2WmsoNYYaY
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
@@ -431,16 +422,16 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 ....................................................................................................................................................................
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_1_HD.png?raw=true" group-title="sports",Sony Ten1 hd
-https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+https://bit.ly/2B9tEN1hd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_2_HD.png?raw=true" group-title="sports",Sony TEN2 HD
-https://bit.ly/30teN2sd
+https://bit.ly/2DOtEN2hd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="sports",Ten3_HD
-https://bit.ly/2B9teN3sd
+https://bit.ly/2OwtEn3hd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Six_HD.png?raw=true" group-title="sports",SONY SIX HD
-https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8 
+https://bit.ly/3h6sIXHd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 eng
 http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8
