@@ -10,8 +10,8 @@ http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
 http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony HD
-https://bit.ly/3fKTNU8seTHd
+#EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony 
+http://cshms2.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star Bharat HS
 http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
