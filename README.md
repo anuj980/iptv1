@@ -7,14 +7,14 @@ http://156.146.43.241:2200/R-EX/HINDI_STAR_PLUS_HD-in/tracks-v1a1/mono.m3u8?toke
 
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD 
-http://182.176.93.225:8000/play/a00c
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/68114.ts
 
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony 
 https://bit.ly/3fKTNU8seTHd
 
 #EXTINF:-1 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star Bharat HS
-http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/68122.ts
 
 #EXTINF:-1 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
 https://y5w8j4a9.ssl.hwcdn.net/apacsea/tracks-v1a1/index.m3u8
@@ -414,20 +414,15 @@ https://bit.ly/2OwtEn3hd
 https://bit.ly/3h6sIXHd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 eng
-http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/68158.ts
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 2
-http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR select 1 
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
-
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",gtv HD
-http://164.132.160.137/hls/stream.m3u8
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/68162.ts
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_Select_HD_2.png?raw=true" group-title="sports",Star Sports Select 2
-http://global.thunderbd.com/27/tracks-v1a1/mono.m3u8
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/68163.ts
 
 
 
@@ -481,14 +476,14 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunkl
 ...............................................................................................................................................................................
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",dayan
-http://i69.indiworlds.com:182/d/4uiptmel7db4joaxqqdaxyfk37jtiyo4hysxxzlkd2s3kkiwogc25txyuy67zcaj2oioypya/[www.480ptvseries.com]%20M@l3f!c3nt%20(2O!4)%2072Op%20H!nd!.mkv
+https://www1860.ff-04.com/token=AJmhGr_d-hBukei1wywSXg/1608028673/182.64.0.0/140/3/52/92b90a6bfab2109ee3baca6ec040f523-480p.mp4
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",mirzapur2
 https://s7.123movieulz.org/wqtadfdyfqnuzwv4jmmumpboafi5zk6az3ocyhgtg6uu5bdb7ds3t25z2hiq/v.mp4
 
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",ipl live
-https://ott.bingebd.com:443/live/ngrp:star_gold_all/playlist.m3u8
+https://owlsyumducal.com/opf/23986?md=snIhJiO5YDLiMnI6ISMzYjN4djN4ICLiImI6ISMzYjN4FDO2gjIsIiciojIiwiIoJiO5QDO1wiIsJiOiUmbtU1UiwiI0JiOtMzMwwiI6JiO3IzNywiIrJiO0wiI1JiOiUjZ2EWZlJTM5QWMjRjIsIiZiojZhx2clxiIlJiOiEnN5g3b0pndtdTNnVHbzJCLi8mI6Qnc1VGLi0mI6EjNwgDMxgjM5czM4kTf
 
 ..................................................................................................................................................................
 ..................................................................................................................................................................................................................
