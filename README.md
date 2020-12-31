@@ -3,11 +3,11 @@
 For latest  movie join your channel   - https://t.me/newmoviebyanuj
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus 
-http://tv.flametv.design/zeee.m3u8?c=zcinemahd&e=.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.m3u8
 
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD 
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/68114.ts
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony 
