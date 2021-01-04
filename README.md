@@ -9,24 +9,18 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.m3u8
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.m3u8
 
-#EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLORtest
-https://voot.tpro.ga/player?id=805985&token=guxx6px9216jy2tqvum9427p
-
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony 
 https://bit.ly/3fKTNU8seTHd
 
 #EXTINF:-1 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star Bharat HS
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/68122.ts
+http://185.232.53.5:2086/arellano/kgtL965n2Y/91833 
 
 #EXTINF:-1 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-https://y5w8j4a9.ssl.hwcdn.net/apacsea/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zeetest
-https://zee5.tpro.ga/0-9-zeetvhd/75bsqdsb0gs
+http://z5amshls.akamaized.net/ztvme/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
+http://185.232.53.5:2086/arellano/kgtL965n2Y/94738 
 
 #EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB_HD.png?raw=true" group-title="entertainment",Sony SAB HD
 https://bit.ly/3fBsABhd
