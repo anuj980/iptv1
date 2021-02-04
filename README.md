@@ -3,11 +3,11 @@
 For latest  movie join your channel   - https://t.me/newmoviebyanuj
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus 
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.m3u8
+https://m3u8-server2.wserials.com/445/5f0df7552c16c/5f0df7552c16c.m3u8
 
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD 
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.m3u8
+http://rv.therevenge.co:80/live/307220751221/307220751221/83695.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony 
@@ -17,7 +17,7 @@ https://bit.ly/3fKTNU8seTHd
 http://185.232.53.5:2086/arellano/kgtL965n2Y/91833 
 
 #EXTINF:-1 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-http://z5amshls.akamaized.net/ztvme/tracks-v1a1/index.m3u8
+http://rv.therevenge.co:80/live/307220751221/307220751221/83715.m3u8
 
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
 http://185.232.53.5:2086/arellano/kgtL965n2Y/94738 
@@ -358,10 +358,10 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/HBO_HD.png?raw=true" group-title="english movie",HBO hd
-http://182.176.93.225:8000/play/a01v
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="english movie",Star World1
-http://182.176.93.225:8000/play/a013
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="english movie",Movies NOW 4K
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
@@ -384,17 +384,31 @@ http://136.243.177.164/AXN/playlist.m3u8
 
 
 
-...................................................................................................................................................................................................................................
+................................................................................................................................................................................
 
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Hindi Movies", Hindi Cinema 01
+http://fun6.xyz:8880/HINDI_CINEMA_01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Yay_Hindi.png?raw=true" group-title="kids",rtsp
-rtsp://192.168.0.168:554/hdmi
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Hindi Movies", Hindi Cinema 02
+http://fun6.xyz:8880/HINDI_CINEMA_02/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",Discovery Kids
-https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
+#EXTINF:-1  tvg-logo="noimage.png" group-title="Hindi Movies", Hindi Cinema 03
+http://fun6.xyz:8880/HINDI_CINEMA_03/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Cartoon_Network_HD+_English.png?raw=true" group-title="kids",cartoon_network
-http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
+#EXTINF:-1  tvg-logo="noimage.png" group-title="Hindi Movies", Hindi Cinema 04
+http://fun6.xyz:8880/HINDI_CINEMA_04/index.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Hindi Movies", Hindi Cinema 05
+http://fun6.xyz:8880/HINDI_CINEMA_05/index.m3u8
+
+#EXTINF:-1  tvg-logo="noimage.png" group-title="Hindi Movies", Hindi Cinema 06
+http://fun6.xyz:8880/HINDI_CINEMA_06/index.m3u8
+
+#EXTINF:-1  tvg-logo="noimage.png" group-title="Hindi Movies", Hindi Cinema 07
+http://fun6.xyz:8880/HINDI_CINEMA_07/index.m3u8
+
+#EXTINF:-1  tvg-logo="noimage.png" group-title="Hindi Movies", Hindi Cinema 08
+http://fun6.xyz:8880/HINDI_CINEMA_08/index.m3u8
 
 
 
@@ -418,11 +432,11 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/68158.ts
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR select 1 
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/68162.ts
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2752
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_Select_HD_2.png?raw=true" group-title="sports",Star Sports Select 2
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/68163.ts
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2751
 
 
 
@@ -438,19 +452,19 @@ https://m-c048-j2apps.s.llnwi.net/hls/0179.DDSports.in_480p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_turbo_ru.jpg"  group-title="earth",BBC Earth HD
-http://182.176.93.225:8000/play/a02j
+http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=47869&output=m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-32C279A19D-seeklogo.com.png"  group-title="earth",discovery
-https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
+https://itvorigin.multitvsolution.com/idvo/discoveryhindi_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png"  group-title="earth",Discovery Science Hindi
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Animal_Planet_HD_World.png?raw=true"  group-title="earth",animal planet
-https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
+http://pn.tvott.info:80/477845056156344/477845056156344/83685
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_eur_hd.jpg"  group-title="earth",National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+http://pn.tvott.info:80/477845056156344/477845056156344/83645
  
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/food_food_in.jpg"  group-title="earth",food food  
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
@@ -475,18 +489,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunkl
 
 ...............................................................................................................................................................................
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",dayan
-https://www1860.ff-04.com/token=AJmhGr_d-hBukei1wywSXg/1608028673/182.64.0.0/140/3/52/92b90a6bfab2109ee3baca6ec040f523-480p.mp4
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",mirzapur2
-https://s7.123movieulz.org/wqtadfdyfqnuzwv4jmmumpboafi5zk6az3ocyhgtg6uu5bdb7ds3t25z2hiq/v.mp4
-
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/greaenglish movie_hits_tv_uk.jpg" group-title="testing",ipl live
-https://owlsyumducal.com/opf/23986?md=snIhJiO5YDLiMnI6ISMzYjN4djN4ICLiImI6ISMzYjN4FDO2gjIsIiciojIiwiIoJiO5QDO1wiIsJiOiUmbtU1UiwiI0JiOtMzMwwiI6JiO3IzNywiIrJiO0wiI1JiOiUjZ2EWZlJTM5QWMjRjIsIiZiojZhx2clxiIlJiOiEnN5g3b0pndtdTNnVHbzJCLi8mI6Qnc1VGLi0mI6EjNwgDMxgjM5czM4kTf
-
-..................................................................................................................................................................
-..................................................................................................................................................................................................................
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Mirchi - Filmy Mirchi 
 https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
@@ -557,6 +559,21 @@ https://www.googleapis.com/drive/v3/files/1aepqtlXu0tIk4xukf0DE7I1S-nC3qS-u?alt=
 
 #EXTINF:-1 tvg-ID="9" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E9
 https://www.googleapis.com/drive/v3/files/1Yy3vXD1LE41rP0JHyBe0P8JwLVH1KZiL?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
+
+
+...................................................................................................................................................................................................................................
+
+
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Yay_Hindi.png?raw=true" group-title="kids",rtsp
+rtsp://192.168.0.168:554/hdmi
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",Discovery Kids
+https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Cartoon_Network_HD+_English.png?raw=true" group-title="kids",cartoon_network
+http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
+
 
 
 
