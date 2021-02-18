@@ -3,31 +3,31 @@
 For latest  movie join your channel   - https://t.me/newmoviebyanuj
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus 
-https://m3u8-server2.wserials.com/445/5f0df7552c16c/5f0df7552c16c.m3u8
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753695
 
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD 
-http://rv.therevenge.co:80/live/307220751221/307220751221/83695.m3u8
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369019
 
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony 
 https://bit.ly/3fKTNU8seTHd
 
 #EXTINF:-1 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star Bharat HS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91833 
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690101
 
 #EXTINF:-1 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-http://rv.therevenge.co:80/live/307220751221/307220751221/83715.m3u8
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369025
 
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94738 
+http://42.201.130.254:8001/play/a07s/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB_HD.png?raw=true" group-title="entertainment",Sony SAB HD
 https://bit.ly/3fBsABhd
 
 
 #EXTINF:-1 tvg-id="Z Anmol" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Anmol.png?raw=true" group-title="entertainment",Zee Anmol
-https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369026
 
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",sonypal
@@ -133,7 +133,7 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Aaj_Tak_HD.png?raw=true" group-title="NEWS",aajtaak hd
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690188
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/ABP_News_India.png?raw=true" group-title="NEWS",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_1564.m3u8
@@ -169,7 +169,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8
 https://m-c02-j2apps.s.loris.llnwd.net/hls/2129.NewsStateUttarakhandUttarPradesh.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Hindustan.png?raw=true" group-title="NEWS",zee hindustan
-https://liveb.airtelxstream.in/zeehindustan/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690156
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/TV9_Maharashtra.png?raw=true" group-title="NEWS",TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
@@ -205,8 +205,7 @@ https://m-c048-j2apps.s.llnwi.net/hls/0182.DDNews.in_480p/index.m3u8
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Business.png?raw=true"  group-title="NEWS",ZEE BUSINESS
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebusiness/index.m3u8
-
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690108
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/SAHARA_SAMAY_UP.png?raw=true" group-title="NEWS",SAHARA SAMAY
 https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
@@ -263,10 +262,8 @@ https://bit.ly/32bsOnymAXhd
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star_Gold_HS
-http://182.176.93.225:8000/play/a02m
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690172
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",Star_select_hd
-http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
@@ -428,20 +425,14 @@ https://bit.ly/2OwtEn3hd
 https://bit.ly/3h6sIXHd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 eng
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/68158.ts
+http://supersonictv.live:25461/903310/034806/72025
 
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR select 1 
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2752
-
-
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_Select_HD_2.png?raw=true" group-title="sports",Star Sports Select 2
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2751
-
-
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR sports 2
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369097
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_Sports.png?raw=true" group-title="sports",DD Sports
-https://m-c048-j2apps.s.llnwi.net/hls/0179.DDSports.in_480p/index.m3u8
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369093
 
 
 
@@ -452,19 +443,19 @@ https://m-c048-j2apps.s.llnwi.net/hls/0179.DDSports.in_480p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_turbo_ru.jpg"  group-title="earth",BBC Earth HD
-http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=47869&output=m3u8
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690148
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-32C279A19D-seeklogo.com.png"  group-title="earth",discovery
 https://itvorigin.multitvsolution.com/idvo/discoveryhindi_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png"  group-title="earth",Discovery Science Hindi
-https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369045
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Animal_Planet_HD_World.png?raw=true"  group-title="earth",animal planet
-http://pn.tvott.info:80/477845056156344/477845056156344/83685
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690117
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_eur_hd.jpg"  group-title="earth",National Geographic
-http://pn.tvott.info:80/477845056156344/477845056156344/83645
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690169
  
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/food_food_in.jpg"  group-title="earth",food food  
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
@@ -473,16 +464,16 @@ https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://pluspng.com/img-png/science-png-hd-file-discovery-science-hd-png-575.png" group-title="earth",Discovery Science HD
-https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369045
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_hr.jpg" group-title="earth",FOX Life
-http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369020868
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/TLC_HD_World.png?raw=true" group-title="earth",TLC HD World
-https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690151
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="earth",Travel XP HD 
-https://watchindia.net:8443/live/53279/56814/792.ts
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369011709
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/fashion-tv-logo-png-3.png" group-title="earth", Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
@@ -565,8 +556,8 @@ https://www.googleapis.com/drive/v3/files/1Yy3vXD1LE41rP0JHyBe0P8JwLVH1KZiL?alt=
 ...................................................................................................................................................................................................................................
 
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Yay_Hindi.png?raw=true" group-title="kids",rtsp
-rtsp://192.168.0.168:554/hdmi
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Yay_Hindi.png?raw=true" group-title="kids",indiatodayhd
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
