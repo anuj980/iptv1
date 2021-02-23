@@ -133,7 +133,7 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Aaj_Tak_HD.png?raw=true" group-title="NEWS",aajtaak hd
-http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690188
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/ABP_News_India.png?raw=true" group-title="NEWS",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_1564.m3u8
