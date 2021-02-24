@@ -560,7 +560,7 @@ https://www.googleapis.com/drive/v3/files/1Yy3vXD1LE41rP0JHyBe0P8JwLVH1KZiL?alt=
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",Discovery Kids
-https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
+https://knews.livebox.co.in/youtubehls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Cartoon_Network_HD+_English.png?raw=true" group-title="kids",cartoon_network
 http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
