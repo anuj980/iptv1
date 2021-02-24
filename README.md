@@ -244,14 +244,9 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/b92_tv.jpg" group-title="NEWS",pakistan news
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title="NEWS",Geo News
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
 
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="NEWS",Dunya News
-https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
 
 .......................................................................................................................................................................................................
 
@@ -560,7 +555,7 @@ https://www.googleapis.com/drive/v3/files/1Yy3vXD1LE41rP0JHyBe0P8JwLVH1KZiL?alt=
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",Discovery Kids
-https://knews.livebox.co.in/youtubehls/live.m3u8
+https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Cartoon_Network_HD+_English.png?raw=true" group-title="kids",cartoon_network
 http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
