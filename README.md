@@ -2,22 +2,12 @@
 
 For latest  movie join your channel   - https://t.me/newmoviebyanuj
 
-#EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus 
-http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753695
-
-
-#EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD 
-http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369019
-
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony 
 https://bit.ly/3fKTNU8seTHd
 
-#EXTINF:-1 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star Bharat HS
-http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690101
-
 #EXTINF:-1 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369025
+http://cv.khushitv.xyz/channels.php?c=zeetvhd
 
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
 http://42.201.130.254:8001/play/a07s/index.m3u8
@@ -26,12 +16,25 @@ http://42.201.130.254:8001/play/a07s/index.m3u8
 https://bit.ly/3fBsABhd
 
 
+#EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",sonypal
+https://bit.ly/30a3wsONyPal
+
+
 #EXTINF:-1 tvg-id="Z Anmol" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Anmol.png?raw=true" group-title="entertainment",Zee Anmol
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369026
 
 
-#EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",sonypal
-https://bit.ly/30a3wsONyPal
+#EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus 
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753695
+
+
+#EXTINF:-1 tvg-id="Star Bharat hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Bharat_HD.png?raw=true" group-title="entertainment",Star Bharat HS
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=753690101
+
+
+#EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD 
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369019
+
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/big_magic.jpg" group-title="movie",BIG Magic
 https://z5amshls.akamaized.net/bigmagic/tracks-v2a1/index.m3u8
