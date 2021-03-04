@@ -422,9 +422,8 @@ https://bit.ly/3h6sIXHd
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hindi
 https://vsd100.mycdn.me/hls/981517011648.m3u8/sig/U0OWQo-o9jc/expires/1614918721941/srcIp/37.111.135.100/clientType/1/srcAg/CHROME_ANDROID/mid/1994543537856/981517011648_high/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR sports 2
-http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369097
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR sports 1
+http://mu01cz.okcomputer.club:8880/Ttest0303/123456789/1893
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_Sports.png?raw=true" group-title="sports",DD Sports
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369093
