@@ -419,8 +419,8 @@ https://bit.ly/2OwtEn3hd
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Six_HD.png?raw=true" group-title="sports",SONY SIX HD
 https://bit.ly/3h6sIXHd
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 eng
-http://supersonictv.live:25461/903310/034806/72025
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hindi
+https://vsd100.mycdn.me/hls/981517011648.m3u8/sig/U0OWQo-o9jc/expires/1614918721941/srcIp/37.111.135.100/clientType/1/srcAg/CHROME_ANDROID/mid/1994543537856/981517011648_high/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR sports 2
