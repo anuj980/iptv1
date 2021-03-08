@@ -101,7 +101,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Zoom_TV.png" group-title="music",Zoom TV 
-https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Mastiii.png?raw=true" group-title="music",MASTII MUSIC
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
@@ -112,8 +112,8 @@ http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="music",Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="music",MTV Hits
-http://185.59.222.234:2200/R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="music",music india
+ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_karaoke.jpg" group-title="music",Karaoke
 https://www.djing.com/tv/karaoke.m3u8
@@ -121,9 +121,9 @@ https://www.djing.com/tv/karaoke.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/MKTunes.png" group-title="music",music india
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="music",MTV Beats HD
-http://ov100.novacdn.xyz/nmbkxvrteswazx/9780854213567/6481?token=SRJYAhFRRlgVUlQGA1RWU1JUAVEGA1IECgQBBgBVAwAFBVFWUQ8HAA5BHkYSRhRUUFhmW1UWXgIGAVdIEhYVB0BvWQdAA0ZQD1cGUlkQShNFXFRXEw5VAQoEU1EFVlJSHhJACgYbXgxCD15IQ1ceRVRHV1NdawBRRVoBARJZCBdeXBxBDVc7BlIOUwoFEFwTABcVEFhHFBYJXRcIXE9EAFtEQgIWXEZYWRZeCE0QBV5EW01ASBZeFnF3QEgSBh4WV15DCg1XRlgVF0FGTRAPQm5HXEFFRgFVXlYQRgpBVkAeEl0CGmYHDVkNVwcVWwlfQhcDEAAWSBZeXAwNRAwUPUJZVEFYVxEOWx4=
-
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="music",9x jalwa
+ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
+ 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="music",MTV HD Plus
 https://watchindia.net:8443/live/53279/56814/825.ts
 
@@ -287,10 +287,7 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_central2.jpg" group-title="movie", MBC BOLLYWOOD
-https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzoXK3NLZ3BRwm9puzYYeLJD8KM7-7nDXfU6fQ3uJQ6E_7vzBuGA&s" group-title="movie",Videocon 
-http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors_Infinity.png?raw=true" group-title="movie",zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
@@ -518,10 +515,10 @@ https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/master.m3u8
 
 
 #EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E1
-https://www.googleapis.com/drive/v3/files/1Qtq5XqOMtAb1dCAsxrpYX0KI0Y8D8IRP?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+https://bit.ly/3q3PLe5
 
 #EXTINF:-1 tvg-ID="2" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E2
-https://www.googleapis.com/drive/v3/files/17VpvgAU-VXO6LnYGEZXn5oVtaE_9QHhN?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+https://bit.ly/3kx6Uvv
 
 #EXTINF:-1 tvg-ID="3" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E3
 https://www.googleapis.com/drive/v3/files/1B_ThxRhTz6DheP7UD00y9zrLnwF9wyAc?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
