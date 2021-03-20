@@ -546,8 +546,8 @@ https://www.googleapis.com/drive/v3/files/1Yy3vXD1LE41rP0JHyBe0P8JwLVH1KZiL?alt=
 ...................................................................................................................................................................................................................................
 
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Yay_Hindi.png?raw=true" group-title="kids",rtmp
-rtmp://192.168.5.1/live/aajtak
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Yay_Hindi.png?raw=true" group-title="kids",rtmplive 
+rtmp://192.168.0.132/live/stream
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
