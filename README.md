@@ -492,10 +492,10 @@ https://www.googleapis.com/drive/v3/files/1Yy3vXD1LE41rP0JHyBe0P8JwLVH1KZiL?alt=
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Yay_Hindi.png?raw=true" group-title="kids",rtmplive 
-rtmp://192.168.0.132/live/stream
+rtmp://192.168.0.11:1935/live/stream
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",youtube
-https://r8---sn-5pop-qxal.googlevideo.com/videoplayback?expire=1617494779&ei=m65oYM2GHdj44-EPh5SYqA8&ip=103.216.142.95&id=o-AA0PYICUWjL2dvfR_LN1fffzXAV14IDPCNlXutoRaQ2W&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278%2C394%2C395%2C396%2C397%2C398%2C399&source=youtube&requiressl=yes&mh=2w&mm=31%2C29&mn=sn-5pop-qxal%2Csn-qxa7sn7s&ms=au%2Crdu&mv=m&mvi=8&pcm2cms=yes&pl=24&initcwndbps=646250&vprv=1&mime=video%2Fmp4&ns=lPYr0tR1s-VNFVvJO4aVrYMF&gir=yes&clen=51111760&dur=151.200&lmt=1615542518547877&mt=1617472856&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5535432&n=3nabPJxhYUewUZt-A&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAJcJrliNgRlQKUvFLqmYuaPt45_tFOt3zrRxNMH9hTXTAiEA8iatlV9eXuHMB1RXP-pwn13zseMrU1WsYG8Px95HtYk%3D&sig=AOq0QJ8wRQIgVycnhwbj4xV0eHPNlChkpHbKGrjCkePooqBtsEjwAt8CIQDnIXODZYY0nWj2jnuQcI3Wkvjsnd3lkcoiF8p9mUqPCw%3D%3D 
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",udp
+udp://@225.2.1.1:1234
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Cartoon_Network_HD+_English.png?raw=true" group-title="kids",cartoon_network
 http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
