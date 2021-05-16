@@ -8,7 +8,7 @@ http://starshare.live:8080/live/7383236789/2773376789/144.m3u8
 
 
 #EXTINF:-1 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-https://piratesiptv.shortcm.li/zeetv.m3u8
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetvhd
 
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
 https://piratesiptv.shortcm.li/andtv.m3u8
@@ -18,7 +18,7 @@ https://bit.ly/3fBsABhd
 
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",sonypal
-https://bit.ly/30a3wsONyPal
+http://starshare.live:8080/live/7383236789/2773376789/6627.ts
 
 
 #EXTINF:-1 tvg-id="Z Anmol" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Anmol.png?raw=true" group-title="entertainment",Zee Anmol
@@ -136,7 +136,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://abp-i.akamaihd.net/hls/live/765529-b/abphindi/master_1564.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_News.png?raw=true" group-title="NEWS",Zee News
-https://zmcl-live.akamaized.net/zeenewsclean_mbr/tracks-v1a1/mono.m3u8
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeenews
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true"  group-title="NEWS",INDIA TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
@@ -316,7 +316,7 @@ https://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in_480p/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="english movie",&xplorHD
-http://cv.khushitv.xyz/channels.php?c=andxplorhd&e=.m3u8
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-andxplorhd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Prive_HD.png?raw=true" group-title="english movie",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
@@ -325,7 +325,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/HBO_HD.png?raw=true" group-title="english movie",HBO hd
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.m3u8
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="english movie",Star World1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
@@ -355,16 +355,16 @@ http://136.243.177.164/AXN/playlist.m3u8
 ....................................................................................................................................................................
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_1_HD.png?raw=true" group-title="sports",Sony Ten1 hd
-https://bit.ly/2B9tEN1hd
+http://103.205.133.19/hls/ten1.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_2_HD.png?raw=true" group-title="sports",Sony TEN2 HD
-https://bit.ly/2DOtEN2hd
+http://103.205.133.19/hls/ten2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="sports",Ten3_HD
-https://bit.ly/2OwtEn3hd
+http://103.205.133.19/hls/ten3.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Six_HD.png?raw=true" group-title="sports",SONY SIX HD
-https://bit.ly/3h6sIXHd
+http://103.205.133.19/hls/sonysix.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hindi
 https://vsd100.mycdn.me/hls/981517011648.m3u8/sig/U0OWQo-o9jc/expires/1614918721941/srcIp/37.111.135.100/clientType/1/srcAg/CHROME_ANDROID/mid/1994543537856/981517011648_high/index.m3u8
