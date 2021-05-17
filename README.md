@@ -18,7 +18,7 @@ https://bit.ly/3fBsABhd
 
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",sonypal
-http://starshare.live:8080/live/7383236789/2773376789/6627.ts
+https://bit.ly/30a3wsONyPal
 
 
 #EXTINF:-1 tvg-id="Z Anmol" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Anmol.png?raw=true" group-title="entertainment",Zee Anmol
