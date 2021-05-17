@@ -4,7 +4,7 @@ For latest  movie join your channel   - https://t.me/newmoviebyanuj
 
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony 
-http://starshare.live:8080/live/7383236789/2773376789/144.m3u8
+https://bit.ly/3fKTNU8seTHd
 
 
 #EXTINF:-1 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
