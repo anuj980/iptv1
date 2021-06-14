@@ -11,7 +11,7 @@ https://bit.ly/3fKTNU8seTHd
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetvhd
 
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
-https://piratesiptv.shortcm.li/andtv.m3u8
+http://212.102.60.40:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 
 #EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB_HD.png?raw=true" group-title="entertainment",Sony SAB HD
 https://bit.ly/3fBsABhd
@@ -26,12 +26,12 @@ http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus 
-http://103.205.133.21/hls/chsp.m3u8
+http://212.224.98.196:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 
 
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_SD
-http://103.205.133.21/hls/chc.m3u8
+http://212.224.98.196:2200/R-EX/HINDI_COLORS_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/big_magic.jpg" group-title="entertainment",BIG Magic
@@ -245,14 +245,14 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 https://bit.ly/32bsOnymAXhd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
-https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeecinemahd
+http://212.224.98.196:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",cinemaplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
-https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
+http://212.224.98.196:2200/R-EX/HINDI_AND_PICTURES_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX.png?raw=true" group-title="movie",Sony Max sd
 https://bit.ly/30dsoNYmaX2
@@ -355,22 +355,22 @@ http://136.243.177.164/AXN/playlist.m3u8
 ....................................................................................................................................................................
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_1_HD.png?raw=true" group-title="sports",Sony Ten1 hd
-http://103.205.133.19/hls/ten1.m3u8
+http://212.224.98.196:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_2_HD.png?raw=true" group-title="sports",Sony TEN2 HD
-http://103.205.133.19/hls/ten2.m3u8
+http://212.224.98.196:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="sports",Ten3_HD
-http://103.205.133.19/hls/ten3.m3u8
+http://212.224.98.196:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Six_HD.png?raw=true" group-title="sports",SONY SIX HD
-http://103.205.133.19/hls/sonysix.m3u8
+http://212.224.98.196:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hindi
-https://vsd100.mycdn.me/hls/981517011648.m3u8/sig/U0OWQo-o9jc/expires/1614918721941/srcIp/37.111.135.100/clientType/1/srcAg/CHROME_ANDROID/mid/1994543537856/981517011648_high/index.m3u8
+http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=piratesiptv_sohelahmed
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR sports 1
-http://mu01cz.okcomputer.club:8880/Ttest0303/123456789/1893
+http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_Sports.png?raw=true" group-title="sports",DD Sports
 http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75369093
@@ -384,7 +384,7 @@ http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=75
 
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_turbo_ru.jpg"  group-title="earth",BBC Earth HD
-https://itvorigin.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+http://212.224.98.196:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-32C279A19D-seeklogo.com.png"  group-title="earth",discovery
 https://itvorigin.multitvsolution.com/idvo/discoveryhindi_360p/index.m3u8
