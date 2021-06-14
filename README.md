@@ -133,7 +133,7 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/ABP_News_India.png?raw=true" group-title="NEWS",ABP News
-https://abp-i.akamaihd.net/hls/live/765529-b/abphindi/master_1564.m3u8
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_1564.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_News.png?raw=true" group-title="NEWS",Zee News
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeenews
