@@ -8,7 +8,7 @@ https://bit.ly/3fKTNU8seTHd
 
 
 #EXTINF:-1 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetvhd
+https://streamer-1.toffeelive.com/mobile_hls/zee_tv_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
 http://212.102.60.40:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8?token=piratesiptv_sohelahmed
