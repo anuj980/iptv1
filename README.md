@@ -328,16 +328,16 @@ https://bit.ly/32sOnypIXhd
 ....................................................................................................................................................................
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_1_HD.png?raw=true" group-title="sports",Sony Ten1 hd
-http://212.224.98.196:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=piratesiptv_sohelahmed
+https://bit.ly/2B9tEN1hd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_2_HD.png?raw=true" group-title="sports",Sony TEN2 HD
-http://212.224.98.196:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=piratesiptv_sohelahmed
+https://bit.ly/2DOtEN2hd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="sports",Ten3_HD
-http://212.224.98.196:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=piratesiptv_sohelahmed
+https://bit.ly/2OwtEn3hd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Six_HD.png?raw=true" group-title="sports",SONY SIX HD
-http://212.224.98.196:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=piratesiptv_sohelahmed
+https://bit.ly/3h6sIXHd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hindi
 http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=piratesiptv_sohelahmed
