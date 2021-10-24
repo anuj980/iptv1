@@ -8,10 +8,10 @@ https://bit.ly/3fKTNU8seTHd
 
 
 #EXTINF:-1 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-http://rubeliptv.zapto.org:25461/ips7/44332277/389
+http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
-http://173.199.120.51/hls/andtv.m3u8
+https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
 
 #EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB_HD.png?raw=true" group-title="entertainment",Sony SAB HD
 https://bit.ly/3fBsABhd
@@ -23,16 +23,16 @@ https://bit.ly/30a3wsONyPal
 
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus 
-http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_SD
-http://51.79.84.156:8082/ColorsIn/index.m3u8
+http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/big_magic.jpg" group-title="entertainment",BIG Magic
-https://f8e7y4c6.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-bigmagic_1786965389
 
 
 #EXTINF:-1   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National1
