@@ -333,11 +333,17 @@ https://bit.ly/2OwtEn3hd
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Six_HD.png?raw=true" group-title="sports",SONY SIX HD
 https://bit.ly/3h6sIXHd
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 hindi
-http://ux38.gcdn.co/UKS8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 
+http://iptvtree.net:8080/Ainamanja/6a4fef36/3630
+
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 test
+http://iptvtree.net:8080/Ainamanja/6a4fef36/3630
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR sports 2
-http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3979
+
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 test1
+http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218155
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_Sports.png?raw=true" group-title="sports",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
