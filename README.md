@@ -338,10 +338,10 @@ https://bit.ly/3h6sIXHd
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/58PTueFMJJ7N432d__Gsr43WJdMFtJKmANOvp6aHFvxcTYATUnd1Bn5q9onfSDCGv-CQzDX5A1HNdUyFaPTsjA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live@LiveCricket_Links_Official
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 
-http://iptvtree.net:8080/Ainamanja/6a4fef36/3630
+http://103.17.201.18:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 test
-http://iptvtree.net:8080/Ainamanja/6a4fef36/3630
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/kRKtAtz63hw6yHRod6XzR3VgCXRaDne61n5s8DiOfh4i_YtnbEGJBa7xDbE5K0cM0LiKDt50Mj1Wgp6XBS6FmA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",STAR sports 2
 http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3979
