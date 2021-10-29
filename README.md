@@ -726,16 +726,16 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Lazarus%20(2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Anna%20(2019).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/zc4wt7Oc9xJawj6oWGMFSs11JE6.jpg", Lucky Trouble
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Lucky%20Trouble.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/cMjEOCHYOtZH1P8C7XfIwcRjs3D.jpg", White Chicks
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/White_Chicks_2004.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8ZMrZGGW65ePWIgRn1260nA1uUm.jpg", Fantasy Island
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Fantasy%20Island%20(2020).mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/jfIpMh79fGRqYJ6PwZLCntzgxlF.jpg", Valerian And The City of Thousand Planet
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Valerian_And_The_City_Of.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fVamGe8rfEQUrMbzumL1t0DslCA.jpg", Rambo First Blood Part 1
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo.First.Blood.Part.I.1982.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/jD9RfNGLuC8kUrW7hxjKChDdctm.jpg", Rambo First Blood Part 2
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo%20First%20Blood%20Part%202%20(1985).mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/cMjEOCHYOtZH1P8C7XfIwcRjs3D.jpg", WhiteXXX
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8ZMrZGGW65ePWIgRn1260nA1uUm.jpg", FantasyXXX
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/jfIpMh79fGRqYJ6PwZLCntzgxlF.jpg", ValerianXXX
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fVamGe8rfEQUrMbzumL1t0DslCA.jpg", RamboXXX
+http://live.redtraffic.xyz/teen.m3u8 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/jD9RfNGLuC8kUrW7hxjKChDdctm.jpg", RamboXXX
+http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/4JdznE7nvxEkDR4OfwdoRKIeXVX.jpg", Rambo III
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo.III.1988.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/bFjt1JwDRn98j03UQgQ005bNrti.jpg", Rambo
