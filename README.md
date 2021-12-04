@@ -236,7 +236,7 @@ http://geoiptv.org:8880/77465758/38767690/325254
 https://bit.ly/32bsOnymAXhd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
-http://geoiptv.org:8880/77465758/38767690/179084
+http://jo123.biz/jweb/m3u8.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",cinemaplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
