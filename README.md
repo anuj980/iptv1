@@ -6,10 +6,10 @@ For latest  movie join your channel   - https://t.me/newmoviebyanuj
 https://bit.ly/3fKTNU8seTHd
 
 #EXTINF:-1 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-http://jo123.biz/jweb/m3u8.php?c=Zee_TV_HD&q=1200&e=junk.m3u8
+http://geoiptv.org:8880/77465758/38767690/179088
 
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
-http://jo123.biz/jweb/m3u8.php?c=And_TV_HD&q=1200&e=junk.m3u8
+http://geoiptv.org:8880/77465758/38767690/325335
 
 #EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB_HD.png?raw=true" group-title="entertainment",Sony SAB HD
 https://bit.ly/3fBsABhd
@@ -28,10 +28,16 @@ http://geoiptv.org:8880/77465758/38767690/179091
 #EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png"group-title="entertainment", Star Bharat HD
 http://geoiptv.org:8880/77465758/38767690/179085
 
+#EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png"group-title="entertainment", Star Bharat
+http://geoiptv.org:8880/77465758/38767690/179148
+
 
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_SD
 http://jo123.biz/jweb/m3u8.php?c=Colors_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD
+http://geoiptv.org:8880/77465758/38767690/179093
 
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/big_magic.jpg" group-title="entertainment",BIG Magic
@@ -386,7 +392,7 @@ https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 http://jo123.biz/jweb/m3u8.php?c=TLC_HD_World&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="earth",Travel XP HD 
-https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+http://geoiptv.org:8880/77465758/38767690/325213
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/fashion-tv-logo-png-3.png" group-title="earth", Fashion TV
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
