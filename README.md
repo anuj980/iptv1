@@ -6,10 +6,10 @@ For latest  movie join your channel   - https://t.me/newmoviebyanuj
 https://bit.ly/3fKTNU8seTHd
 
 #EXTINF:-1 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-http://geoiptv.org:8880/77465758/38767690/179088
+http://jo123.biz/jweb/m3u8.php?c=Zee_TV_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
-http://geoiptv.org:8880/77465758/38767690/325335
+http://jo123.biz/jweb/m3u8.php?c=And_TV_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB_HD.png?raw=true" group-title="entertainment",Sony SAB HD
 https://bit.ly/3fBsABhd
