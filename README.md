@@ -449,7 +449,7 @@ https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/master.m3u8
 udp://@225.2.1.1:1234
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",test2
-https://bit.ly/3rI5hAC
+udp://225.2.1.1:1234
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Cartoon_Network_HD+_English.png?raw=true" group-title="kids",test3
 https://bit.ly/3okFE78
