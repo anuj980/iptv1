@@ -19,10 +19,10 @@ https://bit.ly/3fBsABhd
 https://bit.ly/30a3wsONyPal
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus 
-http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.166.253.222/hls/starplus.m3u8
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus HD
-http://geoiptv.org:8880/77465758/38767690/179091
+http://103.166.253.222/hls/starplus.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png"group-title="entertainment", Star Bharat HD
@@ -32,16 +32,12 @@ http://geoiptv.org:8880/77465758/38767690/179085
 http://geoiptv.org:8880/77465758/38767690/179148
 
 
-
-#EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_SD
-http://jo123.biz/jweb/m3u8.php?c=Colors_HD&q=1200&e=junk.m3u8
-
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD
-http://geoiptv.org:8880/77465758/38767690/179093
+http://103.166.253.222/hls/colore-tv-hd.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/big_magic.jpg" group-title="entertainment",BIG Magic
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-bigmagic_1786965389
+http://103.159.4.38:8080/MUSIC-1/index.m3u8
 
 
 #EXTINF:-1   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National1
@@ -243,14 +239,13 @@ http://geoiptv.org:8880/77465758/38767690/325254
 https://bit.ly/32bsOnymAXhd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
-http://jo123.biz/jweb/m3u8.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
+http://103.166.253.222/hls/zeecinemahd.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png?raw=true" group-title="movie",cinemaplex
-https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png" group-title="movie",Star Gold HD
+http://103.166.253.222/hls/stargold.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
-http://jo123.biz/jweb/m3u8.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
+http://103.166.253.222/hls/andpictures.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX.png?raw=true" group-title="movie",Sony Max2
@@ -267,7 +262,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 http://jo123.biz/jweb/m3u8.php?c=Zing&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/big_magic.jpg" group-title="movie",action
-http://jo123.biz/jweb/m3u8.php?c=Zee_Action&q=1200&e=junk.m3u8
+http://103.166.253.222/hls/utvaction.m3u8
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Classic.png?raw=true" group-title="movie",Zee Classic
 http://geoiptv.org:8880/77465758/38767690/325190
