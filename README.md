@@ -134,10 +134,10 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_1564.m3u8
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true"  group-title="NEWS",INDIA TV
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+https://pl-indiatvnews.akamaized.net/out/v1/8fe71f599a3a4092970bf21a66e770d8/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Republic_Bharat.png?raw=true" group-title="NEWS",Republic Bharat
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1641666086/ei/xoHZYaPLNInOkgbUsLe4Bw/ip/20.150.150.234/id/9fs7L2rNUEk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCzf1Al83a--j9h4h9SwkVqh1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAILUpfCRMRWnClB6-iMX5gqQr953E1auDo4ezCzANNcqAiBg532HiUtPVM22v4Powia93qSuR1qRY4vSlOdjS4NyUw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649712203/ei/60dUYqvwNJjokgaHzpigCA/ip/20.150.146.62/id/KlKduoBgfJs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC_K7YGE1W1JiD4n7_Zim6kwn/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLjopmlU3nX1m-5pBHvEzg6q1J2F7zsB5RVdA-VdrjyUCIBOimQCXl5fkifCqF9obKWyjVFRBzbsnIrBOVFe2Sc-K/file/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_India.png?raw=true" group-title="NEWS",News18 India 
