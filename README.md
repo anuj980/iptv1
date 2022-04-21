@@ -1,15 +1,17 @@
 #EXTM3U
 
-For latest  movie join your channel   - https://t.me/newmoviebyanuj
+
+#EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus HD
+http://208.86.19.13:81/607.stream/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony 
 https://bit.ly/3fKTNU8seTHd
 
 #EXTINF:-1 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-http://jo123.biz/jweb/m3u8.php?c=Zee_TV_HD&q=1200&e=junk.m3u8
+http://208.86.19.13:81/606.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
-http://jo123.biz/jweb/m3u8.php?c=And_TV_HD&q=1200&e=junk.m3u8
+http://208.86.19.13:81/703.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB_HD.png?raw=true" group-title="entertainment",Sony SAB HD
 https://bit.ly/3fBsABhd
@@ -18,27 +20,12 @@ https://bit.ly/3fBsABhd
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",sonypal
 https://bit.ly/30a3wsONyPal
 
-#EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus 
-http://103.166.253.222/hls/starplus.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus HD
-http://103.166.253.222/hls/starplus.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png"group-title="entertainment", Star Bharat HD
-http://geoiptv.org:8880/77465758/38767690/179085
-
-#EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png"group-title="entertainment", Star Bharat
-http://geoiptv.org:8880/77465758/38767690/179148
-
+http://208.86.19.13:81/721.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD
-http://103.166.253.222/hls/colore-tv-hd.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/big_magic.jpg" group-title="entertainment",BIG Magic
-http://103.159.4.38:8080/MUSIC-1/index.m3u8
-
+http://208.86.19.13:81/605.stream/index.m3u8
 
 #EXTINF:-1   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National1
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
@@ -47,6 +34,15 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 ..................................................................................................................................................................................................................................................
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="music",MTV BEATS HD
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
+
+#EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="music",MTV BEATS HD 2
+http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="music",9X M
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="music",9X Jalwaa
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg" group-title="music",pop pataka
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
@@ -73,23 +69,14 @@ https://live.hungama.com/linear/dhamaal/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="music",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 
-#EXTINF:-1  tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="music",Fastway Ent.
-http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
 
 #EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="music",sakkat
 https://live.hungama.com/linear/sakkat/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="music",9X M
-https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/etc.png" group-title="music",Zee ETC
 http://cv.khushitv.xyz/channels.php?c=etc&e=.m3u8
 
-#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png" group-title="music",Zoom
-http://geoiptv.org:8880/77465758/38767690/326587
-
-#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="music",Zing
-http://geoiptv.org:8880/77465758/38767690/179144
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_my_music.jpg" group-title="music",M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
@@ -107,11 +94,6 @@ http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="music",Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="music",music india
- https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/MKTunes.png" group-title="music",music india
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="music",9x jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
@@ -135,10 +117,6 @@ https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/ind
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true"  group-title="NEWS",INDIA TV
 https://pl-indiatvnews.akamaized.net/out/v1/8fe71f599a3a4092970bf21a66e770d8/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Republic_Bharat.png?raw=true" group-title="NEWS",Republic Bharat
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649712203/ei/60dUYqvwNJjokgaHzpigCA/ip/20.150.146.62/id/KlKduoBgfJs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC_K7YGE1W1JiD4n7_Zim6kwn/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLjopmlU3nX1m-5pBHvEzg6q1J2F7zsB5RVdA-VdrjyUCIBOimQCXl5fkifCqF9obKWyjVFRBzbsnIrBOVFe2Sc-K/file/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_India.png?raw=true" group-title="NEWS",News18 India 
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
@@ -242,11 +220,10 @@ https://bit.ly/32bsOnymAXhd
 http://103.166.253.222/hls/zeecinemahd.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png" group-title="movie",Star Gold HD
-http://103.166.253.222/hls/stargold.m3u8
+http://208.86.19.13:81/709.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
-http://103.166.253.222/hls/andpictures.m3u8
-
+http://208.86.19.13:81/705.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX.png?raw=true" group-title="movie",Sony Max2
 https://bit.ly/2WmsoNYYaY
@@ -262,10 +239,10 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 http://jo123.biz/jweb/m3u8.php?c=Zing&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/big_magic.jpg" group-title="movie",action
-http://103.166.253.222/hls/utvaction.m3u8
+http://208.86.19.13:81/728.stream/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Classic.png?raw=true" group-title="movie",Zee Classic
-http://geoiptv.org:8880/77465758/38767690/325190
+http://208.86.19.13:81/701.stream/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/11401_ZeeAnmolCinema1.jpg" group-title="movie",ZEE ANMOL CINEMA
