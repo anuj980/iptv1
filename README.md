@@ -220,7 +220,7 @@ https://bit.ly/32bsOnymAXhd
 http://103.166.253.222/hls/zeecinemahd.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png" group-title="movie",Star Gold HD
-http://208.86.19.13:81/709.stream/index.m3u8
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
 http://208.86.19.13:81/705.stream/index.m3u8
@@ -249,7 +249,7 @@ http://208.86.19.13:81/701.stream/index.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Zee_Anmol_Cinema&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/B4U_Movies.png?raw=true" group-title="movie",B4U Movies
-http://14.199.164.20:4001/play/a0wj/index.m3u8
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/b4u_plus_ae.jpg" group-title="movie", B4U PLUS
 http://geoiptv.org:8880/77465758/38767690/98862
@@ -261,7 +261,13 @@ https://m-c049-j2apps.s.llnwi.net/hls/4704.HousefullAction.in_480p/index.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/is1/media/images/6523.BOXCinema.in/1x1/english movie_pic1561284881697.jpg" group-title="movie",BOX CINEMA
-https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
+http://14.199.164.20:4001/play/a0su/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Dhinchaak_2_logo_2022.jpg" group-title="movie",DHINCHAAK
+http://14.199.164.20:4001/play/a0o5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Dhinchaak_2_logo_2022.jpg" group-title="movie",DHINCHAAK 2
+http://14.199.164.20:4001/play/a0tm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_275,w_275/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11613-j9k01cbs-v1/imageContent-11613-j9k01cbs-m1.png" group-title="movie",MULTIPLEX
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
@@ -418,7 +424,7 @@ https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Yay_Hindi.png?raw=true" group-title="kids",udptest
-udp://@225.2.1.1:1234
+	https://z5ak-live.zee5.com/out/v1/81b68c3858bf4481ad93679fd4253cf6/hdntl=exp=1650831363~acl=%2f*~data=hdntl~hmac=fb7ae8b5b90e7e35ee082ad4efb1636f0b1991fe75fb2d604a384a776b6b4632/index_37.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hungama.jpg" group-title="kids",test2
 udp://225.2.1.1:1234
