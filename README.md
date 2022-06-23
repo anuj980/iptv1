@@ -115,6 +115,11 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_News.png?raw=true" group-title="NEWS",Zee News
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 
+
+#EXTINF:-1 tvg-logo="[https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_News.png?raw=true](https://static.wikia.nocookie.net/logopedia/images/a/a4/Times_Now_Navbharat_2022.png/revision/latest?cb=20220503072537)" group-title="NEWS",Times Now Navbharat
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1656029948/ei/nK60YsK9JdvHkgaa4i8/ip/20.59.110.130/id/H5Av4dSe3fo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCzrl0t0fkKx4cm3TB-TRBKayK3E/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgRXRllAFXhiRpmSYWsuy87MTnQ031JWzVx6tN4DmzZ8wCIAjiMrhkwJp2IDUtlJGHWmpeCzt8Vx51W-dIfNi1opdn/file/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true"  group-title="NEWS",INDIA TV
 https://pl-indiatvnews.akamaized.net/out/v1/8fe71f599a3a4092970bf21a66e770d8/index_1.m3u8
 
