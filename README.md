@@ -117,20 +117,21 @@ https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/ind
 
 
 #EXTINF:-1 tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BhqEkV8c.png" group-title="NEWS",Times Now Navbharat
-https://m-c04-j2apps.s.llnwi.net/hls/8075.timesnownavbharat.in.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659133366/ei/VQnkYtG5N5P5hgbS8rGwCw/ip/20.25.122.137/id/C6iXHJYAnSY.1/source/yt_live_broadcast/requiressl/yes/tx/24222793/txs/24222793%2C24222794%2C24222795%2C24222796%2C24222797/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhvynYiKFq3G_ao9yMt5swKH7quY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANXsYcuDMk9csSRcd6czKJ0TmGIyhQgiMmyLHWMJRofyAiEA1Awj9-ub87TwXvzcIT9V7FdANIStzSxlZjHPX7kBA5A%3D/file/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true"  group-title="NEWS",INDIA TV
-https://pl-indiatvnews.akamaized.net/out/v1/8fe71f599a3a4092970bf21a66e770d8/index_1.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659133365/ei/VQnkYrKGHpOf8wTC6rbAAg/ip/20.25.122.137/id/Rm5EfgiF-Ag.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhswZsu2zc2okCzIjYNcfWRqmwaw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgKzAG4NoqvPVJdmuMwXU1_msqm5rX7vuzMhWQbhGLdEMCIQDVaP55FrZN0SgYejYH7kOUI7Y0u5984ET6Jl8sV0j3XA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_India.png?raw=true" group-title="NEWS",News18 India 
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659133397/ei/dQnkYvvuDcrOgwOeloCYDQ/ip/20.25.122.137/id/NpHctHIQHdM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khg7ka3kBKcIs7Wlo0NnWjdBHsEY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALJVk4u6k44Vsqr9xxRVJ3fqAKo_J5xyRxvXVmMQm3tLAiAFRUCZSwrC2KTeTZP8s4Fha_WDOjTa1YO9ga5LTOo5Dg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_UP.png?raw=true" group-title="NEWS",NEWS18 UP
-https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_5_av-p.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659133394/ei/cgnkYtO0JIvl8wSCzZzgDg/ip/20.25.122.137/id/uLIaAW27W4U.1/source/yt_live_broadcast/requiressl/yes/tx/24214266/txs/24214266%2C24214267/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khl-1nMtIexJEaSUPnjdOIWgRYGA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgTzVxIvvheF65tQn_7egOwAax7Ar8XRYO3etiLuNdaO0CIQDvByle_E34EGxA4FCy7re2_FqH25M-sGAFg036Bqhh_Q%3D%3D/file/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News_Nation.png?raw=true" group-title="NEWS",News nation 
-https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659133377/ei/YQnkYq6eFsy58wSagpfoCA/ip/20.25.122.137/id/LMsdOcG8-0k.2/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhtKbvXm5CNnDFO9hg2G-cedzuGU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgL5FrLblDz1AX_ONFh_cZivTGRKzGeoPjnm0wGAMczfYCIAPCnIw0vtNaBlrVEP_LXeOhVQuu8p9KSRX0d2U1GVup/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Bharat_Samachar_Logo.jpg" group-title="NEWS",bharatsamachar
 https://idvd.multitvsolution.com/idvo/bharatsamachar_540p/index.m3u8
@@ -327,7 +328,7 @@ https://bit.ly/2OwtEn3hd
 https://bit.ly/3h6sIXHd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",ind icc
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/58PTueFMJJ7N432d__Gsr43WJdMFtJKmANOvp6aHFvxcTYATUnd1Bn5q9onfSDCGv-CQzDX5A1HNdUyFaPTsjA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live@LiveCricket_Links_Official
+https://livehin.fancode.com/hls/live/2093039/686hindi49749ta-di/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 
 http://103.17.201.18:8000/play/a00v/index.m3u8
