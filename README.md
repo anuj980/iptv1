@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus HD
-http://103.55.144.46:80/hls/starplus.m3u8
+http://satelliteiptv.xyz:8080/b8nx4swgse/fdcnkvs5x9/672450
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony 
 https://bit.ly/3fKTNU8seTHd
