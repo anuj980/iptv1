@@ -2,13 +2,13 @@
 
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus HHD
-http://satelliteiptv.xyz:8080/b8nx4swgse/fdcnkvs5x9/672450
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony 
 https://bit.ly/3fKTNU8seTHd
 
 #EXTINF:-1 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-http://satelliteiptv.xyz:8080/b8nx4swgse/fdcnkvs5x9/672459
+http://stream.asdd.cc:9191/zee-tv-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
 http://satelliteiptv.xyz:8080/b8nx4swgse/fdcnkvs5x9/672296
