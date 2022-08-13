@@ -4,6 +4,9 @@
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus HHD
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg"  group-title="entertainment",UTV HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony 
 https://bit.ly/3fKTNU8seTHd
 
