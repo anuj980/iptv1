@@ -117,11 +117,11 @@ https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/ind
 
 
 #EXTINF:-1 tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BhqEkV8c.png" group-title="NEWS",Times Now Navbharat
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659133366/ei/VQnkYtG5N5P5hgbS8rGwCw/ip/20.25.122.137/id/C6iXHJYAnSY.1/source/yt_live_broadcast/requiressl/yes/tx/24222793/txs/24222793%2C24222794%2C24222795%2C24222796%2C24222797/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhvynYiKFq3G_ao9yMt5swKH7quY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANXsYcuDMk9csSRcd6czKJ0TmGIyhQgiMmyLHWMJRofyAiEA1Awj9-ub87TwXvzcIT9V7FdANIStzSxlZjHPX7kBA5A%3D/file/index.m3u8
+https://dai.google.com/linear/hls/pb/event/nRWQsGoJSzmcErJFgAy67g/stream/697dba95-5a99-46c7-b507-aaef83d239ec:SIN/variant/e8404bdc8b34393c618fb9057c333b97/bandwidth/1328000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true"  group-title="NEWS",INDIA TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659133365/ei/VQnkYrKGHpOf8wTC6rbAAg/ip/20.25.122.137/id/Rm5EfgiF-Ag.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhswZsu2zc2okCzIjYNcfWRqmwaw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgKzAG4NoqvPVJdmuMwXU1_msqm5rX7vuzMhWQbhGLdEMCIQDVaP55FrZN0SgYejYH7kOUI7Y0u5984ET6Jl8sV0j3XA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true"  group-title="NEWS",INDIA TV(cdn)
+https://nayeemparvez.chadasaniya.ml//zioxtv.php?id=235&q=250&e=.m3u8?e=1658317957&st=GJFc8v_-3TKvkYx7u0IcNp
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Delhi_Aaj_Tak.png?raw=true" group-title="NEWS",GNT 
 https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_3/chunklist.m3u8
