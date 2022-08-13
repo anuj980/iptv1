@@ -121,20 +121,20 @@ https://dai.google.com/linear/hls/pb/event/nRWQsGoJSzmcErJFgAy67g/stream/697dba9
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true"  group-title="NEWS",INDIA TV(cdn)
-https://nayeemparvez.chadasaniya.ml//zioxtv.php?id=235&q=250&e=.m3u8?e=1658317957&st=GJFc8v_-3TKvkYx7u0IcNp
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660432090/ei/etr3YtvhCMfzkgaki56wBg/ip/20.14.101.123/id/9VLPEIiVJ-s.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhgpysqcLMMAOLILZK6jsL0tAPO8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgflirATd-xrfVKBn8r59k4_uPRubzXMs33z1LIoNIoVkCIQDt-F-So_Oo-qde3cFEqkPjUTJeWoD5xhAGz8l61cfjQQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Delhi_Aaj_Tak.png?raw=true" group-title="NEWS",GNT 
 https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_3/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_India.png?raw=true" group-title="NEWS",News18 India 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659133397/ei/dQnkYvvuDcrOgwOeloCYDQ/ip/20.25.122.137/id/NpHctHIQHdM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khg7ka3kBKcIs7Wlo0NnWjdBHsEY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALJVk4u6k44Vsqr9xxRVJ3fqAKo_J5xyRxvXVmMQm3tLAiAFRUCZSwrC2KTeTZP8s4Fha_WDOjTa1YO9ga5LTOo5Dg%3D%3D/file/index.m3u8
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=560800.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_UP.png?raw=true" group-title="NEWS",NEWS18 UP
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659133394/ei/cgnkYtO0JIvl8wSCzZzgDg/ip/20.25.122.137/id/uLIaAW27W4U.1/source/yt_live_broadcast/requiressl/yes/tx/24214266/txs/24214266%2C24214267/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khl-1nMtIexJEaSUPnjdOIWgRYGA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgTzVxIvvheF65tQn_7egOwAax7Ar8XRYO3etiLuNdaO0CIQDvByle_E34EGxA4FCy7re2_FqH25M-sGAFg036Bqhh_Q%3D%3D/file/index.m3u8
+https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News18_UP_Uttarakhand_NW18_MOB-audio_98835_hin=98800-video=560800.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News_Nation.png?raw=true" group-title="NEWS",News nation 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659133377/ei/YQnkYq6eFsy58wSagpfoCA/ip/20.25.122.137/id/LMsdOcG8-0k.2/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhtKbvXm5CNnDFO9hg2G-cedzuGU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgL5FrLblDz1AX_ONFh_cZivTGRKzGeoPjnm0wGAMczfYCIAPCnIw0vtNaBlrVEP_LXeOhVQuu8p9KSRX0d2U1GVup/file/index.m3u8
+https://stream-03.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZcgr6GJRLkgM5Mad_e4JZlgoXbB0wuqadKKA3glJIjUe)/dm/3/x7t0g3i/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Bharat_Samachar_Logo.jpg" group-title="NEWS",bharatsamachar
 https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8
@@ -144,7 +144,7 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_3
 
 
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-171/list/386x386/09171newsstateuttarpradesh.png" group-title="NEWS",News State Uttar Pradesh
-https://stream-04.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZecFk0zMuyZHFST5TSHm3Qyc-JmdUmHYOWs7zvGgHyMe)/dm/3/x7t5r1g/s/live-2.m3u8#cell=lsg1
+https://stream-03.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZWbxr5qt0vKJQJ3CyrGt3IlgULVH4XFUE8VIID6ya6ju)/dm/3/x7t5r1g/s/live-2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/TV9_Maharashtra.png?raw=true" group-title="NEWS",TV9 Bharatvarsh
@@ -194,7 +194,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvstar.cc:8880/chimg/6210121989.png" group-title="NEWS", Times Now
-http://geoiptv.org:8880/77465758/38767690/325254
+https://dai.google.com/linear/hls/pb/event/1mR1QUQ3Tg-VuKfiyjwNuA/stream/a7d70ae5-fd1f-4d18-a844-d23fddec45a4:SIN2/variant/065ba5be8ed1741803d63d7bfb72f592/bandwidth/1693000.m3u8
 
 
 
