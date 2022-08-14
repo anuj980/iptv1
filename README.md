@@ -120,11 +120,12 @@ https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/ind
 
 
 #EXTINF:-1 tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BhqEkV8c.png" group-title="NEWS",Times Now Navbharat
-https://dai.google.com/linear/hls/pb/event/nRWQsGoJSzmcErJFgAy67g/stream/697dba95-5a99-46c7-b507-aaef83d239ec:SIN/variant/e8404bdc8b34393c618fb9057c333b97/bandwidth/1328000.m3u8
+https://dai.google.com/linear/hls/pb/event/nRWQsGoJSzmcErJFgAy67g/stream/223a4b82-7623-4c6d-bd3b-9a667dacd0af:SIN/variant/e8404bdc8b34393c618fb9057c333b97/bandwidth/1328000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true"  group-title="NEWS",INDIA TV(cdn)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660432090/ei/etr3YtvhCMfzkgaki56wBg/ip/20.14.101.123/id/9VLPEIiVJ-s.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhgpysqcLMMAOLILZK6jsL0tAPO8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgflirATd-xrfVKBn8r59k4_uPRubzXMs33z1LIoNIoVkCIQDt-F-So_Oo-qde3cFEqkPjUTJeWoD5xhAGz8l61cfjQQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660515552/ei/gCD5Yoa-D5KtkgbwrbyYAQ/ip/20.163.103.104/id/4JgqhfirnnI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khqocz3XvrYdR4cTU7EPIz52SmlI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAP1DLCemjcvfiT0BBXfBq_WT_dxOVGtxcFRmkyjYFmOcAiB3QcL789EOYeG59x1FYEueMv5leWpb830bnnozGyZtFQ%3D%3D/file/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Delhi_Aaj_Tak.png?raw=true" group-title="NEWS",GNT 
 https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_3/chunklist.m3u8
