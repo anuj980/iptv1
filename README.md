@@ -118,17 +118,11 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_News.png?raw=true" group-title="NEWS",Zee News
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BhqEkV8c.png" group-title="NEWS",Times Now Navbharat
-https://dai.google.com/linear/hls/pb/event/nRWQsGoJSzmcErJFgAy67g/stream/223a4b82-7623-4c6d-bd3b-9a667dacd0af:SIN/variant/e8404bdc8b34393c618fb9057c333b97/bandwidth/1328000.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true"  group-title="NEWS",INDIA TV(cdn)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660515552/ei/gCD5Yoa-D5KtkgbwrbyYAQ/ip/20.163.103.104/id/4JgqhfirnnI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khqocz3XvrYdR4cTU7EPIz52SmlI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAP1DLCemjcvfiT0BBXfBq_WT_dxOVGtxcFRmkyjYFmOcAiB3QcL789EOYeG59x1FYEueMv5leWpb830bnnozGyZtFQ%3D%3D/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/IndiaTV/live
 
-
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Delhi_Aaj_Tak.png?raw=true" group-title="NEWS",GNT 
-https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_3/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0fFuH3n.png"  group-title="NEWS",REPUBLIC TV
+https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republicbharat-samsungindia/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_India.png?raw=true" group-title="NEWS",News18 India 
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=560800.m3u8
@@ -144,11 +138,11 @@ https://stream-03.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZcgr6GJRLkgM5Mad_e
 https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Aaj_Tak_HD.png?raw=true" group-title="NEWS",aajtaak 
-https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_3/chunklist.m3u8
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-171/list/386x386/09171newsstateuttarpradesh.png" group-title="NEWS",News State Uttar Pradesh
-https://stream-03.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZWbxr5qt0vKJQJ3CyrGt3IlgULVH4XFUE8VIID6ya6ju)/dm/3/x7t5r1g/s/live-2.m3u8
+https://stream-03.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZaI-Os2UgBSKFk1aWI-gRjP5Xqji585LIjkDdBmMLor1)/dm/3/x7t5r1g/s/live-2.m3u8#cell=lsg1
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/TV9_Maharashtra.png?raw=true" group-title="NEWS",TV9 Bharatvarsh
@@ -276,7 +270,7 @@ http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 http://181.78.10.235:58002/play/a0bx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="english movie",Star movies HD
-http://103.55.144.46/hls/starmovies.m3u8
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:ab:98:86&stream=136629&extension=ts&play_token=I0DMNLsHGF
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Pix_HD.png?raw=true" group-title="english movie",Sony_Pix_HD
 https://bit.ly/32sOnypIXhd
@@ -304,7 +298,7 @@ https://bit.ly/3h6sIXHd
 https://livehin.fancode.com/hls/live/2093039/686hindi49749ta-di/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 
-http://103.17.201.18:8000/play/a00v/index.m3u8
+http://103.179.246.243:8000/play/a026
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_Sports.png?raw=true" group-title="sports",DD Sports
