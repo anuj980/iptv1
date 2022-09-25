@@ -295,7 +295,10 @@ https://bit.ly/2OwtEn3hd
 https://bit.ly/3h6sIXHd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",ind icc
-https://livehin.fancode.com/hls/live/2093039/686hindi49749ta-di/master.m3u8
+https://3uog.short.gy/BJ_SPECIAL_LIVE_EVENTS.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",ind 2nd
+https://3uog.short.gy/Live_events.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_1.png?raw=true" group-title="sports",star sport 1 
 http://103.179.246.243:8000/play/a026
