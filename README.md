@@ -115,29 +115,26 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_News.png?raw=true" group-title="NEWS",Zee News
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true"  group-title="NEWS",INDIA TV(cdn)
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/TV9_Maharashtra.png?raw=true" group-title="NEWS",TV9 Bharatvarsh
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0fFuH3n.png"  group-title="NEWS",REPUBLIC TV
+https://ottrb12.republicworld.com/httppush/ottrb_republic_hindi/chunklist_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/120207-logomain.jpg"  group-title="NEWS",Times Now Navbharat
+https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Bharat_Samachar_Logo.jpg" group-title="NEWS",bharatsamachar
 https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News_Nation.png?raw=true" group-title="NEWS",News nation 
-https://stream-03.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZeJIKdk7Y8r5waIgsY3R_mZYw75xf5Hy5wpAURnG5fZ)/dm/3/x7t0g3i/s/live-2.m3u8#cell=lsg1
+https://d75dqofg5kmfk.cloudfront.net:443/bpk-tv/Newsnation/default/newsnation-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_India.png?raw=true" group-title="NEWS",News18 India 
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=560800.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" group-title="NEWS",Times Now HD
-https://dai.google.com/linear/hls/pb/event/nRWQsGoJSzmcErJFgAy67g/stream/67288038-30cf-486a-9825-fe536232462f:TPE/variant/e8404bdc8b34393c618fb9057c333b97/bandwidth/1328000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/ET_Now.png?raw=true" group-title="NEWS",ET NOW
-https://dai.google.com/linear/hls/pb/event/Pj6A7e21SN64xv6g4sssCA/stream/2ef97fdb-a88e-4bc9-af50-2345003ea8c4:SIN/variant/7fb791f7d4753a1a1e44ce71a6504020/bandwidth/696000.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true"  group-title="NEWS",INDIA TV(cdn)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1672175880/ei/qAyrY5G-F5q8igTu87H4DQ/ip/13.66.72.35/id/Xmm3Kr5P1Uw.19/source/yt_live_broadcast/requiressl/yes/tx/24425331/txs/24425329%2C24425330%2C24425331%2C24425332%2C24425333%2C24425334%2C24425335/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPsolJXKRFrv_iqtAXfoD1sT-gVyGWC7pHD3yOCShvg0CIB4VRdTBv6Jc68ESXaby_2ltUCD57bLgFy07m17GPWfu/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0fFuH3n.png"  group-title="NEWS",REPUBLIC TV
-https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republicbharat-samsungindia/CDN/playlist.m3u8
 
 
 
@@ -154,10 +151,6 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-171/list/386x386/09171newsstateuttarpradesh.png" group-title="NEWS",News State Uttar Pradesh
 https://stream-02.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZeklHXCn_Vx6STjebDcfQ3irAKQHZZsl-aM2Kmke5q0w)/dm/3/x7t5r1g/s/live-2.m3u8#cell=lsg1
 
-
-
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/TV9_Maharashtra.png?raw=true" group-title="NEWS",TV9 Bharatvarsh
-https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_360p/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://sudarshannews.in/wp-content/uploads/2018/09/logo.jpg" group-title="NEWS",SUDARSHAN news
