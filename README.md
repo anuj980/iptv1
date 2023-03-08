@@ -26,7 +26,7 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD
-http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
+http://starshare.org:8080/live/gxc733/sxk877/219.m3u8
 
 #EXTINF:-1   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National1
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
@@ -199,10 +199,10 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
-http://180.178.188.152:8000/play/a00z
+http://50.7.69.66/ZEECINEMAHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png" group-title="movie",Star Gold HD
-http://180.178.188.152:8000/play/a012
+#EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png" group-title="movie",UTV
+http://50.7.69.66/UTV_MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png" group-title="movie",Star Gold SELECT HD
 http://180.178.188.152:8000/play/a014
