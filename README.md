@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus HHD
-http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+http://xtv.ooo:8080/Rizwan335/2217286/66166
 
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony 
@@ -30,6 +30,9 @@ http://starshare.org:8080/live/gxc733/sxk877/219.m3u8
 
 #EXTINF:-1   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National1
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://logos.fandom.com/wiki/Hungama" group-title="entertainment",HUNGAMA
+http://humiptv.live:8080/live/27374757/27374757/18456.ts
 
 
 ..................................................................................................................................................................................................................................................
@@ -113,7 +116,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_News.png?raw=true" group-title="NEWS",Zee News
-https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
+8/*https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true"  group-title="NEWS",INDIA TV(cdn)
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
