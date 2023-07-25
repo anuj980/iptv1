@@ -9,7 +9,7 @@ http://xtv.ooo:8080/Rizwan335/2217286/66166
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
 
 #EXTINF:-1 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-http://stream.asdd.cc:9191/zee-tv-hd/index.m3u8
+http://watchindia.net:8880/live/98207/59861/1970.ts
 
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
 http://180.178.188.152:8000/play/a01u
@@ -26,7 +26,7 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD
-http://starshare.org:8080/live/gxc733/sxk877/219.m3u8
+http://watchindia.net:8880/live/98207/59861/801.ts
 
 #EXTINF:-1   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National1
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
@@ -37,7 +37,7 @@ http://humiptv.live:8080/live/27374757/27374757/18456.ts
 
 ..................................................................................................................................................................................................................................................
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="music",MTV india
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/825.ts
+http://watchindia.net:8880/live/98207/59861/842.ts
 
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="music",MTV HD
 https://tv.freeseries.eu.org/live.php?c=MTV_HD_Plus&q=800&e=.m3u8
@@ -116,7 +116,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_News.png?raw=true" group-title="NEWS",Zee News
-8/*https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+http://watchindia.net:8880/live/98207/59861/832.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true"  group-title="NEWS",INDIA TV(cdn)
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
@@ -202,7 +202,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
-http://50.7.69.66/ZEECINEMAHD/index.m3u8
+http://watchindia.net:8880/live/98207/59861/787.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png" group-title="movie",UTV
 http://50.7.69.66/UTV_MOVIES/index.m3u8
@@ -227,7 +227,7 @@ http://208.86.19.13:81/634.stream/index.m3u8
 http://208.86.19.13:81/7288.stream/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Classic.png?raw=true" group-title="movie",Zee Classic
-http://208.86.19.13:81/7011.stream/index.m3u8
+http://watchindia.net:8880/live/98207/59861/821.ts
 
 
 #EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/11401_ZeeAnmolCinema1.jpg" group-title="movie",STAR GLD 2
