@@ -204,14 +204,14 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
 http://watchindia.net:8880/live/98207/59861/787.ts
 
-#EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png" group-title="movie",UTV
-http://50.7.69.66/UTV_MOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png" group-title="movie",star GOLD HD
+http://iptvtree.net:8080/exdarksacam2020/RRrIqbAI99J5db4rxccngHNivRtR8TQz/1070
 
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png" group-title="movie",Star Gold SELECT HD
-http://180.178.188.152:8000/play/a014
+http://iptvtree.net:8080/exdarksacam2020/RRrIqbAI99J5db4rxccngHNivRtR8TQz/43919
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
-http://180.178.188.152:8000/play/a017
+http://iptvtree.net:8080/exdarksacam2020/RRrIqbAI99J5db4rxccngHNivRtR8TQz/16958
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX.png?raw=true" group-title="movie",Sony Max2
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
@@ -221,32 +221,22 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors_Infinity.png?raw=true" group-title="movie",zing
-http://208.86.19.13:81/634.stream/index.m3u8
+http://iptvtree.net:8080/exdarksacam2020/RRrIqbAI99J5db4rxccngHNivRtR8TQz/1347
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/big_magic.jpg" group-title="movie",action
-http://208.86.19.13:81/7288.stream/index.m3u8
+http://iptvtree.net:8080/exdarksacam2020/RRrIqbAI99J5db4rxccngHNivRtR8TQz/1353
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Classic.png?raw=true" group-title="movie",Zee Classic
-http://watchindia.net:8880/live/98207/59861/821.ts
+http://iptvtree.net:8080/exdarksacam2020/RRrIqbAI99J5db4rxccngHNivRtR8TQz/21578
 
 
-#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/11401_ZeeAnmolCinema1.jpg" group-title="movie",STAR GLD 2
-http://180.178.188.152:8000/play/a01q
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/B4U_Movies.png?raw=true" group-title="movie",SONY MAX 2
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/b4u_plus_ae.jpg" group-title="movie", B4U PLUS
-https://tv.freeseries.eu.org/live.php?c=B4U_Music&q=1200&e=.m3u8
+http://iptvtree.net:8080/exdarksacam2020/RRrIqbAI99J5db4rxccngHNivRtR8TQz/71071
 
-#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/is1/media/images/6523.BOXCinema.in/1x1/english movie_pic1561284881697.jpg" group-title="movie",BOX CINEMA
-http://14.199.164.20:4001/play/a0su/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Dhinchaak_2_logo_2022.jpg" group-title="movie",DHINCHAAK
-http://14.199.164.20:4001/play/a0o5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Dhinchaak_2_logo_2022.jpg" group-title="movie",DHINCHAAK 2
-http://14.199.164.20:4001/play/a0tm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_275,w_275/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11613-j9k01cbs-v1/imageContent-11613-j9k01cbs-m1.png" group-title="movie",MULTIPLEX
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
