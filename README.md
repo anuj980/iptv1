@@ -32,7 +32,7 @@ http://watchindia.net:8880/live/98207/59861/801.ts
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
 #EXTINF:-1   tvg-logo="https://logos.fandom.com/wiki/Hungama" group-title="entertainment",HUNGAMA
-http://humiptv.live:8080/live/27374757/27374757/18456.ts
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd
 
 
 ..................................................................................................................................................................................................................................................
