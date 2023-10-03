@@ -116,13 +116,13 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_News.png?raw=true" group-title="NEWS",Zee News
-http://watchindia.net:8880/live/98207/59861/832.ts
+http://iptvtree.net:8080/live/F16446/53833304/5047.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true"  group-title="NEWS",INDIA TV(cdn)
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/TV9_Maharashtra.png?raw=true" group-title="NEWS",TV9 Bharatvarsh
-https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_360p/chunks.m3u8
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0fFuH3n.png"  group-title="NEWS",REPUBLIC TV
 https://ottrb12.republicworld.com/httppush/ottrb_republic_hindi/chunklist_4.m3u8
@@ -131,36 +131,19 @@ https://ottrb12.republicworld.com/httppush/ottrb_republic_hindi/chunklist_4.m3u8
 https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Bharat_Samachar_Logo.jpg" group-title="NEWS",bharatsamachar
-https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8
+https://dai.google.com/linear/hls/pb/event/RDtRdeJUTfuRKDtZcZfZew/stream/e7f91859-984e-46bc-9c97-289e6dfd4e75:SIN2/variant/9ea09de9f1c09fc5967ee82cab7ef7e4/bandwidth/2736800.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News_Nation.png?raw=true" group-title="NEWS",News nation 
 https://d75dqofg5kmfk.cloudfront.net:443/bpk-tv/Newsnation/default/newsnation-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_India.png?raw=true" group-title="NEWS",News18 India 
-https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=560800.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_UP.png?raw=true" group-title="NEWS",NEWS18 UP
-https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News18_UP_Uttarakhand_NW18_MOB-audio_98835_eng=98800-video=699600.m3u8
-
-
-
+	https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_131636_eng=131600-video=3110800.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Aaj_Tak_HD.png?raw=true" group-title="NEWS",aajtaak 
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-171/list/386x386/09171newsstateuttarpradesh.png" group-title="NEWS",News State Uttar Pradesh
-https://stream-02.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZeklHXCn_Vx6STjebDcfQ3irAKQHZZsl-aM2Kmke5q0w)/dm/3/x7t5r1g/s/live-2.m3u8#cell=lsg1
-
-
-
 #EXTINF:-1 tvg-logo="http://sudarshannews.in/wp-content/uploads/2018/09/logo.jpg" group-title="NEWS",SUDARSHAN news
-https://stream.imagetv.in/hls6/sudarshantv/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News_24.png?raw=true" group-title="NEWS",News 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+https://ott.livelegitpro.in/pusa/sudarshantv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv-today-aaj-tak-tez-logo.jpg" group-title="NEWS",Aaj Tak Tej
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
@@ -188,9 +171,6 @@ https://d3neuepii3rf1i.cloudfront.net/v1/manifest/8fe6b38eb3580727128fa5d6759fbc
 #EXTINF:-1 tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="NEWS",Aljazeera News
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/BBC_World_News.png?raw=true" group-title="NEWS",BBC
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-
 
 
 
@@ -202,16 +182,16 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png?raw=true" group-title="movie",Zee Cinema HD
-http://watchindia.net:8880/live/98207/59861/787.ts
+http://iptvtree.net:8080/live/F16446/53833304/1350.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png" group-title="movie",star GOLD HD
-http://iptvtree.net:8080/exdarksacam2020/RRrIqbAI99J5db4rxccngHNivRtR8TQz/1070
+http://iptvtree.net:8080/live/F16446/53833304/1070.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png" group-title="movie",Star Gold SELECT HD
-http://iptvtree.net:8080/exdarksacam2020/RRrIqbAI99J5db4rxccngHNivRtR8TQz/43919
+http://iptvtree.net:8080/live/F16446/53833304/297547.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png?raw=true" group-title="movie",And Pictures hd
-http://iptvtree.net:8080/exdarksacam2020/RRrIqbAI99J5db4rxccngHNivRtR8TQz/16958
+http://iptvtree.net:8080/live/F16446/53833304/16958.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_MAX.png?raw=true" group-title="movie",Sony Max2
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
@@ -221,25 +201,22 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors_Infinity.png?raw=true" group-title="movie",zing
-http://iptvtree.net:8080/exdarksacam2020/RRrIqbAI99J5db4rxccngHNivRtR8TQz/1347
+http://iptvtree.net:8080/live/F16446/53833304/1347.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/big_magic.jpg" group-title="movie",action
-http://iptvtree.net:8080/exdarksacam2020/RRrIqbAI99J5db4rxccngHNivRtR8TQz/1353
+http://iptvtree.net:8080/live/F16446/53833304/1353.m3u8
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Classic.png?raw=true" group-title="movie",Zee Classic
-http://iptvtree.net:8080/exdarksacam2020/RRrIqbAI99J5db4rxccngHNivRtR8TQz/21578
-
-
+http://iptvtree.net:8080/live/F16446/53833304/21578.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/B4U_Movies.png?raw=true" group-title="movie",SONY MAX 2
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/b4u_plus_ae.jpg" group-title="movie", B4U PLUS
-http://iptvtree.net:8080/exdarksacam2020/RRrIqbAI99J5db4rxccngHNivRtR8TQz/71071
-
+http://iptvtree.net:8080/live/F16446/53833304/1369.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_275,w_275/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11613-j9k01cbs-v1/imageContent-11613-j9k01cbs-m1.png" group-title="movie",MULTIPLEX
-https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
+http://iptvtree.net:8080/live/F16446/53833304/49556.m3u8
 
 
 
@@ -248,22 +225,19 @@ https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="english movie",sony pix HD
-https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+http://iptvtree.net:8080/live/F16446/53833304/49539.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/mML3WAl.png"  group-title="english movie",MOVIES NOW HD
-http://appleiptv.com:80/7863/7863/42967
+http://iptvtree.net:8080/live/F16446/53833304/169118.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/iA4v1yN.png" group-title="english movie",MN+ HD
 http://103.55.144.46/hls/mn+.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png" group-title="english movie",UTV ACTION SD
-https://liveaneviadev.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/HBO_HD.png?raw=true" group-title="english movie",HBO SD
 https://liveaneviadev.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="english movie",Star movies HD
-http://190.83.119.67:8000/play/a0si/index.m3u8
+http://iptvtree.net:8080/live/F16446/53833304/11511.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Pix_HD.png?raw=true" group-title="english movie",Sony_Pix_HD
 https://bit.ly/32sOnypIXhd
@@ -307,14 +281,14 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.
 
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_turbo_ru.jpg"  group-title="earth",BBC Earth HD
-https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+http://iptvtree.net:8080/live/F16446/53833304/192995.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-32C279A19D-seeklogo.com.png"  group-title="earth",discovery
-http://190.83.119.67:8000/play/a0tc/index.m3u8
+http://iptvtree.net:8080/live/F16446/53833304/295292.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Animal_Planet_HD_World.png?raw=true"  group-title="earth",animal planet
-http://190.83.119.67:8000/play/a0sb/index.m3u8
+http://iptvtree.net:8080/live/F16446/53833304/296266.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_eur_hd.jpg"  group-title="earth",National Geographic
 http://iptv.prosto.tv:7000/ch83/video.m3u8
