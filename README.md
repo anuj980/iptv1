@@ -23,7 +23,7 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png"group-title="entertainment", Star Bharat HD
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/284583
+http://op.web24.live:8080/jtinyn2024/J@tiny@2024/36821
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD
 http://watchindia.net:8880/live/98207/59861/801.ts
