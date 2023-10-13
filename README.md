@@ -1,18 +1,18 @@
 #EXTM3U
 
 
-#EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus HHD
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/16091
+#EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true"  group-title="entertainment",Star Plus HD
+http://195.26.87.217:80/live.ts?channelId=12357&uid=12374&deviceMac=00:1A:79:2E:F0:59
 
 
 #EXTINF:-1  tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony 
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
 
 #EXTINF:-1 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1348
+http://195.26.87.217:80/live.ts?channelId=217&uid=12374&deviceMac=00:1A:79:2E:F0:59
 
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/16964
+http://195.26.87.217:80/live.ts?channelId=140&uid=12374&deviceMac=00:1A:79:2E:F0:59
 
 #EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB_HD.png?raw=true" group-title="entertainment",Sony SAB HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
@@ -23,10 +23,10 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png"group-title="entertainment", Star Bharat HD
-http://op.web24.live:8080/jtinyn2024/J@tiny@2024/36821
+http://195.26.87.217:80/live.ts?channelId=195&uid=12374&deviceMac=00:1A:79:2E:F0:59
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD
-http://watchindia.net:8880/live/98207/59861/801.ts
+http://195.26.87.217:80/live.ts?channelId=160&uid=12374&deviceMac=00:1A:79:2E:F0:59
 
 #EXTINF:-1   tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National1
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
@@ -36,8 +36,8 @@ https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifes
 
 
 ..................................................................................................................................................................................................................................................
-#EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="music",MTV india
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/193647
+#EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="music",MTV 80s
+http://195.26.87.217:80/live.ts?channelId=4233&uid=12374&deviceMac=00:1A:79:2E:F0:59
 
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="music",MTV HD
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/4736
